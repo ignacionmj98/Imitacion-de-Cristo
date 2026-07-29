@@ -52,3 +52,119 @@
   border-color: var(--accent);
   color: var(--accent);
 }
+
+.meditacion-fab {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  font-family: var(--sans);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 14px 22px;
+  border-radius: 999px;
+  border: none;
+  background: var(--accent);
+  color: var(--bg);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+  cursor: pointer;
+}
+
+.meditacion-panel {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 18px 20px;
+  border-radius: 16px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  font-family: var(--sans);
+  min-width: 180px;
+}
+
+.meditacion-panel p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--text-h);
+  text-align: center;
+}
+
+.meditacion-opciones {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.meditacion-opciones button {
+  font-family: var(--sans);
+  font-size: 13px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-h);
+  cursor: pointer;
+}
+
+.meditacion-opciones button:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.meditacion-cerrar {
+  font-family: var(--sans);
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: none;
+  background: transparent;
+  color: var(--text);
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.meditacion-cerrar:hover {
+  opacity: 1;
+}
+
+.meditacion-anillo {
+  transform: rotate(-90deg);
+}
+
+.meditacion-anillo__fondo,
+.meditacion-anillo__progreso {
+  fill: none;
+  stroke-width: 5;
+}
+
+.meditacion-anillo__fondo {
+  stroke: var(--border);
+}
+
+.meditacion-anillo__progreso {
+  stroke: var(--accent);
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.2s linear;
+}
+
+.meditacion-tiempo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.meditacion-tiempo strong {
+  font-size: 18px;
+  color: var(--text-h);
+}
+
+.meditacion-tiempo span {
+  font-size: 12px;
+  opacity: 0.65;
+}

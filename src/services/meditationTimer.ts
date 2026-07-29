@@ -1,38 +1,45 @@
 import { LocalNotifications } from "@capacitor/local-notifications";
 
-export interface RecordatorioConfig {
-  minutos: number;
+export const DURACIONES_MINUTOS = [10, 15, 20, 30] as const;
+export type DuracionMinutos = (typeof DURACIONES_MINUTOS)[number];
+
+interface Hito {
+  porcentaje: number;
   titulo: string;
-  cuerpo: string;
+  mensaje: string;
 }
 
-// Momentos de aviso por defecto. Los momentos definitivos se configurarán
-// más adelante; esta lista solo deja la estructura lista para usarse.
-export const RECORDATORIOS_POR_DEFECTO: RecordatorioConfig[] = [
-  {
-    minutos: 5,
-    titulo: "Momento de meditación",
-    cuerpo: "Llevás 5 minutos. Seguí en silencio con el texto.",
-  },
-  {
-    minutos: 10,
-    titulo: "Momento de meditación",
-    cuerpo: "Llevás 10 minutos. ¿Qué te está diciendo este capítulo?",
-  },
+// Momentos de aviso: 25%, 50%, 80% y la finalización de la meditación.
+const HITOS: Hito[] = [
+  { porcentaje: 25, titulo: "Momento de meditación", mensaje: "Vas por el 25% de tu meditación." },
+  { porcentaje: 50, titulo: "Momento de meditación", mensaje: "Vas por la mitad de tu meditación." },
+  { porcentaje: 80, titulo: "Momento de meditación", mensaje: "Vas por el 80% de tu meditación." },
+  { porcentaje: 100, titulo: "Meditación completada", mensaje: "Terminaste tu tiempo de meditación." },
 ];
 
 let idsProgramados: number[] = [];
 
 export async function solicitarPermiso(): Promise<boolean> {
-  const estado = await LocalNotifications.checkPermissions();
-  if (estado.display === "granted") return true;
-  const solicitado = await LocalNotifications.requestPermissions();
-  return solicitado.display === "granted";
+  try {
+    const estado = await LocalNotifications.checkPermissions();
+    if (estado.display === "granted") return true;
+    const solicitado = await LocalNotifications.requestPermissions();
+    return solicitado.display === "granted";
+  } catch {
+    // Sin soporte de notificaciones (p. ej. navegador de escritorio sin permiso).
+    return false;
+  }
 }
 
+/**
+ * Programa avisos locales para los hitos de 25/50/80/100% de la duración
+ * elegida. Estos avisos usan el programador nativo del sistema operativo
+ * (vía Capacitor), por lo que disparan aunque la pantalla esté bloqueada
+ * o el usuario esté usando otra app, sin depender de un servidor.
+ */
 export async function iniciarSesionMeditacion(
   tituloCapitulo: string,
-  recordatorios: RecordatorioConfig[] = RECORDATORIOS_POR_DEFECTO,
+  duracionMinutos: DuracionMinutos,
 ): Promise<void> {
   await cancelarSesionMeditacion();
 
@@ -40,21 +47,33 @@ export async function iniciarSesionMeditacion(
   if (!permitido) return;
 
   const ahora = Date.now();
-  const notifications = recordatorios.map((r, i) => ({
-    id: (ahora % 1_000_000) + i,
-    title: r.titulo,
-    body: `${tituloCapitulo} — ${r.cuerpo}`,
-    schedule: { at: new Date(ahora + r.minutos * 60_000) },
+  const duracionMs = duracionMinutos * 60_000;
+  const base = ahora % 1_000_000;
+
+  const notifications = HITOS.map((hito, i) => ({
+    id: base + i,
+    title: hito.titulo,
+    body: `${tituloCapitulo} — ${hito.mensaje}`,
+    schedule: { at: new Date(ahora + duracionMs * (hito.porcentaje / 100)) },
   }));
 
   idsProgramados = notifications.map((n) => n.id);
-  await LocalNotifications.schedule({ notifications });
+  try {
+    await LocalNotifications.schedule({ notifications });
+  } catch {
+    idsProgramados = [];
+  }
 }
 
 export async function cancelarSesionMeditacion(): Promise<void> {
   if (idsProgramados.length === 0) return;
-  await LocalNotifications.cancel({
-    notifications: idsProgramados.map((id) => ({ id })),
-  });
+  const idsPrevios = idsProgramados;
   idsProgramados = [];
+  try {
+    await LocalNotifications.cancel({
+      notifications: idsPrevios.map((id) => ({ id })),
+    });
+  } catch {
+    // No hay nada que cancelar si la plataforma no soporta notificaciones.
+  }
 }

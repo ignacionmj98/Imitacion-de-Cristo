@@ -8,6 +8,7 @@ import {
   getPreviousChapter,
 } from "../content/chapters";
 import { getProgreso, setCapituloActual } from "../content/progress";
+import { MeditationTimer } from "./MeditationTimer";
 
 function resolveInitialChapterId(): string {
   const progreso = getProgreso();
@@ -55,6 +56,8 @@ export function Reader() {
           Siguiente
         </button>
       </nav>
+
+      <MeditationTimer tituloCapitulo={chapter.titulo} />
     </div>
   );
 }
