@@ -1,0 +1,601 @@
+{
+  "titulo": "Imitación de Cristo",
+  "autor": "Tomás de Kempis",
+  "libros": [
+    {
+      "titulo": "Libro primero. Avisos provechosos para la vida espiritual",
+      "slug": "libro-1-avisos-provechosos-para-la-vida-espiritual",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo 1. De la imitación de Cristo y desprecio de todas las vanidades del mundo",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/01-de-la-imitacion-de-cristo-y-desprecio-de-todas-las-vanidades-del-mundo.md"
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo 2. Del bajo aprecio de sí mismo",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/02-del-bajo-aprecio-de-si-mismo.md"
+        },
+        {
+          "numero": 3,
+          "titulo": "Capítulo 3. De la doctrina de la verdad",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/03-de-la-doctrina-de-la-verdad.md"
+        },
+        {
+          "numero": 4,
+          "titulo": "Capítulo 4. De la prudencia en las acciones",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/04-de-la-prudencia-en-las-acciones.md"
+        },
+        {
+          "numero": 5,
+          "titulo": "Capítulo 5. De la lección de las Santas Escrituras",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/05-de-la-leccion-de-las-santas-escrituras.md"
+        },
+        {
+          "numero": 6,
+          "titulo": "Capítulo 6. De los deseos desordenados",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/06-de-los-deseos-desordenados.md"
+        },
+        {
+          "numero": 7,
+          "titulo": "Capítulo 7. Que se ha de huir de la vana esperanza y la soberbia",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/07-que-se-ha-de-huir-de-la-vana-esperanza-y-la-soberbia.md"
+        },
+        {
+          "numero": 8,
+          "titulo": "Capítulo 8. Que se ha de evitar la mucha familiaridad",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/08-que-se-ha-de-evitar-la-mucha-familiaridad.md"
+        },
+        {
+          "numero": 9,
+          "titulo": "Capítulo 9. De la obediencia y sujeción",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/09-de-la-obediencia-y-sujecion.md"
+        },
+        {
+          "numero": 10,
+          "titulo": "Capítulo 10. Que se ha de cercenar la demasía en las palabras",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/10-que-se-ha-de-cercenar-la-demasia-en-las-palabras.md"
+        },
+        {
+          "numero": 11,
+          "titulo": "Capítulo 11. Cómo se debe adquirir la paz y del celo de aprovechar",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/11-como-se-debe-adquirir-la-paz-y-del-celo-de-aprovechar.md"
+        },
+        {
+          "numero": 12,
+          "titulo": "Capítulo 12. Del provecho de las adversidades",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/12-del-provecho-de-las-adversidades.md"
+        },
+        {
+          "numero": 13,
+          "titulo": "Capítulo 13. Cómo se ha de resistir a las tentaciones",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/13-como-se-ha-de-resistir-a-las-tentaciones.md"
+        },
+        {
+          "numero": 14,
+          "titulo": "Capítulo 14. Que se deben evitar los juicios temerarios",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/14-que-se-deben-evitar-los-juicios-temerarios.md"
+        },
+        {
+          "numero": 15,
+          "titulo": "Capítulo 15. De las obras hechas por caridad",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/15-de-las-obras-hechas-por-caridad.md"
+        },
+        {
+          "numero": 16,
+          "titulo": "Capítulo 16. De sobrellevar los defectos ajenos",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/16-de-sobrellevar-los-defectos-ajenos.md"
+        },
+        {
+          "numero": 17,
+          "titulo": "Capítulo 17. De la vida monástica",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/17-de-la-vida-monastica.md"
+        },
+        {
+          "numero": 18,
+          "titulo": "Capítulo 18. De los ejemplos de los Santos Padres",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/18-de-los-ejemplos-de-los-santos-padres.md"
+        },
+        {
+          "numero": 19,
+          "titulo": "Capítulo 19. De los ejercicios del buen religioso",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/19-de-los-ejercicios-del-buen-religioso.md"
+        },
+        {
+          "numero": 20,
+          "titulo": "Capítulo 20. Del amor a la soledad y al silencio",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/20-del-amor-a-la-soledad-y-al-silencio.md"
+        },
+        {
+          "numero": 21,
+          "titulo": "Capítulo 21. De la compunción del corazón",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/21-de-la-compuncion-del-corazon.md"
+        },
+        {
+          "numero": 22,
+          "titulo": "Capítulo 22. Consideración de la miseria humana",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/22-consideracion-de-la-miseria-humana.md"
+        },
+        {
+          "numero": 23,
+          "titulo": "Capítulo 23. De la meditación de la muerte",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/23-de-la-meditacion-de-la-muerte.md"
+        },
+        {
+          "numero": 24,
+          "titulo": "Capítulo 24. Del juicio y penas de los pecadores",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/24-del-juicio-y-penas-de-los-pecadores.md"
+        },
+        {
+          "numero": 25,
+          "titulo": "Capítulo 25. De la fervorosa enmienda de toda nuestra vida",
+          "archivo": "libro-1-avisos-provechosos-para-la-vida-espiritual/25-de-la-fervorosa-enmienda-de-toda-nuestra-vida.md"
+        }
+      ]
+    },
+    {
+      "titulo": "Libro segundo. Avisos que inclinan a la vida interior",
+      "slug": "libro-2-avisos-que-inclinan-a-la-vida-interior",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo 1. De la conversión interior",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/01-de-la-conversion-interior.md"
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo 2. De la humilde sumisión",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/02-de-la-humilde-sumision.md"
+        },
+        {
+          "numero": 3,
+          "titulo": "Capítulo 3. Del hombre bueno y pacífico",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/03-del-hombre-bueno-y-pacifico.md"
+        },
+        {
+          "numero": 4,
+          "titulo": "Capítulo 4. Del corazón puro y sencilla intención",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/04-del-corazon-puro-y-sencilla-intencion.md"
+        },
+        {
+          "numero": 5,
+          "titulo": "Capítulo 5. De la consideración de sí mismo",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/05-de-la-consideracion-de-si-mismo.md"
+        },
+        {
+          "numero": 6,
+          "titulo": "Capítulo 6. La alegría de la buena conciencia",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/06-la-alegria-de-la-buena-conciencia.md"
+        },
+        {
+          "numero": 7,
+          "titulo": "Capítulo 7. Del amor de Jesús sobre todas las cosas",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/07-del-amor-de-jesus-sobre-todas-las-cosas.md"
+        },
+        {
+          "numero": 8,
+          "titulo": "Capítulo 8. De la familiar amistad con Jesús",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/08-de-la-familiar-amistad-con-jesus.md"
+        },
+        {
+          "numero": 9,
+          "titulo": "Capítulo 9. Del carecimiento de toda consolación",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/09-del-carecimiento-de-toda-consolacion.md"
+        },
+        {
+          "numero": 10,
+          "titulo": "Capítulo 10. Del agradecimiento por la gracia de Dios",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/10-del-agradecimiento-por-la-gracia-de-dios.md"
+        },
+        {
+          "numero": 11,
+          "titulo": "Capítulo 11. Cuán pocos son los que aman la cruz de Cristo",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/11-cuan-pocos-son-los-que-aman-la-cruz-de-cristo.md"
+        },
+        {
+          "numero": 12,
+          "titulo": "Capítulo 12. Del amino real de la Santa Cruz",
+          "archivo": "libro-2-avisos-que-inclinan-a-la-vida-interior/12-del-amino-real-de-la-santa-cruz.md"
+        }
+      ]
+    },
+    {
+      "titulo": "Libro tercero. De la consolación interior",
+      "slug": "libro-3-de-la-consolacion-interior",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo 1. Del habla interior de Cristo al alma fiel",
+          "archivo": "libro-3-de-la-consolacion-interior/01-del-habla-interior-de-cristo-al-alma-fiel.md"
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo 2. Cómo la verdad habla dentro del alma sin sonido de palabras",
+          "archivo": "libro-3-de-la-consolacion-interior/02-como-la-verdad-habla-dentro-del-alma-sin-sonido-de-palabras.md"
+        },
+        {
+          "numero": 3,
+          "titulo": "Capítulo 3. Que las palabras de Dios se deben oír con humildad, y cómo muchos no las consideran como deben",
+          "archivo": "libro-3-de-la-consolacion-interior/03-que-las-palabras-de-dios-se-deben-oir-con-humildad-y-como-muchos-no-las-consideran-como-deben.md"
+        },
+        {
+          "numero": 4,
+          "titulo": "Capítulo 4. Debemos conversar delante de Dios con verdad y humildad",
+          "archivo": "libro-3-de-la-consolacion-interior/04-debemos-conversar-delante-de-dios-con-verdad-y-humildad.md"
+        },
+        {
+          "numero": 5,
+          "titulo": "Capítulo 5. Del maravilloso afecto del divino amor",
+          "archivo": "libro-3-de-la-consolacion-interior/05-del-maravilloso-afecto-del-divino-amor.md"
+        },
+        {
+          "numero": 6,
+          "titulo": "Capítulo 6. De la prueba del verdadero amor",
+          "archivo": "libro-3-de-la-consolacion-interior/06-de-la-prueba-del-verdadero-amor.md"
+        },
+        {
+          "numero": 7,
+          "titulo": "Capítulo 7. Cómo se ha de encubrir la gracia bajo el velo de la humildad",
+          "archivo": "libro-3-de-la-consolacion-interior/07-como-se-ha-de-encubrir-la-gracia-bajo-el-velo-de-la-humildad.md"
+        },
+        {
+          "numero": 8,
+          "titulo": "Capítulo 8. De la baja estimación de sí mismo ante los ojos de Dios",
+          "archivo": "libro-3-de-la-consolacion-interior/08-de-la-baja-estimacion-de-si-mismo-ante-los-ojos-de-dios.md"
+        },
+        {
+          "numero": 9,
+          "titulo": "Capítulo 9. Todas las cosas se deben de referir a Dios omo a último fin",
+          "archivo": "libro-3-de-la-consolacion-interior/09-todas-las-cosas-se-deben-de-referir-a-dios-omo-a-ultimo-fin.md"
+        },
+        {
+          "numero": 10,
+          "titulo": "Capítulo 10. En despreciando el mundo, es dulce cosa servir a Dios",
+          "archivo": "libro-3-de-la-consolacion-interior/10-en-despreciando-el-mundo-es-dulce-cosa-servir-a-dios.md"
+        },
+        {
+          "numero": 11,
+          "titulo": "Capítulo 11. Los deseos del corazón se deben examinar y moderar",
+          "archivo": "libro-3-de-la-consolacion-interior/11-los-deseos-del-corazon-se-deben-examinar-y-moderar.md"
+        },
+        {
+          "numero": 12,
+          "titulo": "Capítulo 12. Declárase qué cosa sea la paciencia y la lucha contra el apetito",
+          "archivo": "libro-3-de-la-consolacion-interior/12-declarase-que-cosa-sea-la-paciencia-y-la-lucha-contra-el-apetito.md"
+        },
+        {
+          "numero": 13,
+          "titulo": "Capítulo 13. De la obediencia del súbdito humulde a ejemplo de Jesucristo",
+          "archivo": "libro-3-de-la-consolacion-interior/13-de-la-obediencia-del-subdito-humulde-a-ejemplo-de-jesucristo.md"
+        },
+        {
+          "numero": 14,
+          "titulo": "Capítulo 14. Cómo se han de considerar los secretos juicios de Dios, para que no nos envanezcamos",
+          "archivo": "libro-3-de-la-consolacion-interior/14-como-se-han-de-considerar-los-secretos-juicios-de-dios-para-que-no-nos-envanezcamos.md"
+        },
+        {
+          "numero": 15,
+          "titulo": "Capítulo 15. Cómo se debe uno haber y decir en todas las cosas que deseare",
+          "archivo": "libro-3-de-la-consolacion-interior/15-como-se-debe-uno-haber-y-decir-en-todas-las-cosas-que-deseare.md"
+        },
+        {
+          "numero": 16,
+          "titulo": "Capítulo 16. En sólo Dios se debe buscar el verdadero consuelo",
+          "archivo": "libro-3-de-la-consolacion-interior/16-en-solo-dios-se-debe-buscar-el-verdadero-consuelo.md"
+        },
+        {
+          "numero": 17,
+          "titulo": "Capítulo 17. Toda nuestra atención se ha de poner en sólo Dios",
+          "archivo": "libro-3-de-la-consolacion-interior/17-toda-nuestra-atencion-se-ha-de-poner-en-solo-dios.md"
+        },
+        {
+          "numero": 18,
+          "titulo": "Capítulo 18. Que sufran con serenidad de ánimo las miserias temporales, a ejemplo de Cristo",
+          "archivo": "libro-3-de-la-consolacion-interior/18-que-sufran-con-serenidad-de-animo-las-miserias-temporales-a-ejemplo-de-cristo.md"
+        },
+        {
+          "numero": 19,
+          "titulo": "Capítulo 19. De la tolerancia de las injurias, y cómo se prueba el verdadero paciente",
+          "archivo": "libro-3-de-la-consolacion-interior/19-de-la-tolerancia-de-las-injurias-y-como-se-prueba-el-verdadero-paciente.md"
+        },
+        {
+          "numero": 20,
+          "titulo": "Capítulo 20. De la confesión de la propia flaqueza y de las miserias de esta vida",
+          "archivo": "libro-3-de-la-consolacion-interior/20-de-la-confesion-de-la-propia-flaqueza-y-de-las-miserias-de-esta-vida.md"
+        },
+        {
+          "numero": 21,
+          "titulo": "Capítulo 21. Sólo se ha de descansar en Dios sobre todas las cosas",
+          "archivo": "libro-3-de-la-consolacion-interior/21-solo-se-ha-de-descansar-en-dios-sobre-todas-las-cosas.md"
+        },
+        {
+          "numero": 22,
+          "titulo": "Capítulo 22. De la memoria de los innumerables beneficios de Dios",
+          "archivo": "libro-3-de-la-consolacion-interior/22-de-la-memoria-de-los-innumerables-beneficios-de-dios.md"
+        },
+        {
+          "numero": 23,
+          "titulo": "Capítulo 23. Cuatro cosas que causan paz",
+          "archivo": "libro-3-de-la-consolacion-interior/23-cuatro-cosas-que-causan-paz.md"
+        },
+        {
+          "numero": 24,
+          "titulo": "Capítulo 24. Cómo se ha de evitar la curiosidad de saber las vidas ajenas",
+          "archivo": "libro-3-de-la-consolacion-interior/24-como-se-ha-de-evitar-la-curiosidad-de-saber-las-vidas-ajenas.md"
+        },
+        {
+          "numero": 25,
+          "titulo": "Capítulo 25. En qué consiste la paz firme del corazón, y el verdadero aprovechamiento",
+          "archivo": "libro-3-de-la-consolacion-interior/25-en-que-consiste-la-paz-firme-del-corazon-y-el-verdadero-aprovechamiento.md"
+        },
+        {
+          "numero": 26,
+          "titulo": "Capítulo 26. De la elevación del espíritu libre, la cual se alcanza mejor con la oración humilde que con la lectura",
+          "archivo": "libro-3-de-la-consolacion-interior/26-de-la-elevacion-del-espiritu-libre-la-cual-se-alcanza-mejor-con-la-oracion-humilde-que-con-la-lectura.md"
+        },
+        {
+          "numero": 27,
+          "titulo": "Capítulo 27. El amor propio nos desvía mucho del bien eterno",
+          "archivo": "libro-3-de-la-consolacion-interior/27-el-amor-propio-nos-desvia-mucho-del-bien-eterno.md"
+        },
+        {
+          "numero": 28,
+          "titulo": "Capítulo 28. Contra las lenguas maldicientes",
+          "archivo": "libro-3-de-la-consolacion-interior/28-contra-las-lenguas-maldicientes.md"
+        },
+        {
+          "numero": 29,
+          "titulo": "Capítulo 29. Cómo debemos llamar a Dios y bendecirle en el tiempo de la tribulación",
+          "archivo": "libro-3-de-la-consolacion-interior/29-como-debemos-llamar-a-dios-y-bendecirle-en-el-tiempo-de-la-tribulacion.md"
+        },
+        {
+          "numero": 30,
+          "titulo": "Capítulo 30. Cómo se ha de pedir el favor divino, y del a confianza de recobrar la gracia",
+          "archivo": "libro-3-de-la-consolacion-interior/30-como-se-ha-de-pedir-el-favor-divino-y-del-a-confianza-de-recobrar-la-gracia.md"
+        },
+        {
+          "numero": 31,
+          "titulo": "Capítulo 31. Del desprecio de todas las criaturas para hallar al criador",
+          "archivo": "libro-3-de-la-consolacion-interior/31-del-desprecio-de-todas-las-criaturas-para-hallar-al-criador.md"
+        },
+        {
+          "numero": 32,
+          "titulo": "Capítulo 32. De la abnegación de sí mismo, y abdicación de todo apetito",
+          "archivo": "libro-3-de-la-consolacion-interior/32-de-la-abnegacion-de-si-mismo-y-abdicacion-de-todo-apetito.md"
+        },
+        {
+          "numero": 33,
+          "titulo": "Capítulo 23. De la inconstancia del corazón, y que la intención final se ha de dirigir a Dios",
+          "archivo": "libro-3-de-la-consolacion-interior/33-de-la-inconstancia-del-corazon-y-que-la-intencion-final-se-ha-de-dirigir-a-dios.md"
+        },
+        {
+          "numero": 34,
+          "titulo": "Capítulo 34. Que Dios es para quien lo ama, más delicioso que todo, y en todo",
+          "archivo": "libro-3-de-la-consolacion-interior/34-que-dios-es-para-quien-lo-ama-mas-delicioso-que-todo-y-en-todo.md"
+        },
+        {
+          "numero": 35,
+          "titulo": "Capítulo 35. En esta vida no hay seguridad de carecer de tentaciones",
+          "archivo": "libro-3-de-la-consolacion-interior/35-en-esta-vida-no-hay-seguridad-de-carecer-de-tentaciones.md"
+        },
+        {
+          "numero": 36,
+          "titulo": "Capítulo 36. Contra los vanos juicios de los hombres",
+          "archivo": "libro-3-de-la-consolacion-interior/36-contra-los-vanos-juicios-de-los-hombres.md"
+        },
+        {
+          "numero": 37,
+          "titulo": "Capítulo 37. De la pura y entera renuncia de sí mismo para alcanzar la libertad del corazón",
+          "archivo": "libro-3-de-la-consolacion-interior/37-de-la-pura-y-entera-renuncia-de-si-mismo-para-alcanzar-la-libertad-del-corazon.md"
+        },
+        {
+          "numero": 38,
+          "titulo": "Capítulo 38. Del buen régimen en las cosas exteriores y del recurso a Dios en los peligros",
+          "archivo": "libro-3-de-la-consolacion-interior/38-del-buen-regimen-en-las-cosas-exteriores-y-del-recurso-a-dios-en-los-peligros.md"
+        },
+        {
+          "numero": 39,
+          "titulo": "Capítulo 39. Que el hombre no sea importuno en los negocios",
+          "archivo": "libro-3-de-la-consolacion-interior/39-que-el-hombre-no-sea-importuno-en-los-negocios.md"
+        },
+        {
+          "numero": 40,
+          "titulo": "Capítulo 40. Que ningún bien tiene el hombre suyo ni cosa alguna de qué alabarse",
+          "archivo": "libro-3-de-la-consolacion-interior/40-que-ningun-bien-tiene-el-hombre-suyo-ni-cosa-alguna-de-que-alabarse.md"
+        },
+        {
+          "numero": 41,
+          "titulo": "Capítulo 41. Del desprecio de toda honra temporal",
+          "archivo": "libro-3-de-la-consolacion-interior/41-del-desprecio-de-toda-honra-temporal.md"
+        },
+        {
+          "numero": 42,
+          "titulo": "Capítulo 42. Que nuestra paz no debe depender de los hombres",
+          "archivo": "libro-3-de-la-consolacion-interior/42-que-nuestra-paz-no-debe-depender-de-los-hombres.md"
+        },
+        {
+          "numero": 43,
+          "titulo": "Capítulo 43. Contra la ciencia vana del mundo",
+          "archivo": "libro-3-de-la-consolacion-interior/43-contra-la-ciencia-vana-del-mundo.md"
+        },
+        {
+          "numero": 44,
+          "titulo": "Capítulo 44. No se deben buscar las cosas exteriores",
+          "archivo": "libro-3-de-la-consolacion-interior/44-no-se-deben-buscar-las-cosas-exteriores.md"
+        },
+        {
+          "numero": 45,
+          "titulo": "Capítulo 45. Que no se debe creer a todos; y cómo fácilmente se resbala en las palabras",
+          "archivo": "libro-3-de-la-consolacion-interior/45-que-no-se-debe-creer-a-todos-y-como-facilmente-se-resbala-en-las-palabras.md"
+        },
+        {
+          "numero": 46,
+          "titulo": "Capítulo 46. De la confianza que debemos tener en Dios cuando nos dicen injurias",
+          "archivo": "libro-3-de-la-consolacion-interior/46-de-la-confianza-que-debemos-tener-en-dios-cuando-nos-dicen-injurias.md"
+        },
+        {
+          "numero": 47,
+          "titulo": "Capítulo 47. Todas las cosas pasadas se deben padecer por la vida eterna",
+          "archivo": "libro-3-de-la-consolacion-interior/47-todas-las-cosas-pasadas-se-deben-padecer-por-la-vida-eterna.md"
+        },
+        {
+          "numero": 48,
+          "titulo": "Capítulo 48. Del día de la eternidad y de las angustias de esta vida",
+          "archivo": "libro-3-de-la-consolacion-interior/48-del-dia-de-la-eternidad-y-de-las-angustias-de-esta-vida.md"
+        },
+        {
+          "numero": 49,
+          "titulo": "Capítulo 49. Del deseo de la vida eterna, y cuántos bienes están prometidos a los que pelean",
+          "archivo": "libro-3-de-la-consolacion-interior/49-del-deseo-de-la-vida-eterna-y-cuantos-bienes-estan-prometidos-a-los-que-pelean.md"
+        },
+        {
+          "numero": 50,
+          "titulo": "Capítulo 50. Cómo se debe ofrecer en las manos de Dios el hombre desconsolado",
+          "archivo": "libro-3-de-la-consolacion-interior/50-como-se-debe-ofrecer-en-las-manos-de-dios-el-hombre-desconsolado.md"
+        },
+        {
+          "numero": 51,
+          "titulo": "Capítulo 51. Que debemos emplearnos en ejercicios humildes cuando no podemos en los sublimes",
+          "archivo": "libro-3-de-la-consolacion-interior/51-que-debemos-emplearnos-en-ejercicios-humildes-cuando-no-podemos-en-los-sublimes.md"
+        },
+        {
+          "numero": 52,
+          "titulo": "Capítulo 52. Que el hombre no se repute por digno de consuelo, sino de castigo",
+          "archivo": "libro-3-de-la-consolacion-interior/52-que-el-hombre-no-se-repute-por-digno-de-consuelo-sino-de-castigo.md"
+        },
+        {
+          "numero": 53,
+          "titulo": "Capítulo 53. La gracia de Dios no se mezcla con el gusto de las cosas terrenas",
+          "archivo": "libro-3-de-la-consolacion-interior/53-la-gracia-de-dios-no-se-mezcla-con-el-gusto-de-las-cosas-terrenas.md"
+        },
+        {
+          "numero": 54,
+          "titulo": "Capítulo 54. De los diversos movimientos de la naturaleza y de la gracia",
+          "archivo": "libro-3-de-la-consolacion-interior/54-de-los-diversos-movimientos-de-la-naturaleza-y-de-la-gracia.md"
+        },
+        {
+          "numero": 55,
+          "titulo": "Capítulo 55. De la corrupción de la naturaleza, de la eficacia de la gracia divina",
+          "archivo": "libro-3-de-la-consolacion-interior/55-de-la-corrupcion-de-la-naturaleza-de-la-eficacia-de-la-gracia-divina.md"
+        },
+        {
+          "numero": 56,
+          "titulo": "Capítulo 56. Que debemos negarnos a nostros mismos, y asemejarnos a Cristo por la cruz",
+          "archivo": "libro-3-de-la-consolacion-interior/56-que-debemos-negarnos-a-nostros-mismos-y-asemejarnos-a-cristo-por-la-cruz.md"
+        },
+        {
+          "numero": 57,
+          "titulo": "Capítulo 57. No debe acobardarse demasiado el que cae en algunas faltas",
+          "archivo": "libro-3-de-la-consolacion-interior/57-no-debe-acobardarse-demasiado-el-que-cae-en-algunas-faltas.md"
+        },
+        {
+          "numero": 58,
+          "titulo": "Capítulo 58. No se deben escudriñar las cosas altas y los juicios ocultos de Dios",
+          "archivo": "libro-3-de-la-consolacion-interior/58-no-se-deben-escudrinar-las-cosas-altas-y-los-juicios-ocultos-de-dios.md"
+        },
+        {
+          "numero": 59,
+          "titulo": "Capítulo 59. Toda la esperanza y confianza se debe poner en sólo Dios",
+          "archivo": "libro-3-de-la-consolacion-interior/59-toda-la-esperanza-y-confianza-se-debe-poner-en-solo-dios.md"
+        }
+      ]
+    },
+    {
+      "titulo": "Libro cuarto. Santísimo Sacramento del Altar",
+      "slug": "libro-4-santisimo-sacramento-del-altar",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo 1. Con cuánta reverencia se ha de recibir a Jesucristo",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/01-con-cuanta-reverencia-se-ha-de-recibir-a-jesucristo.md"
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo 2. De la bonda y caridad de Dios, que se manifiesta en este sacramento",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/02-de-la-bonda-y-caridad-de-dios-que-se-manifiesta-en-este-sacramento.md"
+        },
+        {
+          "numero": 3,
+          "titulo": "Capítulo 3. Que es provechoso comulgar con frecuencia",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/03-que-es-provechoso-comulgar-con-frecuencia.md"
+        },
+        {
+          "numero": 4,
+          "titulo": "Capítulo 4. De los muchos bienes que se conceden a los que devotamente comulgan",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/04-de-los-muchos-bienes-que-se-conceden-a-los-que-devotamente-comulgan.md"
+        },
+        {
+          "numero": 5,
+          "titulo": "Capítulo 5. De la dignidad del Sacramento y del estado del sacerdocio",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/05-de-la-dignidad-del-sacramento-y-del-estado-del-sacerdocio.md"
+        },
+        {
+          "numero": 6,
+          "titulo": "Capítulo 6. Ejercicios para antes de la Comunión",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/06-ejercicios-para-antes-de-la-comunion.md"
+        },
+        {
+          "numero": 7,
+          "titulo": "Capítulo 7. Del examen de la propia conciencia y del propósito de la enmienda",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/07-del-examen-de-la-propia-conciencia-y-del-proposito-de-la-enmienda.md"
+        },
+        {
+          "numero": 8,
+          "titulo": "Capítulo 8. Del ofrecimiento de Cristo en la cruz, y de la propia resignación",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/08-del-ofrecimiento-de-cristo-en-la-cruz-y-de-la-propia-resignacion.md"
+        },
+        {
+          "numero": 9,
+          "titulo": "Capítulo 9. Que debemos ofrecernos a Dios con todas nuestras cosas y rogarle por todos",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/09-que-debemos-ofrecernos-a-dios-con-todas-nuestras-cosas-y-rogarle-por-todos.md"
+        },
+        {
+          "numero": 10,
+          "titulo": "Capítulo 10. No se debe dejar fácilmente la sagrada Comunión",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/10-no-se-debe-dejar-facilmente-la-sagrada-comunion.md"
+        },
+        {
+          "numero": 11,
+          "titulo": "Capítulo 11. El cuerpo de Cristo y la Sagrada Escritura son muy necesarios al alma fiel",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/11-el-cuerpo-de-cristo-y-la-sagrada-escritura-son-muy-necesarios-al-alma-fiel.md"
+        },
+        {
+          "numero": 12,
+          "titulo": "Capítulo 12. Debe disponerse con gran diligencia el que ha de recibir a Cristo",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/12-debe-disponerse-con-gran-diligencia-el-que-ha-de-recibir-a-cristo.md"
+        },
+        {
+          "numero": 13,
+          "titulo": "Capítulo 13. Cómo el alma devota debe desear con todo su corazón unirse a Cristo en el Sacramento",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/13-como-el-alma-devota-debe-desear-con-todo-su-corazon-unirse-a-cristo-en-el-sacramento.md"
+        },
+        {
+          "numero": 14,
+          "titulo": "Capítulo 14. Del ansia con que algunos devotos desean el cuerpo de Cristo",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/14-del-ansia-con-que-algunos-devotos-desean-el-cuerpo-de-cristo.md"
+        },
+        {
+          "numero": 15,
+          "titulo": "Capítulo 15. Que la devoción se alcanza con la humildad y abnegación de sí mismo",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/15-que-la-devocion-se-alcanza-con-la-humildad-y-abnegacion-de-si-mismo.md"
+        },
+        {
+          "numero": 16,
+          "titulo": "Capítulo 16. Que debemos manifestar a Cristo nuestras necesidades y pedirle su gracia",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/16-que-debemos-manifestar-a-cristo-nuestras-necesidades-y-pedirle-su-gracia.md"
+        },
+        {
+          "numero": 17,
+          "titulo": "Capítulo 17. Del amor fervoroso y vehemente deseo de recibir a Cristo",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/17-del-amor-fervoroso-y-vehemente-deseo-de-recibir-a-cristo.md"
+        },
+        {
+          "numero": 18,
+          "titulo": "Capítulo 18. Que el hombre no debe ser curioso en examinar este Sacramento, sino humilde imitador de Cristo, sometiendo su parecer a la sagrada fe",
+          "archivo": "libro-4-santisimo-sacramento-del-altar/18-que-el-hombre-no-debe-ser-curioso-en-examinar-este-sacramento-sino-humilde-imitador-de-cristo-sometiendo-su-parecer-a-la-sagrada-fe.md"
+        }
+      ],
+      "epigrafe": "libro-4-santisimo-sacramento-del-altar/00-epigrafe.md"
+    }
+  ]
+}

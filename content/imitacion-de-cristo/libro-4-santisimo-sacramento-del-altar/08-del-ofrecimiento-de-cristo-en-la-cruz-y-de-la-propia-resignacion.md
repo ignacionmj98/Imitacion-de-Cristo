@@ -1,0 +1,7 @@
+### Capítulo 8. Del ofrecimiento de Cristo en la cruz, y de la propia resignación
+
+Jesucristo:
+
+1. Así como yo me ofrecí voluntariamente por tus pecados a Dios Padre con las manos extendidas en la cruz, y todo el cuerpo desnudo, de modo que nada me quedó que no pasase en sacrificio para reconciliarte con Dios: Así debes tú también ofrecérteme cada día en la Misa en ofrenda pura y santa, cuanto más entrañablemente puedas, con toda la voluntad, y con todas tus fuerzas y deseos. ¿Qué otra cosa quiero de ti más que el que te entregues a Mí sin reserva? Cualquier cosa que me des sin ti, no gusto de ella; porque no quiero tu don, sino a ti mismo.
+
+2. Así como no te bastarían todas las cosas sin Mí, así no puede agradarme a Mí cuanto me ofrecieres sin ti. Ofrécete a Mí y date todo por Dios, y será muy acepto tu sacrificio. Mira cómo Yo me ofrecí todo al Padre por ti; y también te di todo mi cuerpo y sangre en manjar, para ser todo tuyo, y que tú quedases todo mío. Mas si tú estás pegado a ti mismo, y no te ofreces de buena gana a mi voluntad, no es cumplida ofrenda la que haces, ni será entre nosotros entera la unión. Por eso a todas tus obras debe preceder el ofrecimiento voluntario de ti mismo en las manos de Dios, si quieres alcanzar libertad y gracia. Porque por eso tampoco se hacen varones ilustrados y libres en lo interior, porque no saben del todo negarse a sí mismos. Esta es mi firme sentencia: Que no puede ser mi discípulo el que no renunciare todas las cosas. Por lo cual, si tú deseas serlo, ofréceteme con todos tus deseos.

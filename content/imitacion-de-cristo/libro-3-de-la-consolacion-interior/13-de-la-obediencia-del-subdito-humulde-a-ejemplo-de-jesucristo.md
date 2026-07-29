@@ -1,0 +1,9 @@
+### Capítulo 13. De la obediencia del súbdito humulde a ejemplo de Jesucristo
+
+Jesucristo:
+
+1. Hijo, el que procura sustraerse de la obediencia, él mismo se aparta de la gracia; y el que quiere tener cosas propias, pierde las comunes. El que no se sujeta de buena gana a su superior, señal es que su carne aún no le obedece perfectamente, sino que muchas veces se resiste y murmura. Aprende, pues, a sujetarte prontamente a tu superior, si deseas tener tu carne sujeta. Porque tanto más presto se vence el enemigo exterior, cuanto no estuviere debilitado el hombre interior. No hay enemigo peor ni más dañoso para el alma que tú mismo, si no estás bien avenido con el espíritu. Necesario es que tengas verdadero desprecio de ti mismo, si quieres vencer la carne y la sangre. Porque aún te amas muy desordenadamente, por eso temes sujetarte del todo a la voluntad de otros.
+
+2. Pero ¿qué mucho es que tú, polvo y nada, te sujetes al hombre por Dios, cuando Yo, Omnipotente y Altísimo, que crié todas las cosas de la nada, me sujeté al hombre humildemente por ti? Me hice el más humilde y abatido de todos, para que vencieses tu soberbia con mi humildad. Aprende, polvo, a obedecer; aprende, tierra y lodo, a humillarte y postrarte a los pies de todos. Aprende a quebrantar tus inclinaciones, y rendirte a toda sujeción.
+
+3. Enójate contra ti; y no sufras que viva en ti el orgullo; sino hazte tan sumiso y pequeño, que puedan todos ponerse sobre ti, y pisarte como el lodo de las calles. ¿Qué tienes, hombre despreciable, de qué quejarte? ¿Qué puedes contradecir, sórdido pecador, a los que te maltratan, pues tantas veces ofendiste a tu Criador, y muchas mereciste el infierno? Pero te perdonaron mis ojos, porque tu alma fue preciosa delante de Mí, para que conocieses mi amor, y fueses siempre agradable a mis beneficios. Y para que te dieses continuamente a la verdadera humildad y sujeción, y sufrieses con paciencia tu propio menosprecio.
