@@ -14,7 +14,6 @@ export default defineConfig({
         short_name: "Imitación de Cristo",
         description: "Lectura y meditación de la Imitación de Cristo, capítulo a capítulo.",
         lang: "es",
-        start_url: "/",
         display: "standalone",
         background_color: "#f4ecd8",
         theme_color: "#3a2a1a",

@@ -1,0 +1,84 @@
+name: Deploy web preview/prod to GitHub Pages
+
+on:
+  push:
+    branches:
+      - "**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout main (prod)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: site-main
+
+      - name: Checkout current branch (preview)
+        uses: actions/checkout@v4
+        with:
+          path: site-preview
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build prod (main) at site root
+        working-directory: site-main
+        run: |
+          if [ -f package.json ]; then
+            npm ci
+            npx tsc -b
+            npx vite build --base=/Imitacion-de-Cristo/
+          else
+            echo "main no tiene todavía la app (falta mergear el PR); publico una página de aviso."
+            mkdir -p dist
+            cat > dist/index.html << 'HTML'
+          <!doctype html>
+          <html lang="es"><head><meta charset="UTF-8" />
+          <title>Imitación de Cristo</title></head>
+          <body style="font-family:system-ui;max-width:32rem;margin:4rem auto;text-align:center;color:#3a2a1a">
+          <h1>Todavía no hay una versión de producción</h1>
+          <p>La app está en desarrollo. Mientras tanto, mirá la <a href="./preview/">vista previa</a>.</p>
+          </body></html>
+          HTML
+          fi
+
+      - name: Build preview (current branch) at /preview/
+        working-directory: site-preview
+        run: |
+          npm ci
+          npx tsc -b
+          npx vite build --base=/Imitacion-de-Cristo/preview/
+
+      - name: Combine prod + preview into one site
+        run: |
+          mkdir -p combined
+          cp -r site-main/dist/. combined/
+          mkdir -p combined/preview
+          cp -r site-preview/dist/. combined/preview/
+          touch combined/.nojekyll
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: combined
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
