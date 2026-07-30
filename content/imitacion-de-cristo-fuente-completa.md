@@ -104,7 +104,9 @@ Anda de una parte a otra; no hallarás descanso sino en la humilde sujeción al 
 
 La imaginación y mudaría de lugar a muchos ha engañado.
 
-2. Verdad es que cada uno se rige de buena gana por su propio parecer, y se inclina más a los que siguen su sentir. Mas si Dios está entre nosotros, necesario es que dejemos algunas veces nuestro parecer por el bien de la paz. ¿Quién es tan sabio que lo sepa todo enteramente
+2. Verdad es que cada uno se rige de buena gana por su propio parecer, y se inclina más a los que siguen su sentir. Mas si Dios está entre nosotros, necesario es que dejemos algunas veces nuestro parecer por el bien de la paz. ¿Quién es tan sabio que lo sepa todo enteramente? Pues no quieras confiar demasiado en tu sentido; mas gusta también de oír de buena gana el parecer de otro. Si tu parecer es bueno y lo dejas por Dios, y sigues el ajeno, más aprovecharás de esta manera.
+
+3. Porque muchas veces he oído decir ser más seguro oír y tomar consejo que darlo. Bien puede también acaecer que sea bueno el parecer de uno; mas no querer sentir con los otros cuando la razón o la causa lo demandan, es señal de soberbia y pertinacia.
 
 ### Capítulo 10. Que se ha de cercenar la demasía en las palabras
 
@@ -772,7 +774,7 @@ El que no evita los defectos pequeños, poco a poco cae en los grandes.
 
 Te alegrarás siempre a la noche, si gastares, bien el día.
 
-Vela sobre ti; despiértate a ti; y sea de los otros lo que fuere, no te descuides de ti. Tanto aprovecharás, cuanto más fuerza te hicieres. Amén.
+Vela sobre ti; despiértate a ti; amonéstate a ti; y sea de los otros lo que fuere, no te descuides de ti. Tanto aprovecharás, cuanto más fuerza te hicieres. Amén.
 
 ## Libro segundo. Avisos que inclinan a la vida interior
 
@@ -938,7 +940,7 @@ No hay criatura tan baja ni pequeña, que no represente la bondad de Dios.
 
 ### Capítulo 5. De la consideración de sí mismo
 
-1. No debemos confiar de nosotros grandes cosas, porque muchas veces nos falta lagracia y la discreción. Poca luz hay en nosotros, y presto la perdemos por nuestra negligencia. Y muchas veces no sentimos cuán ciegos estamos en el alma. Muchas veces también obramos mal, y lo excusamos peor. A veces nos mueve la pasión, y pensamos que es celo.
+1. No debemos confiar de nosotros grandes cosas, porque muchas veces nos falta lagracia y la discreción. Poca luz hay en nosotros, y presto la perdemos por nuestra negligencia. Y muchas veces no sentimos cuán ciegos estamos en el alma. Muchas veces también obramos mal, y lo excusamos peor. A veces nos mueve la pasión, y pensamos que es celo. Reprendemos en los otros las cosas pequeñas, y disimulamos las graves si son nuestras. Muy presto sentimos y agravamos lo que padecemos de otro, mas no miramos cuánto hacemos padecer a los otros. El que bien y rectamente examinare sus obras, no tendrá que juzgar gravemente las ajenas.
 
 2. El hombre recogido antepone el cuidado de sí mismo a todos los cuidados; y el que tiene verdadero cuidado de sí, poco habla de otros. Nunca estarás recogido y devoto, si no callares las cosas ajenas, y especialmente mirares a ti mismo. Si del todo te ocupares en Dios y en ti, poco te moverá lo que sientes de fuera. ¿Dónde estás cuando no estás contigo? Y después de haber discurrido por todas las cosas ¿qué has ganado si de ti te olvidaste? Si has de tener paz y unión verdadera, conviene que todo lo pospongas, y tengas a ti solo delante de tus ojos.
 
@@ -2052,7 +2054,7 @@ Jesucristo:
 
 3. Hijo, no debes volver atrás, ni decaer presto en oyendo el camino de los perfectos; antes debes esforzarte para cosas más altas, o a lo menos aspirar a ellas con deseo.
 
-¡Ojalá hubieses llegado a tanto que no fueses amador de ti mismo, y estuvieses dispuesto puramente a mi voluntad y a la del superior que te he dado! Entonces me agradarías sobremanera, y toda tu vida correría gozosa y pacífica. Aún tienes mucho que dejar, que si no lo renuncias enteramente, no alcanzarás lo que pides. Para que seas rico, te aconsejo que compres de Mí oro acendrado, esto es, la sabiduría celestial que desprecia complacencia. 4. Yo te dije que las cosas más viles al parecer humano, se deben comprar con las preciosas y altas. Porque muy vil y pequeña parece la verdadera sabiduría celestial, puesta casi en olvido entre los hombres. Ella no sabe grandezas de sí, ni quiere ser engrandecida en la tierra. Está en la boca de muchos, pero muy lejos de sus obras, siendo ella una perla preciosísima, escondida para los más.
+¡Ojalá hubieses llegado a tanto que no fueses amador de ti mismo, y estuvieses dispuesto puramente a mi voluntad y a la del superior que te he dado! Entonces me agradarías sobremanera, y toda tu vida correría gozosa y pacífica. Aún tienes mucho que dejar, que si no lo renuncias enteramente, no alcanzarás lo que pides. Para que seas rico, te aconsejo que compres de Mí oro acendrado, esto es, la sabiduría celestial, que desprecia todo lo terreno. Pospón la sabiduría terrena y toda humana y propia complacencia. 4. Yo te dije que las cosas más viles al parecer humano, se deben comprar con las preciosas y altas. Porque muy vil y pequeña parece la verdadera sabiduría celestial, puesta casi en olvido entre los hombres. Ella no sabe grandezas de sí, ni quiere ser engrandecida en la tierra. Está en la boca de muchos, pero muy lejos de sus obras, siendo ella una perla preciosísima, escondida para los más.
 
 ### Capítulo 23. De la inconstancia del corazón, y que la intención final se ha de dirigir a Dios
 
@@ -2424,7 +2426,7 @@ Jesucristo:
 
 1. Hijo, cuanto puedes salir de ti, tanto puedes pasarte a Mí. Así como no desear nada exteriormente, produce la paz interior; así el negarse interiormente, causa la unión con Dios. Quiero que aprendas la perfecta renuncia de ti mismo en mi voluntad, sin replica ni queja. Sígueme: YO SOY CAMINO, VERDAD Y VIDA. Sin camino no hay por donde andar; sin verdad no podemos conocer;sin vida no hay quien pueda vivir. Yo soy el camino que debes seguir, la verdad que debes creer, la vida que debes esperar. Yo soy camino inviolable, verdad infalible, vida interminable. Yo soy camino muy derecho, verdad suma, vida verdadera, vida bienaventurada, vida increada. Si permanecieres en mi camino, conocerás la verdad, y la verdad te librará y alcanzarás la vida eterna.
 
-2. Si quieres entrar en la vida, guarda mis mandamientos. Si quieres conocer la verdad, créeme a Mí. Si quieres ser mi discípulo, niégate a ti mismo. Si quieres poseer la vida bienaventurada, desprecia la presente. Si quieres ser ensalzado en el cielo, humíllate en el mundo. Si quieres reinar conmigo, lleva la cruz conmigo. Porque sólo los siervos de la cruz hallan el camino de la bienaventuranza y de la luz verdadera.
+2. Si quieres entrar en la vida, guarda mis mandamientos. Si quieres conocer la verdad, créeme a Mí. Si quieres ser perfecto, vence todas las cosas. Si quieres ser mi discípulo, niégate a ti mismo. Si quieres poseer la vida bienaventurada, desprecia la presente. Si quieres ser ensalzado en el cielo, humíllate en el mundo. Si quieres reinar conmigo, lleva la cruz conmigo. Porque sólo los siervos de la cruz hallan el camino de la bienaventuranza y de la luz verdadera.
 
 El Alma:
 
@@ -2542,11 +2544,11 @@ El Alma:
 
 3. Tú eres el Santo de los Santos, y yo la basura de los pecadores. Tú te bajas a mí, que no soy digno de alzar los ojos para mirarte. Tú vienes a mí, Tú quieres estar conmigo, Tú me convidas a tu mesa. Tú me quieres dar a comer el manjar celestial, y el pan de los ángeles; que no es otra cosa por cierto sino Tú mismo, pan vivo que descendiste del cielo, y das vida al mundo.
 
-4. ¡Cuánto es, pues, tu amor, cuál tu dignación! y ¡cuántas gracias y alabanzas te son debidas por esto! ¡Oh cuán saludable y provechoso designio tuviste en la institución de este Sacramento! ¡Cuán inefable tu verdad! Pues Tú hablaste, y fue hecho el universo; y se hizo lo que Tú mandaste.
+4. ¡Cuánto es, pues, tu amor, cuál tu dignación! y ¡cuántas gracias y alabanzas te son debidas por esto! ¡Oh cuán saludable y provechoso designio tuviste en la institución de este Sacramento! ¡Cuán suave es y cuán agradable este convite, en que Te das a Ti mismo por manjar! ¡Oh cuán admirables son tus obras, Señor! ¡Cuán poderosa tu virtud! ¡Cuán inefable tu verdad! Pues Tú hablaste, y fue hecho el universo; y se hizo lo que Tú mandaste.
 
 5. Admirable cosa es, digno objeto de la fe, y superior al entendimiento humano, que Tú, Señor Dios mío, verdadero Dios y hombre, eres contenido entero debajo de las especies de pan y vino, y sin detrimento eres comido por el que te recibe. Tú, Señor de todo, que de nada necesitas, quisiste habitar entre nosotros por medio de este Sacramento. Conserva mi corazón y mi cuerpo sin mancha, para que con alegre y limpia conciencia pueda celebrar frecuentemente, y recibir para mi eterna salvación este digno misterio, que ordenaste y estableciste principalmente para honra tuya memoria continua.
 
-6. Alégrate, alma mía, y da gracias a Dios por don tan excelente y consuelo tan singular que te fue dejado en este valle de lágrimas. Porque la caridad de Cristo nunca se disminuye, y la grandeza de su misericordia nunca mengua.
+6. Alégrate, alma mía, y da gracias a Dios por don tan excelente y consuelo tan singular que te fue dejado en este valle de lágrimas. Porque cuantas veces te acuerdas de este misterio y recibes el Cuerpo de Cristo, tantas representas la obra de tu redención, y te haces partícipe de todos sus merecimientos. Porque la caridad de Cristo nunca se disminuye, y la grandeza de su misericordia nunca mengua.
 
 7. Por eso te debes preparar siempre con nueva devoción del alma, y pensar con atenta consideración esta gran misterio de salud. Así te debe parecer tan grande, tan nuevo y agradable cuando celebras u oyes Misa, como si fuese el mismo día en que Cristo, descendiendo en el vientre de la Virgen se hizo hombre; o aquel en que puesto en la Cruz padeció y murió por la salud de los hombres.
 

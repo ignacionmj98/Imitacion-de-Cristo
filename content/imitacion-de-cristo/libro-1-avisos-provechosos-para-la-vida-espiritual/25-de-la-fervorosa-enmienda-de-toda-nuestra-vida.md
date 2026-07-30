@@ -92,4 +92,4 @@ El que no evita los defectos pequeños, poco a poco cae en los grandes.
 
 Te alegrarás siempre a la noche, si gastares, bien el día.
 
-Vela sobre ti; despiértate a ti; y sea de los otros lo que fuere, no te descuides de ti. Tanto aprovecharás, cuanto más fuerza te hicieres. Amén.
+Vela sobre ti; despiértate a ti; amonéstate a ti; y sea de los otros lo que fuere, no te descuides de ti. Tanto aprovecharás, cuanto más fuerza te hicieres. Amén.

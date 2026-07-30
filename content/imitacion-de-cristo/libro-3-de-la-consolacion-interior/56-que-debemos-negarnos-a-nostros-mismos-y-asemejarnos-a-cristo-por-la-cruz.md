@@ -4,7 +4,7 @@ Jesucristo:
 
 1. Hijo, cuanto puedes salir de ti, tanto puedes pasarte a Mí. Así como no desear nada exteriormente, produce la paz interior; así el negarse interiormente, causa la unión con Dios. Quiero que aprendas la perfecta renuncia de ti mismo en mi voluntad, sin replica ni queja. Sígueme: YO SOY CAMINO, VERDAD Y VIDA. Sin camino no hay por donde andar; sin verdad no podemos conocer;sin vida no hay quien pueda vivir. Yo soy el camino que debes seguir, la verdad que debes creer, la vida que debes esperar. Yo soy camino inviolable, verdad infalible, vida interminable. Yo soy camino muy derecho, verdad suma, vida verdadera, vida bienaventurada, vida increada. Si permanecieres en mi camino, conocerás la verdad, y la verdad te librará y alcanzarás la vida eterna.
 
-2. Si quieres entrar en la vida, guarda mis mandamientos. Si quieres conocer la verdad, créeme a Mí. Si quieres ser mi discípulo, niégate a ti mismo. Si quieres poseer la vida bienaventurada, desprecia la presente. Si quieres ser ensalzado en el cielo, humíllate en el mundo. Si quieres reinar conmigo, lleva la cruz conmigo. Porque sólo los siervos de la cruz hallan el camino de la bienaventuranza y de la luz verdadera.
+2. Si quieres entrar en la vida, guarda mis mandamientos. Si quieres conocer la verdad, créeme a Mí. Si quieres ser perfecto, vence todas las cosas. Si quieres ser mi discípulo, niégate a ti mismo. Si quieres poseer la vida bienaventurada, desprecia la presente. Si quieres ser ensalzado en el cielo, humíllate en el mundo. Si quieres reinar conmigo, lleva la cruz conmigo. Porque sólo los siervos de la cruz hallan el camino de la bienaventuranza y de la luz verdadera.
 
 El Alma:
 
