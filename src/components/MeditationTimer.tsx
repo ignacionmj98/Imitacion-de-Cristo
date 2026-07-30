@@ -14,9 +14,11 @@ type Estado =
 
 interface Props {
   tituloCapitulo: string;
+  mostrarBoton: boolean;
+  onAbrirAjustes: () => void;
 }
 
-export function MeditationTimer({ tituloCapitulo }: Props) {
+export function MeditationTimer({ tituloCapitulo, mostrarBoton, onAbrirAjustes }: Props) {
   const [estado, setEstado] = useState<Estado>({ fase: "inactivo" });
   const [transcurridoMs, setTranscurridoMs] = useState(0);
   const intervaloRef = useRef<number | undefined>(undefined);
@@ -52,13 +54,15 @@ export function MeditationTimer({ tituloCapitulo }: Props) {
   }
 
   if (estado.fase === "inactivo") {
+    if (!mostrarBoton) return null;
     return (
       <button
         className="meditacion-fab"
         onClick={() => setEstado({ fase: "eligiendo" })}
         aria-label="Iniciar tiempo de meditación"
+        title="Iniciar tiempo de meditación"
       >
-        Meditar
+        ⏱
       </button>
     );
   }
@@ -74,9 +78,14 @@ export function MeditationTimer({ tituloCapitulo }: Props) {
             </button>
           ))}
         </div>
-        <button className="meditacion-cerrar" onClick={() => setEstado({ fase: "inactivo" })}>
-          Cancelar
-        </button>
+        <div className="meditacion-panel__pie">
+          <button className="meditacion-cerrar" onClick={onAbrirAjustes}>
+            Ajustes
+          </button>
+          <button className="meditacion-cerrar" onClick={() => setEstado({ fase: "inactivo" })}>
+            Cancelar
+          </button>
+        </div>
       </div>
     );
   }
