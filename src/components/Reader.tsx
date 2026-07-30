@@ -1,6 +1,5 @@
 import { useMemo, useState } from "react";
 import {
-  CHAPTERS,
   getChapterById,
   getChapterContent,
   getFirstChapter,
@@ -9,6 +8,7 @@ import {
 } from "../content/chapters";
 import { getProgreso, setCapituloActual } from "../content/progress";
 import { useConfiguracion } from "../hooks/useConfiguracion";
+import { HeaderNav } from "./HeaderNav";
 import { MeditationTimer } from "./MeditationTimer";
 
 function resolveInitialChapterId(): string {
@@ -36,12 +36,7 @@ export function Reader() {
 
   return (
     <div className="reader">
-      <header className="reader__progreso">
-        <span>{chapter.libroTitulo}</span>
-        <span>
-          Capítulo {chapter.globalIndex + 1} de {CHAPTERS.length}
-        </span>
-      </header>
+      <HeaderNav chapter={chapter} onSelect={irA} />
 
       <article className="reader__capitulo">
         <h1>{chapter.titulo}</h1>

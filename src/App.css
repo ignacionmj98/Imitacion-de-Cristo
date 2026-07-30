@@ -9,16 +9,112 @@
 
 .reader__progreso {
   display: flex;
+  align-items: flex-start;
   justify-content: space-between;
+  gap: 12px;
   font-family: var(--sans);
   font-size: 13px;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--text);
-  opacity: 0.65;
   border-bottom: 1px solid var(--border);
   padding-bottom: 16px;
   margin-bottom: 24px;
+}
+
+.selector-header {
+  position: relative;
+}
+
+.selector-header--derecha {
+  text-align: right;
+}
+
+.selector-header__boton {
+  /* La opacidad va acá, no en .reader__progreso: si estuviera en un
+     ancestro del dropdown, éste se vería semitransparente también,
+     dejando pasar el texto de atrás. */
+  opacity: 0.65;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  text-align: inherit;
+  cursor: pointer;
+}
+
+.selector-header--derecha .selector-header__boton {
+  flex-direction: row-reverse;
+}
+
+.selector-header__flecha {
+  font-size: 10px;
+  flex-shrink: 0;
+  transition: transform 0.15s ease;
+}
+
+.selector-header__flecha.abierta {
+  transform: rotate(180deg);
+}
+
+.selector-header__lista {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  z-index: 20;
+  list-style: none;
+  margin: 0;
+  padding: 6px;
+  min-width: 240px;
+  max-width: 320px;
+  max-height: 320px;
+  overflow-y: auto;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.selector-header__lista--derecha {
+  left: auto;
+  right: 0;
+}
+
+.selector-header__lista li + li {
+  margin-top: 2px;
+}
+
+.selector-header__lista button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-family: var(--sans);
+  font-size: 13px;
+  text-transform: none;
+  letter-spacing: normal;
+  line-height: 1.4;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: none;
+  background: transparent;
+  color: var(--text-h);
+  cursor: pointer;
+}
+
+.selector-header__lista button:hover {
+  background: var(--border);
+}
+
+.selector-header__lista button.activo {
+  background: var(--accent);
+  color: var(--bg);
 }
 
 .reader__capitulo {

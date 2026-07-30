@@ -58,6 +58,28 @@ export function getPreviousChapter(current: Chapter): Chapter | undefined {
   return CHAPTERS[current.globalIndex - 1];
 }
 
+export interface Libro {
+  slug: string;
+  titulo: string;
+  primerCapituloId: string;
+}
+
+export function getLibros(): Libro[] {
+  const libros: Libro[] = [];
+  const vistos = new Set<string>();
+  for (const c of CHAPTERS) {
+    if (!vistos.has(c.libroSlug)) {
+      vistos.add(c.libroSlug);
+      libros.push({ slug: c.libroSlug, titulo: c.libroTitulo, primerCapituloId: c.id });
+    }
+  }
+  return libros;
+}
+
+export function getCapitulosDeLibro(libroSlug: string): Chapter[] {
+  return CHAPTERS.filter((c) => c.libroSlug === libroSlug);
+}
+
 export interface ParsedChapter {
   titulo: string;
   parrafos: string[];
