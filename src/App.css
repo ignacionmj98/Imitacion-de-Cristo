@@ -2,7 +2,9 @@
   display: flex;
   flex-direction: column;
   min-height: 100svh;
-  padding: 32px 0 40px;
+  /* Espacio de sobra abajo para que el botón/anillo flotante (fixed)
+     nunca tape el texto final del capítulo ni la navegación. */
+  padding: 32px 0 104px;
 }
 
 .reader__progreso {
@@ -94,6 +96,57 @@
   font-size: 13px;
   color: var(--text-h);
   text-align: center;
+}
+
+.meditacion-panel--curso {
+  padding-top: 28px;
+}
+
+.meditacion-minimizar {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  border: none;
+  background: transparent;
+  color: var(--text);
+  opacity: 0.5;
+  font-size: 16px;
+  line-height: 1;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.meditacion-minimizar:hover {
+  opacity: 1;
+}
+
+.meditacion-mini {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  padding: 0;
+  background: var(--bg);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.meditacion-mini .meditacion-anillo {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.meditacion-mini__icono {
+  position: relative;
+  font-size: 16px;
+  color: var(--neutro-suave);
 }
 
 .meditacion-opciones {
