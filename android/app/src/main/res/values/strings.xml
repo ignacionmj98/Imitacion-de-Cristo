@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Imitación de Cristo</string>
+    <string name="title_activity_main">Imitación de Cristo</string>
+    <string name="package_name">com.ignacionmj98.imitaciondecristo</string>
+    <string name="custom_url_scheme">com.ignacionmj98.imitaciondecristo</string>
+</resources>
