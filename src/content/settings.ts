@@ -6,14 +6,12 @@ export interface Configuracion {
   tema: Tema;
   fuente: Fuente;
   tamanoLetra: TamanoLetra;
-  mostrarBotonMeditar: boolean;
 }
 
 export const CONFIGURACION_POR_DEFECTO: Configuracion = {
   tema: "automatico",
   fuente: "clasica",
   tamanoLetra: "mediana",
-  mostrarBotonMeditar: true,
 };
 
 const STORAGE_KEY = "icc:config:v1";

@@ -10,7 +10,6 @@ import {
 interface Props {
   config: Configuracion;
   onChange: (config: Configuracion) => void;
-  onClose: () => void;
 }
 
 const TEMAS: { valor: Tema; etiqueta: string }[] = [
@@ -19,7 +18,8 @@ const TEMAS: { valor: Tema; etiqueta: string }[] = [
   { valor: "automatico", etiqueta: "Automático" },
 ];
 
-export function SettingsPanel({ config, onChange, onClose }: Props) {
+/** Campos de ajustes, pensados para embeberse dentro del panel del reloj. */
+export function SettingsPanel({ config, onChange }: Props) {
   const [enPantallaCompleta, setEnPantallaCompleta] = useState(estaEnPantallaCompleta);
 
   useEffect(() => {
@@ -33,26 +33,7 @@ export function SettingsPanel({ config, onChange, onClose }: Props) {
   }
 
   return (
-    <div className="ajustes-panel">
-      <div className="ajustes-panel__encabezado">
-        <h2>Ajustes</h2>
-        <button className="meditacion-cerrar" onClick={onClose} aria-label="Cerrar ajustes">
-          Cerrar
-        </button>
-      </div>
-
-      <section className="ajustes-seccion">
-        <p className="ajustes-seccion__titulo">Botón de meditar</p>
-        <label className="ajustes-switch">
-          <input
-            type="checkbox"
-            checked={config.mostrarBotonMeditar}
-            onChange={(e) => actualizar("mostrarBotonMeditar", e.target.checked)}
-          />
-          Mostrar botón de meditar
-        </label>
-      </section>
-
+    <>
       <section className="ajustes-seccion">
         <p className="ajustes-seccion__titulo">Apariencia</p>
         <div className="ajustes-opciones">
@@ -112,6 +93,6 @@ export function SettingsPanel({ config, onChange, onClose }: Props) {
           </button>
         </section>
       )}
-    </div>
+    </>
   );
 }

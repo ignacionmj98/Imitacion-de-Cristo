@@ -10,7 +10,6 @@ import {
 import { getProgreso, setCapituloActual } from "../content/progress";
 import { useConfiguracion } from "../hooks/useConfiguracion";
 import { MeditationTimer } from "./MeditationTimer";
-import { SettingsPanel } from "./SettingsPanel";
 
 function resolveInitialChapterId(): string {
   const progreso = getProgreso();
@@ -23,7 +22,6 @@ function resolveInitialChapterId(): string {
 export function Reader() {
   const [chapterId, setChapterId] = useState<string>(resolveInitialChapterId);
   const [config, setConfig] = useConfiguracion();
-  const [ajustesAbiertos, setAjustesAbiertos] = useState(false);
 
   const chapter = getChapterById(chapterId) ?? getFirstChapter();
   const { parrafos } = useMemo(() => getChapterContent(chapter), [chapter]);
@@ -61,31 +59,7 @@ export function Reader() {
         </button>
       </nav>
 
-      {!ajustesAbiertos && (
-        <button
-          className="ajustes-fab"
-          onClick={() => setAjustesAbiertos(true)}
-          aria-label="Abrir ajustes"
-        >
-          ⚙
-        </button>
-      )}
-
-      {ajustesAbiertos && (
-        <SettingsPanel
-          config={config}
-          onChange={setConfig}
-          onClose={() => setAjustesAbiertos(false)}
-        />
-      )}
-
-      {!ajustesAbiertos && (
-        <MeditationTimer
-          tituloCapitulo={chapter.titulo}
-          mostrarBoton={config.mostrarBotonMeditar}
-          onAbrirAjustes={() => setAjustesAbiertos(true)}
-        />
-      )}
+      <MeditationTimer tituloCapitulo={chapter.titulo} config={config} onConfigChange={setConfig} />
     </div>
   );
 }

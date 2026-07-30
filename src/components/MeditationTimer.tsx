@@ -1,10 +1,12 @@
 import { useEffect, useRef, useState } from "react";
+import type { Configuracion } from "../content/settings";
 import {
   DURACIONES_MINUTOS,
   type DuracionMinutos,
   iniciarSesionMeditacion,
   cancelarSesionMeditacion,
 } from "../services/meditationTimer";
+import { SettingsPanel } from "./SettingsPanel";
 
 type Estado =
   | { fase: "inactivo" }
@@ -14,11 +16,11 @@ type Estado =
 
 interface Props {
   tituloCapitulo: string;
-  mostrarBoton: boolean;
-  onAbrirAjustes: () => void;
+  config: Configuracion;
+  onConfigChange: (config: Configuracion) => void;
 }
 
-export function MeditationTimer({ tituloCapitulo, mostrarBoton, onAbrirAjustes }: Props) {
+export function MeditationTimer({ tituloCapitulo, config, onConfigChange }: Props) {
   const [estado, setEstado] = useState<Estado>({ fase: "inactivo" });
   const [transcurridoMs, setTranscurridoMs] = useState(0);
   const [minimizado, setMinimizado] = useState(false);
@@ -57,13 +59,12 @@ export function MeditationTimer({ tituloCapitulo, mostrarBoton, onAbrirAjustes }
   }
 
   if (estado.fase === "inactivo") {
-    if (!mostrarBoton) return null;
     return (
       <button
         className="meditacion-fab"
         onClick={() => setEstado({ fase: "eligiendo" })}
-        aria-label="Iniciar tiempo de meditación"
-        title="Iniciar tiempo de meditación"
+        aria-label="Iniciar tiempo de meditación y abrir ajustes"
+        title="Meditar / Ajustes"
       >
         ⏱
       </button>
@@ -81,14 +82,12 @@ export function MeditationTimer({ tituloCapitulo, mostrarBoton, onAbrirAjustes }
             </button>
           ))}
         </div>
-        <div className="meditacion-panel__pie">
-          <button className="meditacion-cerrar" onClick={onAbrirAjustes}>
-            Ajustes
-          </button>
-          <button className="meditacion-cerrar" onClick={() => setEstado({ fase: "inactivo" })}>
-            Cancelar
-          </button>
-        </div>
+
+        <SettingsPanel config={config} onChange={onConfigChange} />
+
+        <button className="meditacion-cerrar" onClick={() => setEstado({ fase: "inactivo" })}>
+          Cerrar
+        </button>
       </div>
     );
   }
