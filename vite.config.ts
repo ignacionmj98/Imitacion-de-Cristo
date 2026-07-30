@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      includeAssets: ["favicon.svg"],
+      includeAssets: ["favicon.png"],
       manifest: {
         name: "Imitación de Cristo",
         short_name: "Imitación de Cristo",
@@ -16,19 +16,31 @@ export default defineConfig({
         lang: "es",
         start_url: "/",
         display: "standalone",
-        background_color: "#fbf9f4",
-        theme_color: "#7a5c3e",
+        background_color: "#f4ecd8",
+        theme_color: "#3a2a1a",
         icons: [
           {
-            src: "favicon.svg",
-            sizes: "any",
-            type: "image/svg+xml",
-            purpose: "any maskable",
+            src: "pwa-192x192.png",
+            sizes: "192x192",
+            type: "image/png",
+            purpose: "any",
+          },
+          {
+            src: "pwa-512x512.png",
+            sizes: "512x512",
+            type: "image/png",
+            purpose: "any",
+          },
+          {
+            src: "pwa-maskable-512x512.png",
+            sizes: "512x512",
+            type: "image/png",
+            purpose: "maskable",
           },
         ],
       },
       workbox: {
-        globPatterns: ["**/*.{js,css,html,svg,json}"],
+        globPatterns: ["**/*.{js,css,html,png,svg,json}"],
       },
     }),
   ],
