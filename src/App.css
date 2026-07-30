@@ -9,45 +9,40 @@
 
 .reader__progreso {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
-  gap: 12px;
-  font-family: var(--sans);
-  font-size: 13px;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--text);
+  gap: 10px;
   border-bottom: 1px solid var(--border);
-  padding-bottom: 16px;
-  margin-bottom: 24px;
+  padding-bottom: 14px;
+  margin-bottom: 20px;
 }
 
 .selector-header {
   position: relative;
 }
 
-.selector-header--derecha {
-  text-align: right;
-}
-
 .selector-header__boton {
-  /* La opacidad va acá, no en .reader__progreso: si estuviera en un
-     ancestro del dropdown, éste se vería semitransparente también,
-     dejando pasar el texto de atrás. */
-  opacity: 0.65;
   display: inline-flex;
   align-items: center;
-  gap: 4px;
-  background: none;
-  border: none;
-  padding: 0;
-  margin: 0;
-  font: inherit;
-  color: inherit;
-  text-transform: inherit;
-  letter-spacing: inherit;
-  text-align: inherit;
+  gap: 6px;
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 12px;
   cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.selector-header__boton:hover,
+.selector-header__boton[aria-expanded="true"] {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 .selector-header--derecha .selector-header__boton {
@@ -55,7 +50,6 @@
 }
 
 .selector-header__flecha {
-  font-size: 10px;
   flex-shrink: 0;
   transition: transform 0.15s ease;
 }

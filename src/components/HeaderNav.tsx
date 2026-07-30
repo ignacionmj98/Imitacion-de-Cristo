@@ -1,19 +1,44 @@
-import { useEffect, useRef, useState } from "react";
+import { useRef, useState } from "react";
 import { CHAPTERS, getCapitulosDeLibro, getLibros, type Chapter } from "../content/chapters";
+import { useCerrarAlClickAfuera } from "../hooks/useCerrarAlClickAfuera";
 
 interface Props {
   chapter: Chapter;
   onSelect: (chapterId: string) => void;
 }
 
-function useCerrarAlClickAfuera(ref: React.RefObject<HTMLElement | null>, cerrar: () => void) {
-  useEffect(() => {
-    function onClick(e: MouseEvent) {
-      if (ref.current && !ref.current.contains(e.target as Node)) cerrar();
+const ROMANOS: [number, string][] = [
+  [10, "X"],
+  [9, "IX"],
+  [5, "V"],
+  [4, "IV"],
+  [1, "I"],
+];
+
+function toRomano(n: number): string {
+  let resto = n;
+  let out = "";
+  for (const [valor, simbolo] of ROMANOS) {
+    while (resto >= valor) {
+      out += simbolo;
+      resto -= valor;
     }
-    document.addEventListener("mousedown", onClick);
-    return () => document.removeEventListener("mousedown", onClick);
-  }, [ref, cerrar]);
+  }
+  return out;
+}
+
+function Chevron({ abierto }: { abierto: boolean }) {
+  return (
+    <svg
+      width="9"
+      height="9"
+      viewBox="0 0 12 12"
+      fill="none"
+      className={`selector-header__flecha${abierto ? " abierta" : ""}`}
+    >
+      <path d="M2.5 4.5L6 8l3.5-3.5" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
 }
 
 export function HeaderNav({ chapter, onSelect }: Props) {
@@ -30,6 +55,7 @@ function LibroSelector({ chapter, onSelect }: Props) {
   const ref = useRef<HTMLDivElement>(null);
   useCerrarAlClickAfuera(ref, () => setAbierto(false));
   const libros = getLibros();
+  const indiceLibro = libros.findIndex((l) => l.slug === chapter.libroSlug) + 1;
 
   return (
     <div className="selector-header" ref={ref}>
@@ -37,9 +63,10 @@ function LibroSelector({ chapter, onSelect }: Props) {
         className="selector-header__boton"
         onClick={() => setAbierto((v) => !v)}
         aria-expanded={abierto}
+        title={chapter.libroTitulo}
       >
-        <span>{chapter.libroTitulo}</span>
-        <span className={`selector-header__flecha${abierto ? " abierta" : ""}`}>▾</span>
+        <span>Libro {toRomano(indiceLibro)}</span>
+        <Chevron abierto={abierto} />
       </button>
       {abierto && (
         <ul className="selector-header__lista">
@@ -74,11 +101,12 @@ function CapituloSelector({ chapter, onSelect }: Props) {
         className="selector-header__boton"
         onClick={() => setAbierto((v) => !v)}
         aria-expanded={abierto}
+        title={chapter.titulo}
       >
         <span>
-          Capítulo {chapter.globalIndex + 1} de {CHAPTERS.length}
+          Cap. {chapter.globalIndex + 1}/{CHAPTERS.length}
         </span>
-        <span className={`selector-header__flecha${abierto ? " abierta" : ""}`}>▾</span>
+        <Chevron abierto={abierto} />
       </button>
       {abierto && (
         <ul className="selector-header__lista selector-header__lista--derecha">

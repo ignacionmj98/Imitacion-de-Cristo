@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import type { Configuracion } from "../content/settings";
+import { useCerrarAlClickAfuera } from "../hooks/useCerrarAlClickAfuera";
 import {
   DURACIONES_MINUTOS,
   type DuracionMinutos,
@@ -25,6 +26,10 @@ export function MeditationTimer({ tituloCapitulo, config, onConfigChange }: Prop
   const [transcurridoMs, setTranscurridoMs] = useState(0);
   const [minimizado, setMinimizado] = useState(false);
   const intervaloRef = useRef<number | undefined>(undefined);
+  const panelElegirRef = useRef<HTMLDivElement>(null);
+  useCerrarAlClickAfuera(panelElegirRef, () => {
+    if (estado.fase === "eligiendo") setEstado({ fase: "inactivo" });
+  });
 
   useEffect(() => {
     if (estado.fase !== "en-curso") return;
@@ -73,7 +78,7 @@ export function MeditationTimer({ tituloCapitulo, config, onConfigChange }: Prop
 
   if (estado.fase === "eligiendo") {
     return (
-      <div className="meditacion-panel meditacion-panel--elegir">
+      <div className="meditacion-panel meditacion-panel--elegir" ref={panelElegirRef}>
         <p>Duración de la meditación</p>
         <div className="meditacion-opciones">
           {DURACIONES_MINUTOS.map((min) => (
