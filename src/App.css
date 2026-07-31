@@ -27,22 +27,21 @@
   gap: 6px;
   font-family: var(--sans);
   font-size: 11px;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  color: var(--text);
-  background: transparent;
-  border: 1px solid var(--border);
+  color: var(--accent);
+  background: var(--accent-bg);
+  border: 1px solid transparent;
   border-radius: 999px;
   padding: 6px 12px;
   cursor: pointer;
-  transition: border-color 0.15s ease, color 0.15s ease;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
 }
 
 .selector-header__boton:hover,
 .selector-header__boton[aria-expanded="true"] {
   border-color: var(--accent);
-  color: var(--accent);
 }
 
 .selector-header--derecha .selector-header__boton {
