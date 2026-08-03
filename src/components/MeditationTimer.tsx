@@ -25,6 +25,9 @@ export function MeditationTimer({ tituloCapitulo, config, onConfigChange }: Prop
   const [estado, setEstado] = useState<Estado>({ fase: "inactivo" });
   const [transcurridoMs, setTranscurridoMs] = useState(0);
   const [minimizado, setMinimizado] = useState(false);
+  const [duracionSeleccionada, setDuracionSeleccionada] = useState<DuracionMinutos>(
+    DURACIONES_MINUTOS[0],
+  );
   const intervaloRef = useRef<number | undefined>(undefined);
   const panelElegirRef = useRef<HTMLDivElement>(null);
   useCerrarAlClickAfuera(panelElegirRef, () => {
@@ -82,13 +85,24 @@ export function MeditationTimer({ tituloCapitulo, config, onConfigChange }: Prop
         <p>Duración de la meditación</p>
         <div className="meditacion-opciones">
           {DURACIONES_MINUTOS.map((min) => (
-            <button key={min} onClick={() => elegirDuracion(min)}>
+            <button
+              key={min}
+              className={min === duracionSeleccionada ? "activo" : ""}
+              onClick={() => setDuracionSeleccionada(min)}
+            >
               {min} min
             </button>
           ))}
         </div>
 
         <SettingsPanel config={config} onChange={onConfigChange} />
+
+        <button
+          className="meditacion-comenzar"
+          onClick={() => elegirDuracion(duracionSeleccionada)}
+        >
+          Comenzar meditación
+        </button>
 
         <button className="meditacion-cerrar" onClick={() => setEstado({ fase: "inactivo" })}>
           Cerrar
