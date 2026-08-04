@@ -97,16 +97,18 @@ export function MeditationTimer({ tituloCapitulo, config, onConfigChange }: Prop
 
         <SettingsPanel config={config} onChange={onConfigChange} />
 
-        <button
-          className="meditacion-comenzar"
-          onClick={() => elegirDuracion(duracionSeleccionada)}
-        >
-          Comenzar meditación
-        </button>
+        <div className="meditacion-panel__pie-fijo">
+          <button
+            className="meditacion-comenzar"
+            onClick={() => elegirDuracion(duracionSeleccionada)}
+          >
+            Comenzar meditación
+          </button>
 
-        <button className="meditacion-cerrar" onClick={() => setEstado({ fase: "inactivo" })}>
-          Cerrar
-        </button>
+          <button className="meditacion-cerrar" onClick={() => setEstado({ fase: "inactivo" })}>
+            Cerrar
+          </button>
+        </div>
       </div>
     );
   }

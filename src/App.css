@@ -199,6 +199,23 @@
   overflow-y: auto;
 }
 
+.meditacion-panel__pie-fijo {
+  /* Se pega abajo del panel scrolleable para que "Comenzar meditación"
+     siempre quede a la vista, sin importar cuánto se scrollee arriba. */
+  position: sticky;
+  bottom: -18px;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: calc(100% + 40px);
+  margin: 4px -20px -18px;
+  padding: 12px 20px 18px;
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+}
+
 .meditacion-minimizar {
   position: absolute;
   top: 6px;
