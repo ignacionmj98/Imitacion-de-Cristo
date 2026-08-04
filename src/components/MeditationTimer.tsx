@@ -82,7 +82,7 @@ export function MeditationTimer({ tituloCapitulo, config, onConfigChange }: Prop
   if (estado.fase === "eligiendo") {
     return (
       <div className="meditacion-panel meditacion-panel--elegir" ref={panelElegirRef}>
-        <p>Duración de la meditación</p>
+        <p>Duración de la meditación (minutos)</p>
         <div className="meditacion-opciones">
           {DURACIONES_MINUTOS.map((min) => (
             <button
@@ -90,7 +90,7 @@ export function MeditationTimer({ tituloCapitulo, config, onConfigChange }: Prop
               className={min === duracionSeleccionada ? "activo" : ""}
               onClick={() => setDuracionSeleccionada(min)}
             >
-              {min} min
+              {min}
             </button>
           ))}
         </div>
