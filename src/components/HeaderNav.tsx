@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import { CHAPTERS, getCapitulosDeLibro, getLibros, type Chapter } from "../content/chapters";
+import { getCapitulosDeLibro, getLibros, type Chapter } from "../content/chapters";
 import { useCerrarAlClickAfuera } from "../hooks/useCerrarAlClickAfuera";
 
 interface Props {
@@ -104,7 +104,7 @@ function CapituloSelector({ chapter, onSelect }: Props) {
         title={chapter.titulo}
       >
         <span>
-          Cap. {chapter.globalIndex + 1}/{CHAPTERS.length}
+          Cap. {chapter.numero}/{capitulos.length}
         </span>
         <Chevron abierto={abierto} />
       </button>
