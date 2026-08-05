@@ -144,6 +144,98 @@
   color: var(--accent);
 }
 
+.instalar-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  font-family: var(--sans);
+  animation: instalar-banner-bajar 0.25s ease;
+}
+
+@keyframes instalar-banner-bajar {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+.instalar-banner__icono {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.instalar-banner__texto {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.instalar-banner__texto strong {
+  font-size: 13px;
+  color: var(--text-h);
+}
+
+.instalar-banner__texto span {
+  font-size: 12px;
+  color: var(--text);
+  opacity: 0.75;
+  line-height: 1.35;
+}
+
+.instalar-banner__acciones {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.instalar-banner__instalar {
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: none;
+  background: var(--accent-vivido);
+  color: #fff;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.instalar-banner__instalar:hover {
+  filter: brightness(1.08);
+}
+
+.instalar-banner__cerrar {
+  border: none;
+  background: transparent;
+  color: var(--text);
+  opacity: 0.5;
+  font-size: 16px;
+  line-height: 1;
+  padding: 6px;
+  cursor: pointer;
+}
+
+.instalar-banner__cerrar:hover {
+  opacity: 1;
+}
+
 .meditacion-fab {
   position: fixed;
   right: 20px;
