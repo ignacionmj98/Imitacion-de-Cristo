@@ -1,0 +1,9 @@
+### Capítulo 2. Del bajo aprecio de sí mismo
+
+1.Todos los hombres, naturalmente, desean saber; mas ¿qué aprovecha la ciencia, sin el temor de Dios? Por cierto, mejor es el rústico humilde que a Dios sirve, que el soberbio filósofo que, dejando de conocerse, considera el curso del cielo. El que bien se conoce, tienese por vil, y no se deleita en alabanzas humanas. Si yo supiera cuanto hay en el mundo y no estubiera en caridad, ¿Qué me aprovecharia delante de Dios, que me juzgará según mis obras?
+
+2. No tengas deseo demasiado de saber, porque en ello se halla grande estorbo y engaño. Los letrados gustan de ser vistos y tenidos por tales. Muchas cosas hay que, el saberlas, poco o nada aprovecha al alma; y muy loco es el que en otras cosas entiende, sino en las que tocan a la salvación. Las muchas palabras no hartan el alma; mas la buena vida le da refrigerio, y la pura, conciencia causa gran confianza en Dios.
+
+3. Cuanto más y mejor entiendes, tanto más gravemente serás juzgado si no vivieres santamente. Por eso no te ensalces por alguna de las artes o ciencias; mas teme del conocimiento que de ella se te ha dado. Si te parece que sabes mucho y entiendes muy bien, ten por cierto que es mucho más lo que ignoras. No quieras saber cosas altas (Ron., 11, 21); mas confiesa tu ignorancia. ¿Por qué te quieres tener en más que otro, hallándose muchos más doctos y sabios en la Ley que tú? Si quieres saber y aprender algo provechosamente, desea que no te conozcan ni te estimen.
+
+4. EI verdadero conocimiento y desprecio de sí mismo es altísima y doctísima lección. Gran sabiduría y perfección es sentir siempre bien y grandes cosas de otros, y tenerse y reputarse en nada. Si vieres a alguno pecar públicamente o cometer culpas graves, no te debes juzgar por mejor, porque no sabes cuánto podrás perseverar en el bien. Todos somos flacos; mas tú a nadie tengas por más flaco que a ti.

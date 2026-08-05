@@ -1,0 +1,1 @@
+Venid a Mí todos los que tenéis, trabajos y estáis cargados, y yo os aliviaré, dice el Señor. El pan que yo os daré, es mi carne, por la vida del mundo. Tomad y comed: este es mi cuerpo; que será entregado por vosotros. Haced esto en memoria de Mí. El que come mi carne y bebe mi sangre, está en Mí, y yo en él. Las palabras que os he dicho, espíritu y vida son.

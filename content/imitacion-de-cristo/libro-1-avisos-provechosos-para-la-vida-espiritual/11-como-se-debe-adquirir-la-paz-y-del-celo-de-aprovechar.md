@@ -1,0 +1,13 @@
+### Capítulo 11. Cómo se debe adquirir la paz y del celo de aprovechar
+
+1. Mucha paz tendríamos si en las dichos y hechos ajenos que no nos pertenecen no quisiésemos meternos. ¿Cómo puede estar en paz mucho tiempo el que se entremete en cuidados ajenos, y busca ocasiones exteriores, y dentro de sí poco o tarde se recoge? bienaventurados los sencillos, porque tendrán mucha paz.
+
+2. ¿Cuál fue la causa por que muchos de los Santos fueron tan perfectos y contemplativos? Porque estudiaron en mortificarse totalmente a todo deseo terreno; y por eso :pudieron con. lo .íntimo del corazón allegarse a Dios y ocuparse libremente en sí mismos: Nosotros nos ocupamos mucho con nuestras pasiones; y tenemos demasiado cuidado de lo transitorio. Y también pocas veces vencemos un vicio perfectamente, ni nos alentamos para aprovechar cada día, y por esto nos quedamos tibios y aun fríos.
+
+3. Si estuviésemos perfectamente muertos a nosotros mismos, y en lo interior desocupados, entonces podríamos gustar las cosas divinas y experimentar algo de la contemplación celestial. El impedimento mayor y total es qué no somos libres de nuestras inclinaciones y deseos, ni trabajamos por entrar en el camino perfecto de los Santos.
+
+4. Y también cuando alguna adversidad se nos ofrece, muy presto nos desalentamos y nos volvemos a las consolaciones humanas. Si nos esforzásemos más a pelear como fuertes varones, veríamos sin duda la ayuda del Señor que viene desde el Cielo sobre nosotros. Porque dispuesto está a socorrer a los que pelean y esperan en su gracia, y nos procura ocasiones de pelear para que alcancemos victoria. Si solamente en las observancias de fuera ponemos el aprovechamiento de la vida religiosa, presto se nos acabara la devoción. Mas pongamos. la segur a la raíz, porque, libres de las pasiones, poseamos pacíficas nuestras almas.
+
+5. Si cada año desarraigásemos un vicio presto seríamos perfectos. Mas ahora, al contrario, muchas veces experimentamos que fuimos mejores y más puros en el principio de nuestra conversión que después de muchos años de profesos. Nuestro fervor y aprovechamiento cada día debe crecer; mas ahora ya nos parece mucho conservar alguna parte del primer fervor. Si al principio hiciésemos algún esfuerzo, podríamos después hacerlo todo con facilidad y gozo. 6. Grave cosa es dejar la, costumbre; pero, más grave es ir contraria propia voluntad. Mas si no vences las cosas pequeñas y ligeras, ¿cómo vencerás las dificultosas?
+
+Resiste en los principios a tu inclinación, y deja la mala costumbre, porque no te lleve poco a poco a mayor dificultad. ¡Oh, si mirases cuánta paz a ti mismo, y cuánta alegría darías a los otros rigiéndote bien, yo creo que serías más solícito en el aprovechamiento espiritual!

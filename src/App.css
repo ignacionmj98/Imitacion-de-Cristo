@@ -1,0 +1,420 @@
+.reader {
+  display: flex;
+  flex-direction: column;
+  min-height: 100svh;
+  /* Espacio de sobra abajo para que el botón/anillo flotante (fixed)
+     nunca tape el texto final del capítulo ni la navegación. */
+  padding: 32px 0 104px;
+}
+
+.reader__progreso {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 14px;
+  margin-bottom: 20px;
+}
+
+.selector-header {
+  position: relative;
+}
+
+.selector-header__boton {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: var(--accent-bg);
+  border: 1px solid transparent;
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.selector-header__boton:hover,
+.selector-header__boton[aria-expanded="true"] {
+  border-color: var(--accent);
+}
+
+.selector-header--derecha .selector-header__boton {
+  flex-direction: row-reverse;
+}
+
+.selector-header__flecha {
+  flex-shrink: 0;
+  transition: transform 0.15s ease;
+}
+
+.selector-header__flecha.abierta {
+  transform: rotate(180deg);
+}
+
+.selector-header__lista {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  z-index: 20;
+  list-style: none;
+  margin: 0;
+  padding: 6px;
+  min-width: 240px;
+  max-width: 320px;
+  max-height: 320px;
+  overflow-y: auto;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.selector-header__lista--derecha {
+  left: auto;
+  right: 0;
+}
+
+.selector-header__lista li + li {
+  margin-top: 2px;
+}
+
+.selector-header__lista button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-family: var(--sans);
+  font-size: 13px;
+  text-transform: none;
+  letter-spacing: normal;
+  line-height: 1.4;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: none;
+  background: transparent;
+  color: var(--text-h);
+  cursor: pointer;
+}
+
+.selector-header__lista button:hover {
+  background: var(--border);
+}
+
+.selector-header__lista button.activo {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.reader__capitulo {
+  flex: 1;
+}
+
+.reader__nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+}
+
+.reader__nav button {
+  font-family: var(--sans);
+  font-size: 15px;
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-h);
+  cursor: pointer;
+}
+
+.reader__nav button:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.reader__nav button:not(:disabled):hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.meditacion-fab {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  line-height: 1;
+  border-radius: 50%;
+  border: none;
+  background: var(--accent-vivido);
+  color: #fff;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+
+.meditacion-panel {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 18px 20px;
+  border-radius: 16px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  font-family: var(--sans);
+  min-width: 180px;
+}
+
+.meditacion-panel p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--text-h);
+  text-align: center;
+}
+
+.meditacion-panel--curso {
+  padding-top: 28px;
+}
+
+.meditacion-panel--elegir {
+  left: 20px;
+  max-width: 360px;
+  margin: 0 auto;
+  max-height: 88vh;
+  overflow-y: auto;
+  gap: 6px;
+  padding: 12px 14px;
+}
+
+.meditacion-panel__pie-fijo {
+  /* Se pega abajo del panel scrolleable para que "Comenzar meditación"
+     siempre quede a la vista, sin importar cuánto se scrollee arriba
+     (y de respaldo, por si en una pantalla chica no entra todo junto). */
+  position: sticky;
+  bottom: -12px;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  width: calc(100% + 28px);
+  margin: 2px -14px -12px;
+  padding: 8px 14px 12px;
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+}
+
+.meditacion-minimizar {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  border: none;
+  background: transparent;
+  color: var(--text);
+  opacity: 0.5;
+  font-size: 16px;
+  line-height: 1;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.meditacion-minimizar:hover {
+  opacity: 1;
+}
+
+.meditacion-mini {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  padding: 0;
+  background: var(--bg);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.meditacion-mini .meditacion-anillo {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.meditacion-mini__icono {
+  position: relative;
+  font-size: 16px;
+  color: var(--neutro-suave);
+}
+
+.meditacion-opciones {
+  display: flex;
+  gap: 6px;
+  flex-wrap: nowrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.meditacion-opciones button {
+  flex: 1;
+  font-family: var(--sans);
+  font-size: 13px;
+  padding: 6px 4px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-h);
+  cursor: pointer;
+}
+
+.meditacion-opciones button:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.meditacion-opciones button.activo {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.meditacion-comenzar {
+  width: 100%;
+  font-family: var(--sans);
+  font-size: 14px;
+  font-weight: 700;
+  padding: 9px 16px;
+  border-radius: 10px;
+  border: none;
+  background: var(--accent-vivido);
+  color: #fff;
+  cursor: pointer;
+}
+
+.meditacion-comenzar:hover {
+  filter: brightness(1.08);
+}
+
+.meditacion-cerrar {
+  font-family: var(--sans);
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: none;
+  background: transparent;
+  color: var(--text);
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.meditacion-cerrar:hover {
+  opacity: 1;
+}
+
+.meditacion-anillo {
+  transform: rotate(-90deg);
+}
+
+.meditacion-anillo__fondo,
+.meditacion-anillo__progreso {
+  fill: none;
+  stroke-width: 5;
+}
+
+.meditacion-anillo__fondo {
+  stroke: var(--border);
+}
+
+.meditacion-anillo__progreso {
+  /* Color apagado a propósito: una vez iniciada la meditación no debe
+     llamar la atención, a diferencia del botón vivido previo al inicio. */
+  stroke: var(--neutro-suave);
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.2s linear;
+}
+
+.meditacion-tiempo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.meditacion-tiempo strong {
+  font-size: 18px;
+  color: var(--text-h);
+}
+
+.meditacion-tiempo span {
+  font-size: 12px;
+  opacity: 0.65;
+}
+
+.ajustes-seccion {
+  padding: 8px 0;
+  border-top: 1px solid var(--border);
+}
+
+.ajustes-seccion:first-of-type {
+  border-top: none;
+}
+
+.ajustes-seccion__titulo {
+  margin: 0 0 6px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text);
+  opacity: 0.65;
+}
+
+.ajustes-opciones {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.ajustes-opciones button {
+  font-size: 13px;
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-h);
+  cursor: pointer;
+}
+
+.ajustes-opciones button.activo {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.ajustes-seccion > button {
+  font-size: 13px;
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-h);
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+### Capítulo 43. Contra la ciencia vana del mundo
+
+Jesucristo:
+
+1. Hijo, no te muevan los dichos agudos y limados de los hombres; porque no consiste el reino de Dios en palabras, sino en virtud. Mira mis palabras, que encienden los corazones, y alumbran los entendimientos, provocan a compunción y traen muchas consolaciones. Nunca leas cosas para mostrarte más letrado o sabio. Estudia en mortificar los vicios; porque más te aprovechará esto que saber muchas cuestiones dificultosas.
+
+2. Cuando hubieres acabado de leer y saber muchas cosas, te conviene venir a un solo principio. Yo soy el que enseño al hombre la ciencia, y doy más claro entendimiento a los pequeños que ningún hombre puede enseñar. Aquel a quien yo hablo, luego sera sabio y aprovechará mucho en el espíritu. ¡Ay de aquellos que quieren aprender de los hombres curiosidades, y cuidan muy poco del camino de servirme a Mí! Tiempo vendrá cuando aparecerá el Maestro de los maestros, Cristo, Señor de los ángeles, a oír las lecciones de todos, esto es, a examinar la ciencia de cada uno. Y entonces escudriñará a Jerusalén con candelas, y serán descubiertos los secretos de las tinieblas, y callarán los argumentos de las lenguas.
+
+3. Yo soy el que levanto en un instante al humilde entendimiento, para que entienda más razones de la verdad eterna, que si hubiese estudiado diez años en las Escuelas. Yo enseño sin ruido de palabras, sin confusión de pareceres, sin fausto de honra, sin alteración de argumentos. Yo soy el que enseño a despreciar lo terreno y a aborrecer lo presente, buscar lo eterno; huir de las honras, sufrir los estorbos, poner toda la esperanza en Mí, y fuera de Mí no desear nada, y amarme ardientemente sobre todas las cosas.
+
+4. Y así uno, amándome entrañablemente aprendió cosas divinas, y hablaba maravillas. Más aprovechó con dejar todas las cosas que con estudiar sutilezas. Pero a unos hablo cosas comunes, a otros especiales. A unos me muestro dulcemente con señales y figuras, y a otros revelo misterios con mucha luz. Una cosa dicen los libros; mas no enseñan igualmente a todos: porque Yo soy doctor interior de la verdad, escudriñador del corazón, conocedor de los pensamientos, promovedor de las acciones, repartiendo a cada uno según juzgo ser digno.

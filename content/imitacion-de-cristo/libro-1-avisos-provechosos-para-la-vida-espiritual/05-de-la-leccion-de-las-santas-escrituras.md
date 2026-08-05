@@ -1,0 +1,5 @@
+### Capítulo 5. De la lección de las Santas Escrituras
+
+1. En las Santas Escrituras se debe buscar la verdad, no la elocuencia. Toda la Escritura. santa se debe leer con el espíritu que se hizo. Más debemos buscar el provecho en la Escritura que no la sutileza de palabras. De tan buena gana debemos leer los libros sencillos y devotos como los sublimes y profundos. No te mueva la autoridad del que escribe si es de pequeña o grande ciencia; mas convídete a leer el amor de la pura verdad. No mires quién lo ha dicho, mas atiende qué tal es lo que se dijo. Los hombres pasan; mas la verdad del Señor permanece para siempre (Salmo ll6, 2).
+
+2. De diversas maneras nos habla Dios sin acepción de personas. Nuestra curiosidad nos impide muchas veces el provecho que se saca en leer las escrituras, cuando queremos entender y escudriñar lo que llanamente se debía pasar. Si quieres aprovechar, lee con humildad fiel y sencillamente, y nunca desees nombre de letrado. Pregunta de buena voluntad y oye callado las palabras de los Santos; y no te desagraden las sentencias de los viejos, porque no las dice) sin causa.
