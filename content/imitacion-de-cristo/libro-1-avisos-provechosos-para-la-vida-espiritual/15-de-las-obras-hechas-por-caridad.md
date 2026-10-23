@@ -1,6 +1,6 @@
 ### Capítulo 15. De las obras hechas por caridad
 
-I. Por ninguna cosa del mundo ni por amor de alguno se debe hacer lo que es malo; mas por el provecho de quien lo hubiere menester, alguna vez se puede dejar la buena obra, o trocarse por otra mejor. De esta suerte no se deja la buena obra, sino que se muda en mejor.
+1. Por ninguna cosa del mundo ni por amor de alguno se debe hacer lo que es malo; mas por el provecho de quien lo hubiere menester, alguna vez se puede dejar la buena obra, o trocarse por otra mejor. De esta suerte no se deja la buena obra, sino que se muda en mejor.
 
 La obra exterior sin caridad no aprovecha; pero lo que se hace con caridad, por poco y despreciable que sea, se hace todo fructuoso. Pues, ciertamente, más mira Dios al corazón que a la obra que se hace.
 

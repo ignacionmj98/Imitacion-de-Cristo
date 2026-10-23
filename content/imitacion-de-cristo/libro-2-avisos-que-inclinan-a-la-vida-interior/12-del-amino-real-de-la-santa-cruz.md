@@ -72,7 +72,7 @@ porque se tiene por más acepto a Dios, cuanto mayores y más graves cosas pudie
 
 Esto no es virtud humana, sino gracia de Cristo, que tanto puede y hace en la carne flaca, que lo que naturalmente siempre aborrece y huye, lo acometa y acabe con fervor de espíritu.
 
-9.No es según la condición humana llevar la cruz, amar la cruz, castigar el cuerpo, ponerle en servidumbre; huir las honras, sufrir de grado las injurias, despreciarse a sí mismo, y desear ser despreciado; sufrir toda cosa adversa y dañosa, y no desear cosa de prosperidad en este mundo. Si miras a ti, no podrás por ti cosa alguna de éstas: mas si confías en Dios, El te enviará fortaleza del cielo, y hará que te estén sujetos el mundo y la carne.
+9. No es según la condición humana llevar la cruz, amar la cruz, castigar el cuerpo, ponerle en servidumbre; huir las honras, sufrir de grado las injurias, despreciarse a sí mismo, y desear ser despreciado; sufrir toda cosa adversa y dañosa, y no desear cosa de prosperidad en este mundo. Si miras a ti, no podrás por ti cosa alguna de éstas: mas si confías en Dios, El te enviará fortaleza del cielo, y hará que te estén sujetos el mundo y la carne.
 
 Y no temerás al diablo tu enemigo, si estuvieses armado de fe, y señalado con la cruz de Cristo.
 

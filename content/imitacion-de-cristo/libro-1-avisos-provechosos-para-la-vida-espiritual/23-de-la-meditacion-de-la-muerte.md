@@ -70,7 +70,7 @@ Cuántos que pensaban vivir mucho, se han engañado, y han sido separados del cu
 
 Uno murió con fuego, otro con hierro, otro de peste, otro pereció a manos de ladrones; y así la muerte es fenecimiento de todos, y la vida de los hombres se pasa como sombra rápidamente.
 
-8.¿Quién se acordará de ti, y quién rogará por ti después de muerto?
+8. ¿Quién se acordará de ti, y quién rogará por ti después de muerto?
 
 Haz ahora, hermano, lo que pudieres; que no sabes cuándo morirás, ni lo que acaecerá después de la muerte.
 

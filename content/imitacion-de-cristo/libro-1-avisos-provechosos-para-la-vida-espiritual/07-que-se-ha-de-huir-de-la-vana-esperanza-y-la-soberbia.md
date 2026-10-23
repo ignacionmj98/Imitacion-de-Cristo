@@ -1,6 +1,6 @@
 ### Capítulo 7. Que se ha de huir de la vana esperanza y la soberbia
 
-1.Vano es el que pone su esperanza en los hombres o en las criaturas. No te avergüences de servir a otros por amor a Jesucristo y parecer pobre en este siglo.
+1. Vano es el que pone su esperanza en los hombres o en las criaturas. No te avergüences de servir a otros por amor a Jesucristo y parecer pobre en este siglo.
 
 No confíes de ti mismo, sino pon tu esperanza en Dios. Haz lo que puedas, y Dios favorecerá tu buena voluntad. No confíes en tu ciencia ni en la astucia d ningún viviente, sino en la gracia de Dios que ayuda a los humildes y abate a los presumidos.
 

@@ -1,6 +1,6 @@
 ### Capítulo 2. Del bajo aprecio de sí mismo
 
-1.Todos los hombres, naturalmente, desean saber; mas ¿qué aprovecha la ciencia, sin el temor de Dios? Por cierto, mejor es el rústico humilde que a Dios sirve, que el soberbio filósofo que, dejando de conocerse, considera el curso del cielo. El que bien se conoce, tienese por vil, y no se deleita en alabanzas humanas. Si yo supiera cuanto hay en el mundo y no estubiera en caridad, ¿Qué me aprovecharia delante de Dios, que me juzgará según mis obras?
+1. Todos los hombres, naturalmente, desean saber; mas ¿qué aprovecha la ciencia, sin el temor de Dios? Por cierto, mejor es el rústico humilde que a Dios sirve, que el soberbio filósofo que, dejando de conocerse, considera el curso del cielo. El que bien se conoce, tienese por vil, y no se deleita en alabanzas humanas. Si yo supiera cuanto hay en el mundo y no estubiera en caridad, ¿Qué me aprovecharia delante de Dios, que me juzgará según mis obras?
 
 2. No tengas deseo demasiado de saber, porque en ello se halla grande estorbo y engaño. Los letrados gustan de ser vistos y tenidos por tales. Muchas cosas hay que, el saberlas, poco o nada aprovecha al alma; y muy loco es el que en otras cosas entiende, sino en las que tocan a la salvación. Las muchas palabras no hartan el alma; mas la buena vida le da refrigerio, y la pura, conciencia causa gran confianza en Dios.
 

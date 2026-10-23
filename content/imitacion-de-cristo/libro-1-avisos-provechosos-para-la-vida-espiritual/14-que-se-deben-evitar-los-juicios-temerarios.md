@@ -1,6 +1,6 @@
 ### Capítulo 14. Que se deben evitar los juicios temerarios
 
-1.Pon los ojos. en ti mismo y guárdate de juzgar las obras ajenas. En juzgar a otros se ocupa uno en vano, yerra muchas veces y peca fácilmente; mas juzgando y examinándose a sí mismo se emplea siempre con fruto.
+1. Pon los ojos. en ti mismo y guárdate de juzgar las obras ajenas. En juzgar a otros se ocupa uno en vano, yerra muchas veces y peca fácilmente; mas juzgando y examinándose a sí mismo se emplea siempre con fruto.
 
 Muchas veces juzgamos según nuestro gusta de las cosas, pues fácilmente perdemos el verdadero juicio de ellas por el amor propio. Si fuese Dios siempre el fin puramente de nuestro deseo, no nos turbaría tan presto la contradicción de nuestra sensualidad. Pero muchas veces tenemos algo adentro escondido, o de fuera se ofrece; cuya afición nos lleva tras sí.
 

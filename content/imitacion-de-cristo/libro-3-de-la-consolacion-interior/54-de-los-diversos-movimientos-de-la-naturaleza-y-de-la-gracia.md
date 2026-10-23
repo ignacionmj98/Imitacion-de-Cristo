@@ -14,7 +14,9 @@ Jesucristo:
 
 6. La naturaleza teme la confusión y el desprecio. Pero la gracia se alegra en padecer injurias por el nombre de Jesús.
 
-7. La naturaleza ama el ocio y la quietud corporal. Más la gracia no puede estar ociosa; antes abraza de buena voluntad el trabajo. 8. La naturaleza busca tener cosas curiosas y hermosas, y aborrece las viles y groseras.
+7. La naturaleza ama el ocio y la quietud corporal. Más la gracia no puede estar ociosa; antes abraza de buena voluntad el trabajo.
+
+8. La naturaleza busca tener cosas curiosas y hermosas, y aborrece las viles y groseras.
 
 Mas la gracia se deleita con cosas llanas y bajas, no desecha las ásperas, ni rehúsa el vestir ropas viejas.
 

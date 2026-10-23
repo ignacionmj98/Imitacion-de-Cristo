@@ -10,7 +10,9 @@ El Alma:
 
 3. Señor, pues tu camino es estrecho y despreciado en el mundo, concédeme que te imite en despreciar el mundo. Pues no es mejor el siervo que su señor, ni el discípulo es superior al maestro. Ejercitase tu siervo en tu vida, pues en ella esta mi salud, y la santidad verdadera. Cualquier cosa que fuera de ella oigo o no me recrea ni satisface cumplidamente.
 
-Jesucristo: 4. Hijo, pues sabes esto y lo has leído todo, si lo hicieres, serás bienaventurado. El que abraza mis mandamientos y los guarda,ese es el que me ama, y Yo le amaré, y le manifestaré a él,y le haré sentar conmigo en el reino de mi Padre.
+Jesucristo:
+
+4. Hijo, pues sabes esto y lo has leído todo, si lo hicieres, serás bienaventurado. El que abraza mis mandamientos y los guarda,ese es el que me ama, y Yo le amaré, y le manifestaré a él,y le haré sentar conmigo en el reino de mi Padre.
 
 El Alma:
 

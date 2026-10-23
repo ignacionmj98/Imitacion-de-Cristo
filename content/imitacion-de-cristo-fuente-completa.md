@@ -18,11 +18,13 @@ Estas palabras son de Cristo, con las cuales nos amonesta que imitemos su vida y
 
 2. ¿Qué te aprovecha disputar altas cosas de la Trinidad, si careces de humildad, por donde desagradas a la Trinidad? Por cierto, las palabras subidas no hacen santo ni justo; mas la virtuosa vida hace al hombre amable a Dios. Más deseo sentir la contrición que saber definirla. Si supieses toda. 1a Biblia. a la letra y los dichos de todos los filósofos, ¿qué te aprovecharía todo sin caridad y gracia de Dios Vanidad de vanidades y todo vanidad (Eccl., l, 2), sino amar y servir solamente a Dios. Suma sabiduría es, por el desprecio del mundo, ir a los reinos celestiales.
 
-3. Vanidad es, pues, buscar riquezas perecederas y esperar en ellas. También es vanidad desear honras y ensalzarse vanamente. Vanidad es seguir el apetito de la carne y desear aquello por donde después te sea necesario ser castigado gravemente. Vanidad es desear larga vida y no cuida,: que sea buena. Vanidad es mirar solamente a esta presente vida y no prever lo venidero. Vanidad es amar lo que tan presto se paso: y no buscar con solicitud el gozo perdurable. 4. Acuérdate frecuentemente de aquel dicho de la Escritura: No se harta la vista de ver ni el oído de oír (Eccl., 1, 8). Procura, pues, desviar tu corazón de lo visible y traspasarlo a lo invisible, porque los que siguen su sensualidad manchan su conciencia, y pierden la gracia de Dios.
+3. Vanidad es, pues, buscar riquezas perecederas y esperar en ellas. También es vanidad desear honras y ensalzarse vanamente. Vanidad es seguir el apetito de la carne y desear aquello por donde después te sea necesario ser castigado gravemente. Vanidad es desear larga vida y no cuida,: que sea buena. Vanidad es mirar solamente a esta presente vida y no prever lo venidero. Vanidad es amar lo que tan presto se paso: y no buscar con solicitud el gozo perdurable.
+
+4. Acuérdate frecuentemente de aquel dicho de la Escritura: No se harta la vista de ver ni el oído de oír (Eccl., 1, 8). Procura, pues, desviar tu corazón de lo visible y traspasarlo a lo invisible, porque los que siguen su sensualidad manchan su conciencia, y pierden la gracia de Dios.
 
 ### Capítulo 2. Del bajo aprecio de sí mismo
 
-1.Todos los hombres, naturalmente, desean saber; mas ¿qué aprovecha la ciencia, sin el temor de Dios? Por cierto, mejor es el rústico humilde que a Dios sirve, que el soberbio filósofo que, dejando de conocerse, considera el curso del cielo. El que bien se conoce, tienese por vil, y no se deleita en alabanzas humanas. Si yo supiera cuanto hay en el mundo y no estubiera en caridad, ¿Qué me aprovecharia delante de Dios, que me juzgará según mis obras?
+1. Todos los hombres, naturalmente, desean saber; mas ¿qué aprovecha la ciencia, sin el temor de Dios? Por cierto, mejor es el rústico humilde que a Dios sirve, que el soberbio filósofo que, dejando de conocerse, considera el curso del cielo. El que bien se conoce, tienese por vil, y no se deleita en alabanzas humanas. Si yo supiera cuanto hay en el mundo y no estubiera en caridad, ¿Qué me aprovecharia delante de Dios, que me juzgará según mis obras?
 
 2. No tengas deseo demasiado de saber, porque en ello se halla grande estorbo y engaño. Los letrados gustan de ser vistos y tenidos por tales. Muchas cosas hay que, el saberlas, poco o nada aprovecha al alma; y muy loco es el que en otras cosas entiende, sino en las que tocan a la salvación. Las muchas palabras no hartan el alma; mas la buena vida le da refrigerio, y la pura, conciencia causa gran confianza en Dios.
 
@@ -76,7 +78,7 @@ En resistir, pues, a las pasiones se halla la, verdadera paz del corazón, y no 
 
 ### Capítulo 7. Que se ha de huir de la vana esperanza y la soberbia
 
-1.Vano es el que pone su esperanza en los hombres o en las criaturas. No te avergüences de servir a otros por amor a Jesucristo y parecer pobre en este siglo.
+1. Vano es el que pone su esperanza en los hombres o en las criaturas. No te avergüences de servir a otros por amor a Jesucristo y parecer pobre en este siglo.
 
 No confíes de ti mismo, sino pon tu esperanza en Dios. Haz lo que puedas, y Dios favorecerá tu buena voluntad. No confíes en tu ciencia ni en la astucia d ningún viviente, sino en la gracia de Dios que ayuda a los humildes y abate a los presumidos.
 
@@ -142,7 +144,9 @@ Pero no poco servirá para nuestro espiritual aprovechamiento la devota plática
 
 4. Y también cuando alguna adversidad se nos ofrece, muy presto nos desalentamos y nos volvemos a las consolaciones humanas. Si nos esforzásemos más a pelear como fuertes varones, veríamos sin duda la ayuda del Señor que viene desde el Cielo sobre nosotros. Porque dispuesto está a socorrer a los que pelean y esperan en su gracia, y nos procura ocasiones de pelear para que alcancemos victoria. Si solamente en las observancias de fuera ponemos el aprovechamiento de la vida religiosa, presto se nos acabara la devoción. Mas pongamos. la segur a la raíz, porque, libres de las pasiones, poseamos pacíficas nuestras almas.
 
-5. Si cada año desarraigásemos un vicio presto seríamos perfectos. Mas ahora, al contrario, muchas veces experimentamos que fuimos mejores y más puros en el principio de nuestra conversión que después de muchos años de profesos. Nuestro fervor y aprovechamiento cada día debe crecer; mas ahora ya nos parece mucho conservar alguna parte del primer fervor. Si al principio hiciésemos algún esfuerzo, podríamos después hacerlo todo con facilidad y gozo. 6. Grave cosa es dejar la, costumbre; pero, más grave es ir contraria propia voluntad. Mas si no vences las cosas pequeñas y ligeras, ¿cómo vencerás las dificultosas?
+5. Si cada año desarraigásemos un vicio presto seríamos perfectos. Mas ahora, al contrario, muchas veces experimentamos que fuimos mejores y más puros en el principio de nuestra conversión que después de muchos años de profesos. Nuestro fervor y aprovechamiento cada día debe crecer; mas ahora ya nos parece mucho conservar alguna parte del primer fervor. Si al principio hiciésemos algún esfuerzo, podríamos después hacerlo todo con facilidad y gozo.
+
+6. Grave cosa es dejar la, costumbre; pero, más grave es ir contraria propia voluntad. Mas si no vences las cosas pequeñas y ligeras, ¿cómo vencerás las dificultosas?
 
 Resiste en los principios a tu inclinación, y deja la mala costumbre, porque no te lleve poco a poco a mayor dificultad. ¡Oh, si mirases cuánta paz a ti mismo, y cuánta alegría darías a los otros rigiéndote bien, yo creo que serías más solícito en el aprovechamiento espiritual!
 
@@ -224,7 +228,7 @@ Algunos no se rinden a grandes tentaciones, y son vencidos a menudo en las menor
 
 ### Capítulo 14. Que se deben evitar los juicios temerarios
 
-1.Pon los ojos. en ti mismo y guárdate de juzgar las obras ajenas. En juzgar a otros se ocupa uno en vano, yerra muchas veces y peca fácilmente; mas juzgando y examinándose a sí mismo se emplea siempre con fruto.
+1. Pon los ojos. en ti mismo y guárdate de juzgar las obras ajenas. En juzgar a otros se ocupa uno en vano, yerra muchas veces y peca fácilmente; mas juzgando y examinándose a sí mismo se emplea siempre con fruto.
 
 Muchas veces juzgamos según nuestro gusta de las cosas, pues fácilmente perdemos el verdadero juicio de ellas por el amor propio. Si fuese Dios siempre el fin puramente de nuestro deseo, no nos turbaría tan presto la contradicción de nuestra sensualidad. Pero muchas veces tenemos algo adentro escondido, o de fuera se ofrece; cuya afición nos lleva tras sí.
 
@@ -236,7 +240,7 @@ La costumbre antigua con dificultad se quita, y ninguno deja de buena gana su pr
 
 ### Capítulo 15. De las obras hechas por caridad
 
-I. Por ninguna cosa del mundo ni por amor de alguno se debe hacer lo que es malo; mas por el provecho de quien lo hubiere menester, alguna vez se puede dejar la buena obra, o trocarse por otra mejor. De esta suerte no se deja la buena obra, sino que se muda en mejor.
+1. Por ninguna cosa del mundo ni por amor de alguno se debe hacer lo que es malo; mas por el provecho de quien lo hubiere menester, alguna vez se puede dejar la buena obra, o trocarse por otra mejor. De esta suerte no se deja la buena obra, sino que se muda en mejor.
 
 La obra exterior sin caridad no aprovecha; pero lo que se hace con caridad, por poco y despreciable que sea, se hace todo fructuoso. Pues, ciertamente, más mira Dios al corazón que a la obra que se hace.
 
@@ -368,7 +372,9 @@ No todos podemos ejercitar una misma cosa; unas convienen más a unos y otras a 
 
 También, según el tiempo, te serán más a propósito diversos ejercicios; porque unos son me ores para las fiestas, otros par a los días de trabajo.
 
-Necesitamos de unos para el tiempo de la tentación, y de otros para el de la paz y sosiego. En unas cosas es bien pensar cuando estamos tristes, y en otras, cuando alegres en el Señor. 6. En las fiestas principales debemos renovar nuestros buenos ejercicios, e invocar con mayor fervor la intercesión de los Santos.
+Necesitamos de unos para el tiempo de la tentación, y de otros para el de la paz y sosiego. En unas cosas es bien pensar cuando estamos tristes, y en otras, cuando alegres en el Señor.
+
+6. En las fiestas principales debemos renovar nuestros buenos ejercicios, e invocar con mayor fervor la intercesión de los Santos.
 
 De una fiesta para otra debemos proponer algo, como si entonces hubiésemos de salir de este mundo y llegar a la eterna festividad.
 
@@ -580,7 +586,7 @@ Cuántos que pensaban vivir mucho, se han engañado, y han sido separados del cu
 
 Uno murió con fuego, otro con hierro, otro de peste, otro pereció a manos de ladrones; y así la muerte es fenecimiento de todos, y la vida de los hombres se pasa como sombra rápidamente.
 
-8.¿Quién se acordará de ti, y quién rogará por ti después de muerto?
+8. ¿Quién se acordará de ti, y quién rogará por ti después de muerto?
 
 Haz ahora, hermano, lo que pudieres; que no sabes cuándo morirás, ni lo que acaecerá después de la muerte.
 
@@ -952,7 +958,9 @@ No hay criatura tan baja ni pequeña, que no represente la bondad de Dios.
 
 2. No es dificultoso el que ama gloriarse en la tribulación; porque gloriarse de esta suerte, es gloriarse en la cruz del Señor. Breve es la gloria que se da y recibe de los hombres. La gloria del mundo siempre va acompañada de tristeza. La gloria de los buenos está en sus conciencias, y no en la boca de los hombres. La alegría de los justos es de Dios, y en Dios, y su gozo es la verdad. El que desea la verdadera y eterna gloria, no hace caso de la temporal. Y el que busca la gloria temporal, o no la desprecia de corazón, señal es que ama menos la celestial. Gran quietud de corazón tiene el que no se le da nada de las alabanzas ni de las afrentas.
 
-<>3. Fácilmente estará contento y sosegado el que tiene la conciencia limpia. No eres más santo porque te alaben, ni más vil porque te desprecien. Lo que eres, eso eres; y por más que te estimen los hombres, no puedes ser, ante Dios, más grande de lo que eres. Si miras lo que eres dentro de ti, no tendrás cuidado de lo que de ti hablen los hombres. El hombre ve lo de fuera, mas Dios el corazón. El hombre considera las obras, y Dios pesa las intenciones. Hacer siempre bien, y tenerse en poco, señal es de un alma humilde. No querer consolación de criatura alguna, señal de gran pureza y de cordial confianza. 4. El que no busca la aprobación de los hombres, claramente muestra que se entregó del todo a Dios. Porque dice San Pablo: No el que se alaba a sí mismo es aprobado, sino el que Dios alaba. Andar en lo interior con Dios, y no embarazarse de fuera con alguna aflicción, estado es de varón espiritual.
+3. Fácilmente estará contento y sosegado el que tiene la conciencia limpia. No eres más santo porque te alaben, ni más vil porque te desprecien. Lo que eres, eso eres; y por más que te estimen los hombres, no puedes ser, ante Dios, más grande de lo que eres. Si miras lo que eres dentro de ti, no tendrás cuidado de lo que de ti hablen los hombres. El hombre ve lo de fuera, mas Dios el corazón. El hombre considera las obras, y Dios pesa las intenciones. Hacer siempre bien, y tenerse en poco, señal es de un alma humilde. No querer consolación de criatura alguna, señal de gran pureza y de cordial confianza.
+
+4. El que no busca la aprobación de los hombres, claramente muestra que se entregó del todo a Dios. Porque dice San Pablo: No el que se alaba a sí mismo es aprobado, sino el que Dios alaba. Andar en lo interior con Dios, y no embarazarse de fuera con alguna aflicción, estado es de varón espiritual.
 
 ### Capítulo 7. Del amor de Jesús sobre todas las cosas
 
@@ -960,7 +968,7 @@ No hay criatura tan baja ni pequeña, que no represente la bondad de Dios.
 
 2. Ten fuertemente con Jesús viviendo y muriendo, y encomiéndate a su fidelidad, que El solo te puede ayudar, cuando todos te faltaren. Tu amado es de tal condición, que no quiere consigo admitir a otro, mas El solo quiere tener tu corazón y como rey sentarse en su propia silla. Si tú supieses bien desocuparte de toda criatura, Jesús morará de buena gana contigo. Hallarás casi todo perdido cuanto pusieres en los hombres, fuera de Jesús.No confíes ni estribes sobre la caña vacía; porque toda carne es heno, y toda su gloria caerá como flor de heno.
 
-3.Si mirases solamente la apariencia de fuera de los hombres, presto serás engañado.
+3. Si mirases solamente la apariencia de fuera de los hombres, presto serás engañado.
 
 Porque si te buscas tu descanso y ganancias en otros, muchas veces sentirás daño: si en todo buscas a Jesús, hallarás de verdad a Jesús: mas si te buscas a ti mismo, también te hallarás, pero para tu daño. Pues más se daña el hombre a sí mismo, si no busca a Jesús, que todo el mundo y todos sus enemigos le pueden dañar.
 
@@ -1234,7 +1242,7 @@ porque se tiene por más acepto a Dios, cuanto mayores y más graves cosas pudie
 
 Esto no es virtud humana, sino gracia de Cristo, que tanto puede y hace en la carne flaca, que lo que naturalmente siempre aborrece y huye, lo acometa y acabe con fervor de espíritu.
 
-9.No es según la condición humana llevar la cruz, amar la cruz, castigar el cuerpo, ponerle en servidumbre; huir las honras, sufrir de grado las injurias, despreciarse a sí mismo, y desear ser despreciado; sufrir toda cosa adversa y dañosa, y no desear cosa de prosperidad en este mundo. Si miras a ti, no podrás por ti cosa alguna de éstas: mas si confías en Dios, El te enviará fortaleza del cielo, y hará que te estén sujetos el mundo y la carne.
+9. No es según la condición humana llevar la cruz, amar la cruz, castigar el cuerpo, ponerle en servidumbre; huir las honras, sufrir de grado las injurias, despreciarse a sí mismo, y desear ser despreciado; sufrir toda cosa adversa y dañosa, y no desear cosa de prosperidad en este mundo. Si miras a ti, no podrás por ti cosa alguna de éstas: mas si confías en Dios, El te enviará fortaleza del cielo, y hará que te estén sujetos el mundo y la carne.
 
 Y no temerás al diablo tu enemigo, si estuvieses armado de fe, y señalado con la cruz de Cristo.
 
@@ -1440,7 +1448,7 @@ En verdad eres pecador, sujeto y enredado en muchas pasiones.
 
 Por ti siempre vas a la nada; pronto caes, pronto eres vencido, presto te turbas, y presto desfalleces. Nada tienes de que puedas alabarte; pero mucho de que humillarte; porque eres más flaco de lo que puedes pensar.
 
-4.Por eso, no te parezca gran cosa, alguna de cuantas haces.
+4. Por eso, no te parezca gran cosa, alguna de cuantas haces.
 
 Nada tengas por grande, nada por precioso y admirable; nada estimes por digno de reputación, nada por alto, nada por verdaderamente de alabar y codiciar sino lo que es eterno.
 
@@ -1514,7 +1522,9 @@ Fatigado no se cansa; angustiado no se angustia; espantado no se espanta: sino, 
 
 Si alguno ama, conoce lo que dice esta voz:
 
-Grande clamor es en los oídos de Dios el abrasado afecto del alma que dice: Dios mío, amor mío, Tú todo mío, y yo todo tuyo. 6. Dilátame en el amor, para que aprenda a gustar con la boca interior del corazón cuán suave es amar y derretirse y nadar en el amor.
+Grande clamor es en los oídos de Dios el abrasado afecto del alma que dice: Dios mío, amor mío, Tú todo mío, y yo todo tuyo.
+
+6. Dilátame en el amor, para que aprenda a gustar con la boca interior del corazón cuán suave es amar y derretirse y nadar en el amor.
 
 Sea yo cautivo del amor, saliendo de mí por él grande fervor y admiración.
 
@@ -1702,11 +1712,13 @@ El Alma:
 
 1. Otra vez hablaré, Señor, ahora, y no callaré. Diré en los oídos de mi Dios, mi Señor y mi Rey que está en el cielo: ¡Oh Señor, cuán grande e la abundancia de tu dulzura, que escondiste para los que te temen! Pero ¿qué eres para los que te aman? y ¿qué para los que te sirven de todo corazón? Verdaderamente es inefable la dulzura de tu contemplación, la cual das a los que te aman. En esto me has mostrado singularmente tu dulce caridad, en que cuando yo no existía, me criaste, y cuando erraba lejos de Ti, me convertiste para que te sirviese, y me mandaste que te amase.
 
-2.¡Oh fuente de amor perenne! ¿Qué diré de Ti? ¿Cómo podré olvidarme de Ti, que te dignaste de acordarte de mí, aun después que yo me perdí y perecí? Usaste de misericordia con tu siervo sobre toda esperanza, y sobre todo merecimiento me diste tu gracia y amistad. ¿Qué te volveré yo por esta gracia? Porque no se concede a todos que, dejadas todas las cosas, renuncien al mundo y escojan vida retirada. ¿Por ventura es gran cosa que yo te sirva, cuando toda criatura está obligada a servirte? No me debe parecer mucho servirte, sino más bien me parece grande y maravilloso que Tú te dignaste de recibir por siervo a un tan pobre e indigno y unirle con tus amados siervos.
+2. ¡Oh fuente de amor perenne! ¿Qué diré de Ti? ¿Cómo podré olvidarme de Ti, que te dignaste de acordarte de mí, aun después que yo me perdí y perecí? Usaste de misericordia con tu siervo sobre toda esperanza, y sobre todo merecimiento me diste tu gracia y amistad. ¿Qué te volveré yo por esta gracia? Porque no se concede a todos que, dejadas todas las cosas, renuncien al mundo y escojan vida retirada. ¿Por ventura es gran cosa que yo te sirva, cuando toda criatura está obligada a servirte? No me debe parecer mucho servirte, sino más bien me parece grande y maravilloso que Tú te dignaste de recibir por siervo a un tan pobre e indigno y unirle con tus amados siervos.
 
 3. Tuyas son, pues, todas las cosas que tengo y con que te sirvo. Pero por el contrario,
 
-Tú me sirves más a mí que yo a Ti. El cielo y la tierra que Tú criaste para el servicio del hombre, están prontos, y hacen cada día todo lo que les has mandado; y esto es poco, pues aún has destinado a los ángeles para servicio del hombre. Mas a todas estas cosas excede el que Tú mismo te dignaste de servir al hombre, y le prometiste que te darías a Ti mismo. 4. ¿Qué te daré yo por tantos millares de beneficios? ¡Oh! ¡Si pudiese yo servirte todos los días de mi vida! ¡Oh! ¡Si pudiese solamente, siquiera un solo día, hacerte algún digno servicio! Verdaderamente Tú solo eres digno de todo servicio, de toda honre y de alabanza eterna. Verdaderamente Tú solo eres mi Señor, y yo soy un pobre siervo tuyo, que estoy obligado a servirte con todas mis fuerzas, y nunca debo cansarme de alabarte.
+Tú me sirves más a mí que yo a Ti. El cielo y la tierra que Tú criaste para el servicio del hombre, están prontos, y hacen cada día todo lo que les has mandado; y esto es poco, pues aún has destinado a los ángeles para servicio del hombre. Mas a todas estas cosas excede el que Tú mismo te dignaste de servir al hombre, y le prometiste que te darías a Ti mismo.
+
+4. ¿Qué te daré yo por tantos millares de beneficios? ¡Oh! ¡Si pudiese yo servirte todos los días de mi vida! ¡Oh! ¡Si pudiese solamente, siquiera un solo día, hacerte algún digno servicio! Verdaderamente Tú solo eres digno de todo servicio, de toda honre y de alabanza eterna. Verdaderamente Tú solo eres mi Señor, y yo soy un pobre siervo tuyo, que estoy obligado a servirte con todas mis fuerzas, y nunca debo cansarme de alabarte.
 
 Así lo quiero, así lo deseo; y lo que me falta, ruégote que Tú lo suplas.
 
@@ -1784,13 +1796,15 @@ Porque no todo deseo procede del Espíritu Santo, aunque parezca justo y bueno a
 
 Haz conmigo como sabes, y como más te agradare, y fuere mayor honra tuya. Ponme donde quisieres, dispón de mi libremente en todo. En tu mano estoy, vuélveme y revuélveme a la redonda. Ve aquí tu siervo dispuesto a todo; porque no deseo, Señor, vivir para mí sino para Ti. ¡Ojalá que viva dignamente y perfectamente! Oración para conseguir la voluntad de Dios.
 
-3. Concédeme, benignísimo Jesús, tu gracia para que esté conmigo, y obre conmigo, y persevere conmigo hasta el fin. Dame que desee y quiera siempre lo que te es más acepto y agradable a Ti. Tu voluntad sea la mía, y mi voluntad siga siempre la tuya, y se conforme en todo con ella. Tenga yo un querer y no querer contigo; y no pueda querer ni no querer lo que Tú quieres y no quieres. 4. Dame, Señor, que muera a todo lo que hay en el mundo; y dame que desee por Ti ser despreciado y olvidado en este siglo. Dame, sobre todo lo que se puede desear, descansar en Ti y aquietar mi corazón en Ti. Tú eres la verdadera paz del corazón; Tú el único descanso: fuera de Ti todas las cosas son molestas e inquietas. En esta paz permanente, esto es, en Ti, Sumo y eterno Bien. Dormiré y descansaré. Amén.
+3. Concédeme, benignísimo Jesús, tu gracia para que esté conmigo, y obre conmigo, y persevere conmigo hasta el fin. Dame que desee y quiera siempre lo que te es más acepto y agradable a Ti. Tu voluntad sea la mía, y mi voluntad siga siempre la tuya, y se conforme en todo con ella. Tenga yo un querer y no querer contigo; y no pueda querer ni no querer lo que Tú quieres y no quieres.
+
+4. Dame, Señor, que muera a todo lo que hay en el mundo; y dame que desee por Ti ser despreciado y olvidado en este siglo. Dame, sobre todo lo que se puede desear, descansar en Ti y aquietar mi corazón en Ti. Tú eres la verdadera paz del corazón; Tú el único descanso: fuera de Ti todas las cosas son molestas e inquietas. En esta paz permanente, esto es, en Ti, Sumo y eterno Bien. Dormiré y descansaré. Amén.
 
 ### Capítulo 16. En sólo Dios se debe buscar el verdadero consuelo
 
 El Alma:
 
-1.Cualquiera cosa que puedo desear o pensar para mi consuelo, no la espero aquí, sino en la otra vida. Pues aunque yo solo estuviese todos los gustos del mundo, y pudiese usar de todos sus deleites, cierto es que no podrían durar mucho. Así que no podrás, alma mía, estar cumplidamente consolada, ni perfectamente recreada sino en Dios, que es consolador de los pobres, y recibe a los humildes. Espera un poco, alma mía, espera la promesa divina, y tendrás abundancia de todos los bienes en el cielo. Si deseas desordenadamente estas cosas presentes, perderás las eternas y celestiales. Sean las temporales para el uso: las eternas para el deseo. No puedes saciarte de ningún bien temporal, porque no eres criada para gozar de lo caduco.
+1. Cualquiera cosa que puedo desear o pensar para mi consuelo, no la espero aquí, sino en la otra vida. Pues aunque yo solo estuviese todos los gustos del mundo, y pudiese usar de todos sus deleites, cierto es que no podrían durar mucho. Así que no podrás, alma mía, estar cumplidamente consolada, ni perfectamente recreada sino en Dios, que es consolador de los pobres, y recibe a los humildes. Espera un poco, alma mía, espera la promesa divina, y tendrás abundancia de todos los bienes en el cielo. Si deseas desordenadamente estas cosas presentes, perderás las eternas y celestiales. Sean las temporales para el uso: las eternas para el deseo. No puedes saciarte de ningún bien temporal, porque no eres criada para gozar de lo caduco.
 
 2. Aunque tengas todos los bienes criados, no puedes ser dichosa y bienaventurada: mas en Dios, que crio todas las cosas, consiste toda tu bienaventuranza y tu felicidad. No como la que admiran y alaban los necios amadores del mundo, sino como la que esperan los buenos y fieles discípulos de Cristo, y alguna veces gustan los espirituales y limpios de corazón, cuya conversación está en los cielos. Vano es y breve todo Consuelo humano. El dichoso y verdadero consuelo es aquel que la Verdad hace percibir interiormente. El hombre devoto en todo lugar lleva consigo a su consolador Jesús, y le dice: Ayúdame, Señor, en todo lugar y tiempo. Sea, pues, mi consolación carecer de buena gana de todo humano consuelo. Y si tu consolación me faltare, sea mi mayor consuelo tu voluntad y justa probación. Porque no estarás airado perpetuamente, ni enojado para siempre.
 
@@ -1866,7 +1880,7 @@ El Alma:
 
 1. Alma mía, descansa sobre todas y en todas las cosas siempre en Dios, que es el eterno descanso de los Santos. Concédeme Tú, dulcísimo y amantísimo Jesús, que descanse en Ti sobre todas las cosas criadas; sobre toda salud y hermosura; sobre toda gloria y honra; sobre todo poder y dignidad; sobre toda la ciencia y sutileza; sobre todas las riquezas y artes; sobre toda alegría y gozo; sobre toda la fama y alabanza; sobre toda suavidad y consolación; sobre toda esperanza y promesa; sobre todo merecimiento y deseo; sobre todos los dones y regalos que puedes dar y enviar; sobre todo gozo y dulzura que el alma puede recibir y sentir; y en fin, sobre todos los ángeles y arcángeles, sobre todo ejercito celestial; sobre todo lo visible e invisible; y sobre todo lo que no es lo que eres Tú, Dios mío.
 
-2.Porque Tú, Señor, Dios mío, eres bueno sobre todo; Tú solo potentísimo; Tú solo suficientísimo y llenísimo; Tú solo suavísimo y agradabilísimo. Tú solo hermosísimo y amantísimo; Tú solo nobilísimo y gloriosísimo sobre todas las cosas, en quien están, estuvieron y estarán todos los bienes junta y perfectamente. Por eso es poco e insuficiente cualquier cosa que me das o prometes, o me descubres de Ti mismo, no viéndote ni poseyéndote cumplidamente. Porque no puede mi corazón descansar del todo y contentarse verdaderamente, si no descansa en Ti trascendiendo todos los dones y todo lo criado.
+2. Porque Tú, Señor, Dios mío, eres bueno sobre todo; Tú solo potentísimo; Tú solo suficientísimo y llenísimo; Tú solo suavísimo y agradabilísimo. Tú solo hermosísimo y amantísimo; Tú solo nobilísimo y gloriosísimo sobre todas las cosas, en quien están, estuvieron y estarán todos los bienes junta y perfectamente. Por eso es poco e insuficiente cualquier cosa que me das o prometes, o me descubres de Ti mismo, no viéndote ni poseyéndote cumplidamente. Porque no puede mi corazón descansar del todo y contentarse verdaderamente, si no descansa en Ti trascendiendo todos los dones y todo lo criado.
 
 3. ¡Oh esposo mío amantísimo Jesucristo, amador purísimo, Señor de todas las criaturas! ¿Quién me dará alas de verdadera libertad para volar y descansar en Ti? ¡Oh! ¿Cuando me será concedido ocuparme en Ti cumplidamente, y ver cuán suave eres, Señor Dios mío? ¿Cuándo me recogeré del todo en Ti, que ni me sienta a mí por tu amor, sino a Ti solo sobre todo sentido y modo, y de un modo manifiesto a todos? Pero ahora muchas veces gimo y llevo mi infelicidad con dolor. Porque en este valle de miserias acaecen muchos males que me turban a menudo, me entristecen y anublan; muchas veces me impiden y distraen, halagan y embarazan para que no tenga libre entrada a Ti y no goce de tus suaves abrazos, los cuales sin impedimento gozan los espíritus bienaventurados. Muévate mis suspiros, y la grande desolación que hay en la tierra.
 
@@ -1894,7 +1908,9 @@ Concédeme que conozca tu voluntad, y con gran reverencia y diligente considerac
 
 Y aunque uno reciba más y otro menos, todo es tuyo, y sin Ti no se puede alcanzar la menor cosa. El que más recibió, no puede gloriarse de su merecimiento, ni estimarse sobre los demás, ni desdeñar al menor; porque aquel es mayor y mejor que menos se atribuye a sí, y es más humilde, devoto y agradecido. Y el que se tiene por más vil que todos, y se juzga por más indigno, está más dispuesto para recibir mayores dones.
 
-3. Mas el que recibió menos, no se debe entristecer, indignarse, ni envidiar al que tiene más; antes debe reverenciarte, y engrandecer sobremanera tu bondad, que tan copiosa, gratuita y liberalmente reparte tus beneficios, sin acepción de personas. Todo procede de Ti, y por lo mismo en todo debes ser alabado. Tú sabes lo que conviene darse a cada uno. Y por que tiene uno menos y otro más, no nos toca a nosotros discernirlo, sino a Ti, que sabes determinadamente los merecimientos de cada uno. 4. Por eso, Señor Dios, tengo también por grande beneficio no tener muchas cosas de las cuales me alaben y honren los hombres; de modo que cualquiera que considere la pobreza y vileza de su persona, no sólo no recibirá pesadumbre, ni tristeza, ni abatimiento, sino más bien consuelo y grande alegría. Porque Tú, Dios, escogiste para familiares domésticos tuyos a los pobres, bajos y despreciados de este mundo. Testigos son tus mismos apóstoles, a quienes constituiste príncipes sobre toda la tierra. Mas conversaron en el mundo sin queja y fueron tan humildes y sencillos; viviendo sin malicia ni fraude, que se alegraban de padecer injurias por tu nombre, y abrazaban con grande afecto lo que el mundo aborrece.
+3. Mas el que recibió menos, no se debe entristecer, indignarse, ni envidiar al que tiene más; antes debe reverenciarte, y engrandecer sobremanera tu bondad, que tan copiosa, gratuita y liberalmente reparte tus beneficios, sin acepción de personas. Todo procede de Ti, y por lo mismo en todo debes ser alabado. Tú sabes lo que conviene darse a cada uno. Y por que tiene uno menos y otro más, no nos toca a nosotros discernirlo, sino a Ti, que sabes determinadamente los merecimientos de cada uno.
+
+4. Por eso, Señor Dios, tengo también por grande beneficio no tener muchas cosas de las cuales me alaben y honren los hombres; de modo que cualquiera que considere la pobreza y vileza de su persona, no sólo no recibirá pesadumbre, ni tristeza, ni abatimiento, sino más bien consuelo y grande alegría. Porque Tú, Dios, escogiste para familiares domésticos tuyos a los pobres, bajos y despreciados de este mundo. Testigos son tus mismos apóstoles, a quienes constituiste príncipes sobre toda la tierra. Mas conversaron en el mundo sin queja y fueron tan humildes y sencillos; viviendo sin malicia ni fraude, que se alegraban de padecer injurias por tu nombre, y abrazaban con grande afecto lo que el mundo aborrece.
 
 5. Por eso ninguna cosa debe alegrar tanto al que te ama y reconoce tus beneficios, como tu voluntad para con él, y el beneplácito de tu eterna disposición. Lo cual le ha de consolar de manera que quiera tan voluntariamente ser el menor de todos como desearía otro el ser mayor. Y así tan pacífico y contento debe estar en el último lugar como en el primero; y tan de buena gana sufrir verse despreciado y desechado, y no tener nombre y fama, como si fuese el más honrado y mayor del mundo. Porque tu voluntad y el amor de tu honra ha de ser sobre todas las cosas; y más se debe consolar y contentar una persona con esto, que con todos los beneficios recibidos, o que puede recibir.
 
@@ -1906,7 +1922,7 @@ Jesucristo:
 
 El Alma:
 
-2.Haz, Señor, lo que dices, que me alegra mucho de oírlo.
+2. Haz, Señor, lo que dices, que me alegra mucho de oírlo.
 
 Jesucristo:
 
@@ -1956,7 +1972,9 @@ El Alma:
 
 4. ¿Pues en qué consiste, Señor?
 
-Jesucristo: 5. En ofrecerte de todo tu corazón a la divina voluntad, no buscando tu interés en lo poco, ni en lo mucho, ni en lo temporal, ni en lo eterno. De manera que con rostro igual, des gracias a Dios en las cosas prósperas y adversas, pensándolo todo con un mismo peso. Si fueres tan fuerte y firme en la esperanza que, quitándote la consolación interior, aún esté dispuesto tu corazón para padecer mayores penas, y no te justificares, diciendo que no debieras padecer tales ni tantas cosas, sino que me tuvieres por justo y alabares por santo en todo lo que Yo ordenare, cree entonces que andas en el recto camino de la paz, y podrás tener esperanza cierta de ver nuevamente mi rostro con júbilo. Y si llegares al perfecto menosprecio de ti mismo, sábete que entonces gozaras de abundancia de paz, cuanto cabe en este destierro.
+Jesucristo:
+
+5. En ofrecerte de todo tu corazón a la divina voluntad, no buscando tu interés en lo poco, ni en lo mucho, ni en lo temporal, ni en lo eterno. De manera que con rostro igual, des gracias a Dios en las cosas prósperas y adversas, pensándolo todo con un mismo peso. Si fueres tan fuerte y firme en la esperanza que, quitándote la consolación interior, aún esté dispuesto tu corazón para padecer mayores penas, y no te justificares, diciendo que no debieras padecer tales ni tantas cosas, sino que me tuvieres por justo y alabares por santo en todo lo que Yo ordenare, cree entonces que andas en el recto camino de la paz, y podrás tener esperanza cierta de ver nuevamente mi rostro con júbilo. Y si llegares al perfecto menosprecio de ti mismo, sábete que entonces gozaras de abundancia de paz, cuanto cabe en este destierro.
 
 ### Capítulo 26. De la elevación del espíritu libre, la cual se alcanza mejor con la oración humilde que con la lectura
 
@@ -1982,7 +2000,9 @@ Está a mi voluntad, y no sentirás daño alguno. Si buscas esto o aquello, y qu
 
 3. Y así, no cualquier cosa alcanzada o multiplicada exteriormente aprovecha; sino más bien la despreciada y desarraigada del corazón. No entiendas eso solamente de las posesiones y de las riquezas; sino también de la ambición de la honra, y deseo de vanas alabanzas, todo lo cual pasa con el mundo. Importa poco el lugar, si falta el fervor del espíritu; ni durará mucho la paz buscada por de fuera, si falta el verdadero fundamento de la disposición del corazón; quiero decir, si no estuvieses en Mí, puedes mudarte, pero no mejorarte. Porque en llegando y agradando la ocasión, hallarás lo mismo que huías, y más. Oración para pedir la limpieza de corazón, y la Sabiduría celestial.
 
-El Alma: 4. Confírmame, Señor, en la gracia del Espíritu Santo. Dame esfuerzo para fortalecerme en mi interior, y desocupar mi corazón de toda inútil solicitud y congoja, y para que no me lleven tras sí, tan varios deseos por cualquier cosa vil o preciosa; sino que las mire todas como pasajeras, y a mí mismo como que he de pasar con ellas. Porque nada hay permanente debajo del sol, adonde todo es vanidad y aflicción de espíritu. ¡Oh! ¡Cuán sabio es el que así piensa!
+El Alma:
+
+4. Confírmame, Señor, en la gracia del Espíritu Santo. Dame esfuerzo para fortalecerme en mi interior, y desocupar mi corazón de toda inútil solicitud y congoja, y para que no me lleven tras sí, tan varios deseos por cualquier cosa vil o preciosa; sino que las mire todas como pasajeras, y a mí mismo como que he de pasar con ellas. Porque nada hay permanente debajo del sol, adonde todo es vanidad y aflicción de espíritu. ¡Oh! ¡Cuán sabio es el que así piensa!
 
 5. Dame, Señor, sabiduría celestial, para que aprenda a buscarte y hallarte sobre todas las cosas, gustarte y amarte sobre todas y entender lo demás como es, según el orden de tu sabiduría. Dame prudencia para desviarme del lisonjero, y sufrir con paciencia el adversario. Porque esta es muy gran sabiduría, no moverse a todo viento de palabras, ni tampoco dar oídos a la engañosa sirena, pues así se anda con seguridad el camino del cielo.
 
@@ -2054,7 +2074,9 @@ Jesucristo:
 
 3. Hijo, no debes volver atrás, ni decaer presto en oyendo el camino de los perfectos; antes debes esforzarte para cosas más altas, o a lo menos aspirar a ellas con deseo.
 
-¡Ojalá hubieses llegado a tanto que no fueses amador de ti mismo, y estuvieses dispuesto puramente a mi voluntad y a la del superior que te he dado! Entonces me agradarías sobremanera, y toda tu vida correría gozosa y pacífica. Aún tienes mucho que dejar, que si no lo renuncias enteramente, no alcanzarás lo que pides. Para que seas rico, te aconsejo que compres de Mí oro acendrado, esto es, la sabiduría celestial, que desprecia todo lo terreno. Pospón la sabiduría terrena y toda humana y propia complacencia. 4. Yo te dije que las cosas más viles al parecer humano, se deben comprar con las preciosas y altas. Porque muy vil y pequeña parece la verdadera sabiduría celestial, puesta casi en olvido entre los hombres. Ella no sabe grandezas de sí, ni quiere ser engrandecida en la tierra. Está en la boca de muchos, pero muy lejos de sus obras, siendo ella una perla preciosísima, escondida para los más.
+¡Ojalá hubieses llegado a tanto que no fueses amador de ti mismo, y estuvieses dispuesto puramente a mi voluntad y a la del superior que te he dado! Entonces me agradarías sobremanera, y toda tu vida correría gozosa y pacífica. Aún tienes mucho que dejar, que si no lo renuncias enteramente, no alcanzarás lo que pides. Para que seas rico, te aconsejo que compres de Mí oro acendrado, esto es, la sabiduría celestial, que desprecia todo lo terreno. Pospón la sabiduría terrena y toda humana y propia complacencia.
+
+4. Yo te dije que las cosas más viles al parecer humano, se deben comprar con las preciosas y altas. Porque muy vil y pequeña parece la verdadera sabiduría celestial, puesta casi en olvido entre los hombres. Ella no sabe grandezas de sí, ni quiere ser engrandecida en la tierra. Está en la boca de muchos, pero muy lejos de sus obras, siendo ella una perla preciosísima, escondida para los más.
 
 ### Capítulo 23. De la inconstancia del corazón, y que la intención final se ha de dirigir a Dios
 
@@ -2098,7 +2120,9 @@ bienaventurados. Conviénete, pues, romper varonilmente con todo, y pelear con m
 
 No procures mucho descanso, sino mucha paciencia. Busca la verdadera paz, no en la tierra, sino en el cielo: no en los hombres ni en las demás criaturas, sino en Dios solo.
 
-Por amor de Dios debes padecer de buena gana todas las cosas adversas; como son trabajos, dolores, tentaciones, vejaciones, congojas, necesidades, dolencias, injurias, murmuraciones, reprensiones, humillaciones, confusiones, correcciones y menosprecios. Estas cosas aprovechan para la virtud; estas prueban al nuevo soldado de Cristo; estas fabrican la corona celestial. Yo daré eterno galardón por breve trabajo, y gloria infinita por la confusión pasajera. 3. ¿Piensas tener siempre consolaciones espirituales al sabor de tu paladar? Mis Santos no siempre las tuvieron, sino muchas pesadumbres, diversas tentaciones y grandes desconsolaciones. Pero las sufrieron todas con paciencia y confiaron más en Dios que en sí; porque sabían que no son equivalentes todas las penas de esta vida, para merecer la gloria venidera. ¿Quieres hallar de pronto lo que muchos, después de copiosas lágrimas y trabajos, con dificultad alcanzaron? Espera en el Señor, trabaja y esfuérzate varonilmente; no desconfíes, no huyas; mas ofrece el cuerpo y el alma por la gloria de Dios con gran constancia.
+Por amor de Dios debes padecer de buena gana todas las cosas adversas; como son trabajos, dolores, tentaciones, vejaciones, congojas, necesidades, dolencias, injurias, murmuraciones, reprensiones, humillaciones, confusiones, correcciones y menosprecios. Estas cosas aprovechan para la virtud; estas prueban al nuevo soldado de Cristo; estas fabrican la corona celestial. Yo daré eterno galardón por breve trabajo, y gloria infinita por la confusión pasajera.
+
+3. ¿Piensas tener siempre consolaciones espirituales al sabor de tu paladar? Mis Santos no siempre las tuvieron, sino muchas pesadumbres, diversas tentaciones y grandes desconsolaciones. Pero las sufrieron todas con paciencia y confiaron más en Dios que en sí; porque sabían que no son equivalentes todas las penas de esta vida, para merecer la gloria venidera. ¿Quieres hallar de pronto lo que muchos, después de copiosas lágrimas y trabajos, con dificultad alcanzaron? Espera en el Señor, trabaja y esfuérzate varonilmente; no desconfíes, no huyas; mas ofrece el cuerpo y el alma por la gloria de Dios con gran constancia.
 
 ### Capítulo 36. Contra los vanos juicios de los hombres
 
@@ -2232,7 +2256,9 @@ El Alma:
 
 2. ¿Qué hombre hay que se pueda guardar con tanta cautela y discreción en todo, que alguna vez no caiga el algún engaño o perplejidad? Mas el que te busca a Ti, Señor, y te busca con sencillo corazón, no resbala tan fácilmente. Y si cayere en alguna tribulación, de cualquier manera que estuviere en ella enlazado, presto será librado por Ti, o consolado; porque no desamparas para siempre al que en Ti espera. Raro es el fiel amigo que persevera en todos los trabajos de su amigo. Tú, Señor, Tú solo eres fidelísimo en todo, y fuera de Ti no hay otro semejante.
 
-3. ¡Oh, cuán bien lo entendía aquella alma santa que dijo: ¡Mi alma está asegurada y fundada en Jesucristo! Si yo estuviese así, no me acongojaría tan presto el temor humano, ni me moverían las palabras injuriosas. ¿Quién puede preverlo todo? ¿Quién es capaz de precaver los males venideros? Si lo que hemos previsto con tiempo nos daña muchas veces, ¿qué hará lo no prevenido sino perjudicarnos gravemente? Pues ¿por qué, miserable de mí, no me previne mejor? ¿Por qué creí de ligero a otros? Pero somos hombres, y hombres flacos y frágiles, aunque por muchos seamos estimados y llamados ángeles. Señor, ¿a quién creeré, a quién sino a Ti? Eres la verdad, que no puede engañar ni ser engañada. El hombre, al contrario, es falaz, flaco y resbaladizo, especialmente en palabras; de modo que con muy gran dificultad se debe creer lo que parece recto a la primera vista. 4. Cuán prudentemente nos avisaste que nos guardásemos de los hombres: que los amigos del hombre son los de su casa, y que no diésemos crédito al que nos dijese: A Cristo míralo aquí o míralo allí. He escarmentado en mí mismo: ¡ojalá sea para mi mayor cautela, y no para continuar con mi imprudencia! Cuidado, me dice uno, cuidado, reserva lo que te digo. Y mientras yo lo callo, y creo que está oculto, él no pudo callar el secreto que me confió, sino que me descubrió a mí y a sí mismo, y se marchó.
+3. ¡Oh, cuán bien lo entendía aquella alma santa que dijo: ¡Mi alma está asegurada y fundada en Jesucristo! Si yo estuviese así, no me acongojaría tan presto el temor humano, ni me moverían las palabras injuriosas. ¿Quién puede preverlo todo? ¿Quién es capaz de precaver los males venideros? Si lo que hemos previsto con tiempo nos daña muchas veces, ¿qué hará lo no prevenido sino perjudicarnos gravemente? Pues ¿por qué, miserable de mí, no me previne mejor? ¿Por qué creí de ligero a otros? Pero somos hombres, y hombres flacos y frágiles, aunque por muchos seamos estimados y llamados ángeles. Señor, ¿a quién creeré, a quién sino a Ti? Eres la verdad, que no puede engañar ni ser engañada. El hombre, al contrario, es falaz, flaco y resbaladizo, especialmente en palabras; de modo que con muy gran dificultad se debe creer lo que parece recto a la primera vista.
+
+4. Cuán prudentemente nos avisaste que nos guardásemos de los hombres: que los amigos del hombre son los de su casa, y que no diésemos crédito al que nos dijese: A Cristo míralo aquí o míralo allí. He escarmentado en mí mismo: ¡ojalá sea para mi mayor cautela, y no para continuar con mi imprudencia! Cuidado, me dice uno, cuidado, reserva lo que te digo. Y mientras yo lo callo, y creo que está oculto, él no pudo callar el secreto que me confió, sino que me descubrió a mí y a sí mismo, y se marchó.
 
 Defiéndeme, Señor, de aquestas ficciones, y de hombres tan indiscretos, para que nunca caiga en sus manos ni yo incurra en semejantes cosas. Pon en mi boca las palabras verdaderas y fieles, y desvía lejos de mí las lenguas astutas. De lo que no puedo sufrir, me debo guardar mucho.
 
@@ -2276,7 +2302,9 @@ El Alma:
 
 2. Los ciudadanos del cielo saben cuán alegre sea aquel día; los desterrados hijos de Eva gimen de ver que éste sea tan amargo y lleno de tedio. Los días de este mundo son pocos y malos, llenos de dolores y angustias, donde el hombre se ve manchado con muchos pecados; enredado en muchas pasiones, angustiado de muchos temores,ocupado con muchos cuidados, distraído con muchas curiosidades, complicado en muchas vanidades, envuelto en muchos errores, quebrantado con muchos trabajos; las tentaciones lo acosan, los placeres lo afeminan, la pobreza le atormenta.
 
-3. ¡Oh, cuándo se acabarán todos estos males! ¡Cuándo me veré libre de la servidumbre de los vicios! ¡Cuándo me acordaré, Señor, de Ti solo! ¡Cuándo me alegraré cumplidamente en Ti! ¡Cuándo estaré sin ningún impedimento en verdadera libertad, y sin ninguna molestia de alma y cuerpo! ¡Cuándo tendré firme paz, paz imperturbable y segura; paz por dentro y por fuera; paz del todo permanente! ¡Oh buen Jesús! ¡Cuándo estaré para verte! ¡Cuándo contemplaré la gloria de tu reino! ¡Cuándo me serás todo en todas las cosas! ¡Cuándo estaré contigo en tu reino, el cual preparaste desde la eternidad para tus escogidos! Me han dejado acá, pobre y desterrado en tierra de enemigos, donde hay continuas peleas y grandes calamidades. 4. Consuela mi destierro, mitiga mi dolor, porque a Ti suspira todo mi deseo. Todo el placer del mundo es para mí pesada carga. Deseo gozarte íntimamente; mas no puedo conseguirlo. Deseo estar unido con las cosas celestiales; pero me abaten las temporales y las pasiones no mortificadas. Con el espíritu quiero elevarme sobre todas las cosas; pero la carne me violenta a estar debajo de ellas. Así yo, hombre infeliz, peleo conmigo, y me soy enfadoso a mí mismo, viendo que el espíritu busca lo de arriba, y la carne lo de abajo.
+3. ¡Oh, cuándo se acabarán todos estos males! ¡Cuándo me veré libre de la servidumbre de los vicios! ¡Cuándo me acordaré, Señor, de Ti solo! ¡Cuándo me alegraré cumplidamente en Ti! ¡Cuándo estaré sin ningún impedimento en verdadera libertad, y sin ninguna molestia de alma y cuerpo! ¡Cuándo tendré firme paz, paz imperturbable y segura; paz por dentro y por fuera; paz del todo permanente! ¡Oh buen Jesús! ¡Cuándo estaré para verte! ¡Cuándo contemplaré la gloria de tu reino! ¡Cuándo me serás todo en todas las cosas! ¡Cuándo estaré contigo en tu reino, el cual preparaste desde la eternidad para tus escogidos! Me han dejado acá, pobre y desterrado en tierra de enemigos, donde hay continuas peleas y grandes calamidades.
+
+4. Consuela mi destierro, mitiga mi dolor, porque a Ti suspira todo mi deseo. Todo el placer del mundo es para mí pesada carga. Deseo gozarte íntimamente; mas no puedo conseguirlo. Deseo estar unido con las cosas celestiales; pero me abaten las temporales y las pasiones no mortificadas. Con el espíritu quiero elevarme sobre todas las cosas; pero la carne me violenta a estar debajo de ellas. Así yo, hombre infeliz, peleo conmigo, y me soy enfadoso a mí mismo, viendo que el espíritu busca lo de arriba, y la carne lo de abajo.
 
 5. ¡Oh Señor, cuanto padezco cuando revuelvo en mi pensamiento las cosas celestiales, y luego se me ofrece un tropel de cosas del mundo! Dios mío, no te alejes de mí, ni te desvíes con ira de tu siervo. Resplandezca un rayo de tu claridad, y destruya estas tinieblas; envía tus saetas, y contúrbense todas las asechanzas del enemigo. Recoge todos mis sentidos en Ti; hazme olvidar todas las cosas mundanas, otórgame desechar y apartar de mí aun las sombras de los vicios. Socórreme, Verdad eterna, para que no me mueva vanidad alguna. Ven, suavidad celestial, y huya de tu presencia toda torpeza.
 
@@ -2320,7 +2348,9 @@ El Alma:
 
 Hiere mis espaldas y mi cerviz para que enderece mis torcidas inclinaciones a tu voluntad. Hazme piadoso y humilde discípulo como sueles hacerlo, para que ande siempre pendiente de tu voluntad. Me entrego enteramente a Ti con todas mis cosas para que las corrijas. Más vale ser corregido aquí que en la otra vida. Tú sabes todas y cada una de las cosas, y no se te esconde nada en la humana conciencia. Antes que suceda, sabes lo venidera, y no hay necesidad que alguno te enseñe o avise de las cosas que se hacen en la tierra. Tú sabes lo que conviene para mi adelantamiento, y cuánto me aprovecha la tribulación para limpiar el orín de los vicios. Haz conmigo tu voluntad y gusto, y no deseches mi vida pecaminosa, a ninguno mejor ni más claramente conocida que a Ti solo.
 
-7. Concédeme, Señor, saber lo que se debe saber; amar lo que se debe amar; alabar lo que a Ti es agradable; estimar lo que te parece precioso; aborrecer lo que a tus ojos es feo. No permitas que juzgue según la vista de los ojos exteriores, ni que sentencie según el oído de los hombres ignorantes; sino dame gracia para que pueda discernir con verdadero juicio entre lo visible y lo espiritual, y sobre todo, buscar siempre la voluntad de tu divino beneplácito. 8. Muchas veces se engañan los hombres en sus opiniones y juicios, y los mundanos se engañan también en amar solamente lo visible. ¿Qué tiene de mejor el hombre porque otro le alabe? El falaz engaña al falaz, el vano al vano, el ciego al ciego, el enfermo al enfermo, cuando lo ensalza; y verdaderamente más le confunde cuando vanamente le alaba. Porque cuanto es cada uno en tus ojos, tanto es y no más, dice el humilde San Francisco.
+7. Concédeme, Señor, saber lo que se debe saber; amar lo que se debe amar; alabar lo que a Ti es agradable; estimar lo que te parece precioso; aborrecer lo que a tus ojos es feo. No permitas que juzgue según la vista de los ojos exteriores, ni que sentencie según el oído de los hombres ignorantes; sino dame gracia para que pueda discernir con verdadero juicio entre lo visible y lo espiritual, y sobre todo, buscar siempre la voluntad de tu divino beneplácito.
+
+8. Muchas veces se engañan los hombres en sus opiniones y juicios, y los mundanos se engañan también en amar solamente lo visible. ¿Qué tiene de mejor el hombre porque otro le alabe? El falaz engaña al falaz, el vano al vano, el ciego al ciego, el enfermo al enfermo, cuando lo ensalza; y verdaderamente más le confunde cuando vanamente le alaba. Porque cuanto es cada uno en tus ojos, tanto es y no más, dice el humilde San Francisco.
 
 ### Capítulo 51. Que debemos emplearnos en ejercicios humildes cuando no podemos en los sublimes
 
@@ -2338,7 +2368,7 @@ El Alma:
 
 2. ¿Qué he hecho, Señor, para que Tú me dieses ninguna consolación celestial? Yo no me acuerdo haber hecho ningún bien; sino que he sido siempre inclinado a vicios, y muy perezoso para enmendarme. Esto es verdad, y no puedo negarlo. Si dijese otra cosa, Tú estarías contra mí, y no habría quien me defendiese. ¿Qué he merecido por mis pecados, sino el infierno y el fuego eterno? Conozco en verdad que soy digno de todo escarnio y menosprecio; ni merezco ser contado entre tus devotos. Y aunque me incomode este lenguaje, no dejaré de acusar mis pecados contra mí, y en favor de la verdad, para que más fácilmente merezca alcanzar tu misericordia.
 
-3.¿Qué diré yo pecador, y lleno de toda confusión? No tengo boca para hablar sino sola esta palabra: Pequé, Señor, pequé; ten misericordia de mí; perdóname. Déjame un poco para que llore mi dolor, antes que vaya a la tierra tenebrosa y cubierta de obscuridad de muerte. ¿Qué es lo que principalmente exiges del culpable y miserable pecador, sino que se convierta y se humille por sus pecados? De la verdadera contrición y humildad de corazón nace la esperanza de ser perdonado, se reconcilia la conciencia turbada, reparase la gracia perdida, se defiende el hombre de la ira venidera, y se juntan en santa paz Dios y el alma contrita.
+3. ¿Qué diré yo pecador, y lleno de toda confusión? No tengo boca para hablar sino sola esta palabra: Pequé, Señor, pequé; ten misericordia de mí; perdóname. Déjame un poco para que llore mi dolor, antes que vaya a la tierra tenebrosa y cubierta de obscuridad de muerte. ¿Qué es lo que principalmente exiges del culpable y miserable pecador, sino que se convierta y se humille por sus pecados? De la verdadera contrición y humildad de corazón nace la esperanza de ser perdonado, se reconcilia la conciencia turbada, reparase la gracia perdida, se defiende el hombre de la ira venidera, y se juntan en santa paz Dios y el alma contrita.
 
 4. Señor, el humilde arrepentimiento de los pecados es para Ti sacrificio muy acepto, que huele más suavemente en tu presencia, que el incienso. Este es también el ungüento agradable que Tú quisiste que se derramase sobre tus sagrados pies; porque nunca desechaste el corazón contrito y humillado. Allí está el lugar del refugio para el que huye del enemigo; allí se enmienda y limpia lo que en otro lugar se erró y se manchó.
 
@@ -2368,7 +2398,9 @@ Jesucristo:
 
 6. La naturaleza teme la confusión y el desprecio. Pero la gracia se alegra en padecer injurias por el nombre de Jesús.
 
-7. La naturaleza ama el ocio y la quietud corporal. Más la gracia no puede estar ociosa; antes abraza de buena voluntad el trabajo. 8. La naturaleza busca tener cosas curiosas y hermosas, y aborrece las viles y groseras.
+7. La naturaleza ama el ocio y la quietud corporal. Más la gracia no puede estar ociosa; antes abraza de buena voluntad el trabajo.
+
+8. La naturaleza busca tener cosas curiosas y hermosas, y aborrece las viles y groseras.
 
 Mas la gracia se deleita con cosas llanas y bajas, no desecha las ásperas, ni rehúsa el vestir ropas viejas.
 
@@ -2432,7 +2464,9 @@ El Alma:
 
 3. Señor, pues tu camino es estrecho y despreciado en el mundo, concédeme que te imite en despreciar el mundo. Pues no es mejor el siervo que su señor, ni el discípulo es superior al maestro. Ejercitase tu siervo en tu vida, pues en ella esta mi salud, y la santidad verdadera. Cualquier cosa que fuera de ella oigo o no me recrea ni satisface cumplidamente.
 
-Jesucristo: 4. Hijo, pues sabes esto y lo has leído todo, si lo hicieres, serás bienaventurado. El que abraza mis mandamientos y los guarda,ese es el que me ama, y Yo le amaré, y le manifestaré a él,y le haré sentar conmigo en el reino de mi Padre.
+Jesucristo:
+
+4. Hijo, pues sabes esto y lo has leído todo, si lo hicieres, serás bienaventurado. El que abraza mis mandamientos y los guarda,ese es el que me ama, y Yo le amaré, y le manifestaré a él,y le haré sentar conmigo en el reino de mi Padre.
 
 El Alma:
 
@@ -2454,7 +2488,9 @@ Jesucristo:
 
 3. Ten buen ánimo, y apercíbete para trances mayores. Aunque te veas muchas veces atribulado, o gravemente tentado, no por eso está ya todo perdido. ¿Cómo podrás tú estar siempre en un mismo estado de virtud, cuando le faltó al ángel en el cielo, y al primer hombre en el paraíso? Yo soy el que levanta con entera salud a los que lloran y traigo a mi divinidad los que lloran y traigo a mi divinidad los que conocen su flaqueza.
 
-El Alma: 4. Señor, bendita ea tu palabra, dulce para mi boca más que la miel y el panal. ¿Qué haría yo en tantas tribulaciones y angustias, si Tú no me animases con tus santas palabras? Con tal que al fin llegue yo al puerto de salvación ¿qué se me da de cuanto hubiere padecido? Dame buen fin; dame una dulce partida de este mundo. Acuérdate de mí, Dios mío, y guíame por camino derecho a tu reino. Amén.
+El Alma:
+
+4. Señor, bendita ea tu palabra, dulce para mi boca más que la miel y el panal. ¿Qué haría yo en tantas tribulaciones y angustias, si Tú no me animases con tus santas palabras? Con tal que al fin llegue yo al puerto de salvación ¿qué se me da de cuanto hubiere padecido? Dame buen fin; dame una dulce partida de este mundo. Acuérdate de mí, Dios mío, y guíame por camino derecho a tu reino. Amén.
 
 ### Capítulo 58. No se deben escudriñar las cosas altas y los juicios ocultos de Dios
 
@@ -2464,7 +2500,9 @@ Jesucristo:
 
 2. Tampoco te pongas a inquirir o disputar de los merecimiento de los Santos, cuál sea más Santo o mayor en el reino de los cielos. Estas cosas muchas veces causan contiendas y disensiones sin provecho; aumentan también la soberbia y la vanagloria, de donde nacen envidias y discordias, cuando uno quiere preferir imprudentemente un Santo, y otro quiere a otro. Querer saber e inquirir tales cosas, ningún fruto trae, antes desagrada mucho a los Santos; por que Yo no soy DIOS de discordia, sino de paz; la cual consiste más en la verdadera humildad, que en la propia estimación.
 
-3. Algunos con celo de amor se aficionan a unos Santos más que a otros; pero más por afecto humano que divino. Yo soy el que hice a todos los Santos; Yo les di la gracia; Yo les he dado la gloria. Yo sé los méritos de cada uno; Yo les previne con bendiciones de mi dulzura. Yo conocí mis amados antes de los siglos; Yo los escogí del mundo, y no ellos a Mí. Yo los llamé por gracia y atraje por misericordia; Yo les llevé por diversas tentaciones. Yo les envié grandes consolaciones, les di la perseverancia y coroné su paciencia. 4. Yo conozco al primero y al último.
+3. Algunos con celo de amor se aficionan a unos Santos más que a otros; pero más por afecto humano que divino. Yo soy el que hice a todos los Santos; Yo les di la gracia; Yo les he dado la gloria. Yo sé los méritos de cada uno; Yo les previne con bendiciones de mi dulzura. Yo conocí mis amados antes de los siglos; Yo los escogí del mundo, y no ellos a Mí. Yo los llamé por gracia y atraje por misericordia; Yo les llevé por diversas tentaciones. Yo les envié grandes consolaciones, les di la perseverancia y coroné su paciencia.
+
+4. Yo conozco al primero y al último.
 
 Yo los abrazo a todos con amor inestimable. Yo soy digno de ser alabado en todos mis Santos, y ensalzado sobre todas las cosas; Yo debo ser honrado por cada uno de cuantos he engrandecido y predestinado, sin preceder algún merecimiento suyo. Por eso quien despreciare a uno de mis pequeñuelos, no honra al grande, porque yo hice al grande y al pequeño. Y el que quisiere deprimir alguno de los Santos, a Mí me deprime y a todos los demás del reino de los cielos. Todos son una misma cosa por vínculo de la caridad; todos tienen un mismo parecer y un mismo querer; y todos se aman recíprocamente.
 
@@ -2474,7 +2512,7 @@ Porque elevados sobre sí libres de su propio amor, se pasan del todo al mío; y
 
 6. Muchos por efecto de ignorancia, especialmente los que se hallan con poca luz interior, con dificultad saben amar a alguno con perfecto amor espiritual. Y aun los lleva mucho el afecto natural, y la amistad humana, con la cual se inclinan más a unos que a otros; y así como sienten de las cosas terrenas, así imaginan de las celestiales. Mas hay grandísima diferencia entre lo que piensan los hombres imperfectos y lo que saben los varones espirituales por la revelación divina.
 
-7.Guárdate, pues, hijo, de tratar curiosamente de las cosas que exceden a tu alcance: de lo que debes tratar es de que puedas ser siquiera el menor en el reino de Dios. Y aunque uno supiese quién es más Santo que otro, o el mayor en el reino del cielo, ¿de qué le serviría el saberlo, si no se humillase delante de Mí por este conocimiento, y no se levantase a alabar más puramente mi nombre? Mucho más agradable es a Dios el que piensa en la gravedad de sus propios pecados, y la poquedad de sus virtudes, y cuán lejos está de la perfección de los Santos, que el que porfía cuál será mayor o menor Santo. Mejor es rogar a los Santos con devotas oraciones y lágrimas, y con humilde corazón invocar su favor, que escudriñar sus secretos con inútil investigación.
+7. Guárdate, pues, hijo, de tratar curiosamente de las cosas que exceden a tu alcance: de lo que debes tratar es de que puedas ser siquiera el menor en el reino de Dios. Y aunque uno supiese quién es más Santo que otro, o el mayor en el reino del cielo, ¿de qué le serviría el saberlo, si no se humillase delante de Mí por este conocimiento, y no se levantase a alabar más puramente mi nombre? Mucho más agradable es a Dios el que piensa en la gravedad de sus propios pecados, y la poquedad de sus virtudes, y cuán lejos está de la perfección de los Santos, que el que porfía cuál será mayor o menor Santo. Mejor es rogar a los Santos con devotas oraciones y lágrimas, y con humilde corazón invocar su favor, que escudriñar sus secretos con inútil investigación.
 
 8. Ellos están cumplidamente contentos, si los hombres saben contentarse y refrenar la vanidad de sus lenguas. No se glorían de sus propios merecimientos, pues que ninguna cosa buena se atribuyen a sí mismos; sino todo a Mí; porque yo les di todo cuanto tienen con mi infinita caridad. Llenos están de tanto amor de la divinidad, y de tal abundancia de gozos, que ninguna parte de gloria les falta, ni les puede faltar cosa alguna de bienaventuranza. Todos los Santos, cuanto más altos están en la gloria tanto más humildes son en sí mismos, y están más cercanos a Mí, y son más amados de Mí. Por lo cual está escrito que abatieron sus coronas delante de Dios, y se postraron sobre sus rostros delante del Cordero, y adoraron al que vive por los siglos de los siglos.
 
@@ -2504,13 +2542,15 @@ El Alma:
 
 1. Estas son tus palabras, ¡oh buen Jesús, Verdad eterna! Aunque no fueron dichas en un tiempo, ni escritas en un mismo lugar. Y pues son tuyas, y verdaderas, debo yo recibirlas todas con gratitud y con fe. Tuyas son, pues, Tú las dijiste; y también son mías, pues las dijiste por mi bien. Muy de grado las recibo de tu boca, para que sean más profundamente grabadas en mi corazón. Despiértanme palabras de tanta piedad, llenas de dulzura y de amor; mas por otra parte mis propios pecados me espantan, y mi mala conciencia me retrae de recibir tan altos misterios. La dulzura de tus palabras me convida; mas la multitud de mis vicios me oprime.
 
-2.Me mandas que me llegue a Ti con gran confianza, si quiero tener parte contigo, y que reciba el manjar de la inmortalidad, si deseo alcanzar vida y gloria para siempre.
+2. Me mandas que me llegue a Ti con gran confianza, si quiero tener parte contigo, y que reciba el manjar de la inmortalidad, si deseo alcanzar vida y gloria para siempre.
 
 Dices: Venid a Mí todos los que tenéis trabajos y estáis cargados, que yo os recrearé.
 
 ¡Cuán dulces y amables son a los oídos del pecador estas palabras, por las cuales Tú, Señor Dios mío, convidas al pobre y al mendigo a la comunión de tu Santísimo Cuerpo! Mas ¿quién soy yo, Señor, para que presuma llegarme a Ti? Veo que no cabes en los cielos de los cielos; y Tú dices: ¡Venid a Mí todos!
 
-3. ¿Qué quiere decir esta tan piadosa dignación, y este tan amistoso convite? ¿Cómo osaré llegarme yo que no reconozco en mí cosa buena en que pueda confiar? ¿Cómo te hospedaré en mi habitación yo que tantas veces ofendí tu benignísima presencia? Los ángeles y arcángeles tiemblan: los Santos y justos temen. Y Tú dices: !Venid a Mí todos! Si Tú, Señor, no dijeses esto, ¿quién lo creería? Y si Tú no lo mandases, ¿quién osaría llegarse a Ti? 4. Noé, varón justo, trabajó cien años en fabricar una arca para guarecerse en ella con pocas personas: ¿pues cómo podré yo en una hora prepararme para recibir con reverencia al que fabricó el mundo? Moisés, tu gran siervo y tu amigo especial, hizo una arca de madera incorruptible, y la guarneció de oro purísimo para poner en ella las tablas de la Ley; ¿y yo, criatura podrida, osaré recibirte tan fácilmente a Ti, hacedor de la ley y dador de la vida? Salomón, el más sabio de los reyes de Israel, edificó en siete años, en honor de tu nombre, un magnífico templo. Celebró ocho días la fiesta de su dedicación, ofreció mil hostias pacíficas, y colocó solemnemente el Arca del Testamento, con músicas y regocijos, en el lugar que le estaba preparado. Y yo, miserable y más pobre de los hombres, ¿cómo te introduciré en mi casa, que difícilmente estoy con devoción media hora? Y ¡ojalá que alguna vez gastase bien media hora!
+3. ¿Qué quiere decir esta tan piadosa dignación, y este tan amistoso convite? ¿Cómo osaré llegarme yo que no reconozco en mí cosa buena en que pueda confiar? ¿Cómo te hospedaré en mi habitación yo que tantas veces ofendí tu benignísima presencia? Los ángeles y arcángeles tiemblan: los Santos y justos temen. Y Tú dices: !Venid a Mí todos! Si Tú, Señor, no dijeses esto, ¿quién lo creería? Y si Tú no lo mandases, ¿quién osaría llegarse a Ti?
+
+4. Noé, varón justo, trabajó cien años en fabricar una arca para guarecerse en ella con pocas personas: ¿pues cómo podré yo en una hora prepararme para recibir con reverencia al que fabricó el mundo? Moisés, tu gran siervo y tu amigo especial, hizo una arca de madera incorruptible, y la guarneció de oro purísimo para poner en ella las tablas de la Ley; ¿y yo, criatura podrida, osaré recibirte tan fácilmente a Ti, hacedor de la ley y dador de la vida? Salomón, el más sabio de los reyes de Israel, edificó en siete años, en honor de tu nombre, un magnífico templo. Celebró ocho días la fiesta de su dedicación, ofreció mil hostias pacíficas, y colocó solemnemente el Arca del Testamento, con músicas y regocijos, en el lugar que le estaba preparado. Y yo, miserable y más pobre de los hombres, ¿cómo te introduciré en mi casa, que difícilmente estoy con devoción media hora? Y ¡ojalá que alguna vez gastase bien media hora!
 
 5. ¡Oh Dios mío! ¿Qué no hicieron aquellos por agradarte? Mas ¡ay de mí! ¡Cuán poco es lo que yo hago! ¡Qué corto tiempo gasto en prepararme para la Comunión! Rara vez estoy del todo recogido, y rarísima me veo libre de toda distracción. Y en verdad, que en tu saludable y divina presencia no debiera ocurrirme pensamiento alguno poco decente, ni ocuparme criatura alguna; porque no voy a hospedar a algún ángel, sino al Señor de los ángeles.
 
@@ -2578,7 +2618,7 @@ El Alma:
 
 Pero todo lo que me falta, buen Jesús, Salvador santísimo, súplelo Tú benigna y graciosamente por mí; pues tuviste por bien de llamar a todos, diciendo: Venid a Mí todos los que tenéis trabajos y estáis cargados, que yo os recrearé.
 
-5.Yo, pues, trabajo con sudor de mi rostro, soy atormentado con dolor de mi corazón, estoy cargado de pecados, combatido de tentaciones, envuelto y oprimido de muchas pasiones, y no hay quien me valga, no hay quien me libre y salve, sino Tú, Señor Dios, Salvador mío, a quien me encomiendo y todas mis cosas, para que me guardes y lleves a la vida eterna. Recíbeme para honra y gloria de tu nombre; pues me dispusiste tu cuerpo y sangre en manjar y bebida. Concédeme, Señor Dios, Salvador mío, que crezca el afecto de mi devoción con la frecuencia de este soberano misterio.
+5. Yo, pues, trabajo con sudor de mi rostro, soy atormentado con dolor de mi corazón, estoy cargado de pecados, combatido de tentaciones, envuelto y oprimido de muchas pasiones, y no hay quien me valga, no hay quien me libre y salve, sino Tú, Señor Dios, Salvador mío, a quien me encomiendo y todas mis cosas, para que me guardes y lleves a la vida eterna. Recíbeme para honra y gloria de tu nombre; pues me dispusiste tu cuerpo y sangre en manjar y bebida. Concédeme, Señor Dios, Salvador mío, que crezca el afecto de mi devoción con la frecuencia de este soberano misterio.
 
 ### Capítulo 5. De la dignidad del Sacramento y del estado del sacerdocio
 
@@ -2654,7 +2694,9 @@ Despreciarse debe este desdichado y burlarse de él; y no dejar la sagrada Comun
 
 5. ¡Oh, cuán poca caridad y flaca devoción tienen los que tan fácilmente dejan la sagrada Comunión! ¡Cuán bienaventurado es, y cuán agradable a Dios el que vive tan bien y guarda su conciencia con tanta pureza, que este dispuesto a comulgar cada día, y muy deseoso de hacerlo así, si le conviene y no fuese notado! El que se abstiene algunas veces por humildad o por alguna legítima,es de alabar por su respeto. Más si poco a poco le entraré la tibieza, debe despertarse a sí mismo, y hacer lo que este de su parte, y el Señor ayudara su deseo, por la buena voluntad, que es a la que especialmente atiende.
 
-6. Más cuando estuviere legítimamente impedido, tenga siempre buena voluntad y devota intención de comulgar, y así no carecerá del fruto del Sacramento. Porque cualquier devoto puede cada día y cada hora comulgar espiritualmente con fruto. Más en ciertos días y en el tiempo mandado, debe recibir sacramentalmente el cuerpo de su Redentor con afectuosa reverencia, y buscar más bien la gloria y honra de Dios, que su propia consolación. Porque tantas veces comulga místicamente y se alimenta invisiblemente su espíritu, cuantas se acuerda con devoción el misterio de la Encarnación y Pasión de Cristo, y se enciende en su amor. 7. El que no se prepara sino al acercarse la fiesta, o cuando le fuerza la costumbre, muchas veces se hallara mal preparado. Bienaventurado el que se ofrece a Dios en entero sacrificio cuantas veces celebra o comulga. No seis muy prolijo ni acelerado en celebrar; sino guarda el medio justo y ordinario de los demás con quienes vives. No debes causar a los otros molestia ni enfado, sino ir por el camino ordinario de los mayores, y mirar más al aprovechamiento de los otros, que a tu propia devoción y afecto.
+6. Más cuando estuviere legítimamente impedido, tenga siempre buena voluntad y devota intención de comulgar, y así no carecerá del fruto del Sacramento. Porque cualquier devoto puede cada día y cada hora comulgar espiritualmente con fruto. Más en ciertos días y en el tiempo mandado, debe recibir sacramentalmente el cuerpo de su Redentor con afectuosa reverencia, y buscar más bien la gloria y honra de Dios, que su propia consolación. Porque tantas veces comulga místicamente y se alimenta invisiblemente su espíritu, cuantas se acuerda con devoción el misterio de la Encarnación y Pasión de Cristo, y se enciende en su amor.
+
+7. El que no se prepara sino al acercarse la fiesta, o cuando le fuerza la costumbre, muchas veces se hallara mal preparado. Bienaventurado el que se ofrece a Dios en entero sacrificio cuantas veces celebra o comulga. No seis muy prolijo ni acelerado en celebrar; sino guarda el medio justo y ordinario de los demás con quienes vives. No debes causar a los otros molestia ni enfado, sino ir por el camino ordinario de los mayores, y mirar más al aprovechamiento de los otros, que a tu propia devoción y afecto.
 
 ### Capítulo 11. El cuerpo de Cristo y la Sagrada Escritura son muy necesarios al alma fiel
 
@@ -2722,7 +2764,9 @@ Jesucristo:
 
 2. Si siempre se nos diese la gracia sin dilación, y a medida de nuestro deseo no podría abrazarla bien el hombre flaco. Por eso la debes esperar con segura confianza y humilde paciencia; y cuando no te es concedida, o te fuere quitada secretamente, echa la culpa a ti mismo y a tus pecados. Algunas veces es bien pequeña cosa la que impide y esconde la gracia, si es que debe llamar poco y no mucho lo que tanto bien estorba. Mas si aquello poco o mucho apartares, y perfectamente vencieres, tendrás lo que suplicaste.
 
-3. Porque luego que te entregares a Dios de todo tu corazón, y no buscares cosa alguna por tu propio gusto, sino que del todo te pusieres en sus manos, te hallarás recogido y sosegado; porque nada te agrada. Cualquiera, pues, que levantarse su intención a Dios con sencillo corazón, y se despojare de todo amor u odio desordenado de cualquier cosa criada, estará muy bien dispuesto para recibir la divina gracia, y se hará digno del don de la devoción. Porque el Señor echa su bendición, donde halla los vasos vacíos. Y cuanto más perfectamente renunciare alguno las cosas bajas, y estuviere muerto a sí mismo por su propio desprecio, tanto más presto viene la gracia, más copiosamente entra, y más alto levanta el corazón ya libre. 4. Entonces verá y abundará, y se maravillará, y se dilatará su corazón; por que la mano del Señor está con él, y él se puso enteramente en sus manos para siempre. De esta manera será bendito el hombre que busca a Dios con todo su corazón, y no ha recibido su alma en vano. Este, cuando recibe la santa Comunión, merece la singular gracia de la unión divina; porque no mira a su propia devoción y consuelo, sino sobre todo a la gloria y honra de Dios .
+3. Porque luego que te entregares a Dios de todo tu corazón, y no buscares cosa alguna por tu propio gusto, sino que del todo te pusieres en sus manos, te hallarás recogido y sosegado; porque nada te agrada. Cualquiera, pues, que levantarse su intención a Dios con sencillo corazón, y se despojare de todo amor u odio desordenado de cualquier cosa criada, estará muy bien dispuesto para recibir la divina gracia, y se hará digno del don de la devoción. Porque el Señor echa su bendición, donde halla los vasos vacíos. Y cuanto más perfectamente renunciare alguno las cosas bajas, y estuviere muerto a sí mismo por su propio desprecio, tanto más presto viene la gracia, más copiosamente entra, y más alto levanta el corazón ya libre.
+
+4. Entonces verá y abundará, y se maravillará, y se dilatará su corazón; por que la mano del Señor está con él, y él se puso enteramente en sus manos para siempre. De esta manera será bendito el hombre que busca a Dios con todo su corazón, y no ha recibido su alma en vano. Este, cuando recibe la santa Comunión, merece la singular gracia de la unión divina; porque no mira a su propia devoción y consuelo, sino sobre todo a la gloria y honra de Dios .
 
 ### Capítulo 16. Que debemos manifestar a Cristo nuestras necesidades y pedirle su gracia
 
@@ -2768,9 +2812,11 @@ Sujétate a Dios, y humilla tu juicio a la fe, y se te dará la luz de la cienci
 
 3. Algunos son gravemente tentados contra la fe en este Sacramento; más esto no se de imputar a ellos, sino al enemigo. No tengas cuidado, no disputes con tus pensamientos, embriagándolos ni respondas a las dudas que el diablo te sugiere; sino cree en las palabras de Dios, cree a sus Santos y a sus Profetas, y huirá de ti el malvado enemigo.
 
-Muchas veces es muy conveniente al siervo de Dios el padecer estas tentaciones. Pues no tienta el demonio a los infieles y pecadores a quienes ya tiene seguros; sino que tienta y atormenta de diversas maneras a los fieles y devotos. 4. Acércate, pues, con una fe firme y sencilla, y llégate al Sacramento con suma reverencia; y todo lo que no puedes entender, encomiéndalo con seguridad al Dios todopoderoso. Dios no te engaña; el que engaña es el que se cree a sí mismo demasiadamente. Dios anda con los sencillos, se descubre a los humildes, y da entendimiento a los pequeños, alumbra a las almas puras, y esconde su gracia a los curiosos y soberbios. La razón humana es flaca, y puede engañarse; mas la fe verdadera no puede ser engañada.
+Muchas veces es muy conveniente al siervo de Dios el padecer estas tentaciones. Pues no tienta el demonio a los infieles y pecadores a quienes ya tiene seguros; sino que tienta y atormenta de diversas maneras a los fieles y devotos.
 
-5.Toda razón y discurso natural debe seguir a la fe, y no ir delante de ella ni quebrantarla. Porque la fe y el amor muestran aquí mucho su excelencia, y obran secretamente en este santísimo y sobreexcelentísimo Sacramento. El Dios eterno, inmenso y de poder infinito, hace cosas grandes e inescrutables en el cielo y en la tierra; y sus obras admirables se ocultan a toda investigación. Si tales fuesen las obras de Dios,
+4. Acércate, pues, con una fe firme y sencilla, y llégate al Sacramento con suma reverencia; y todo lo que no puedes entender, encomiéndalo con seguridad al Dios todopoderoso. Dios no te engaña; el que engaña es el que se cree a sí mismo demasiadamente. Dios anda con los sencillos, se descubre a los humildes, y da entendimiento a los pequeños, alumbra a las almas puras, y esconde su gracia a los curiosos y soberbios. La razón humana es flaca, y puede engañarse; mas la fe verdadera no puede ser engañada.
+
+5. Toda razón y discurso natural debe seguir a la fe, y no ir delante de ella ni quebrantarla. Porque la fe y el amor muestran aquí mucho su excelencia, y obran secretamente en este santísimo y sobreexcelentísimo Sacramento. El Dios eterno, inmenso y de poder infinito, hace cosas grandes e inescrutables en el cielo y en la tierra; y sus obras admirables se ocultan a toda investigación. Si tales fuesen las obras de Dios,
 
 que fácilmente se pudiesen comprender por la razón humana, no se dirían inefables ni maravillosas.
 

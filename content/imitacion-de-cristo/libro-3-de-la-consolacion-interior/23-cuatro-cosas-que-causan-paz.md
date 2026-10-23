@@ -6,7 +6,7 @@ Jesucristo:
 
 El Alma:
 
-2.Haz, Señor, lo que dices, que me alegra mucho de oírlo.
+2. Haz, Señor, lo que dices, que me alegra mucho de oírlo.
 
 Jesucristo:
 

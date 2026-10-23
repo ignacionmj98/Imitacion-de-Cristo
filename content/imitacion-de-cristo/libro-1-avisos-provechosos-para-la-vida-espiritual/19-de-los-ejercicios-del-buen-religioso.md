@@ -40,7 +40,9 @@ No todos podemos ejercitar una misma cosa; unas convienen más a unos y otras a 
 
 También, según el tiempo, te serán más a propósito diversos ejercicios; porque unos son me ores para las fiestas, otros par a los días de trabajo.
 
-Necesitamos de unos para el tiempo de la tentación, y de otros para el de la paz y sosiego. En unas cosas es bien pensar cuando estamos tristes, y en otras, cuando alegres en el Señor. 6. En las fiestas principales debemos renovar nuestros buenos ejercicios, e invocar con mayor fervor la intercesión de los Santos.
+Necesitamos de unos para el tiempo de la tentación, y de otros para el de la paz y sosiego. En unas cosas es bien pensar cuando estamos tristes, y en otras, cuando alegres en el Señor.
+
+6. En las fiestas principales debemos renovar nuestros buenos ejercicios, e invocar con mayor fervor la intercesión de los Santos.
 
 De una fiesta para otra debemos proponer algo, como si entonces hubiésemos de salir de este mundo y llegar a la eterna festividad.
 

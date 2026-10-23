@@ -50,7 +50,9 @@ Fatigado no se cansa; angustiado no se angustia; espantado no se espanta: sino, 
 
 Si alguno ama, conoce lo que dice esta voz:
 
-Grande clamor es en los oídos de Dios el abrasado afecto del alma que dice: Dios mío, amor mío, Tú todo mío, y yo todo tuyo. 6. Dilátame en el amor, para que aprenda a gustar con la boca interior del corazón cuán suave es amar y derretirse y nadar en el amor.
+Grande clamor es en los oídos de Dios el abrasado afecto del alma que dice: Dios mío, amor mío, Tú todo mío, y yo todo tuyo.
+
+6. Dilátame en el amor, para que aprenda a gustar con la boca interior del corazón cuán suave es amar y derretirse y nadar en el amor.
 
 Sea yo cautivo del amor, saliendo de mí por él grande fervor y admiración.
 

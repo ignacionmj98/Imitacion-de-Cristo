@@ -8,4 +8,6 @@ Jesucristo:
 
 3. Ten buen ánimo, y apercíbete para trances mayores. Aunque te veas muchas veces atribulado, o gravemente tentado, no por eso está ya todo perdido. ¿Cómo podrás tú estar siempre en un mismo estado de virtud, cuando le faltó al ángel en el cielo, y al primer hombre en el paraíso? Yo soy el que levanta con entera salud a los que lloran y traigo a mi divinidad los que lloran y traigo a mi divinidad los que conocen su flaqueza.
 
-El Alma: 4. Señor, bendita ea tu palabra, dulce para mi boca más que la miel y el panal. ¿Qué haría yo en tantas tribulaciones y angustias, si Tú no me animases con tus santas palabras? Con tal que al fin llegue yo al puerto de salvación ¿qué se me da de cuanto hubiere padecido? Dame buen fin; dame una dulce partida de este mundo. Acuérdate de mí, Dios mío, y guíame por camino derecho a tu reino. Amén.
+El Alma:
+
+4. Señor, bendita ea tu palabra, dulce para mi boca más que la miel y el panal. ¿Qué haría yo en tantas tribulaciones y angustias, si Tú no me animases con tus santas palabras? Con tal que al fin llegue yo al puerto de salvación ¿qué se me da de cuanto hubiere padecido? Dame buen fin; dame una dulce partida de este mundo. Acuérdate de mí, Dios mío, y guíame por camino derecho a tu reino. Amén.
