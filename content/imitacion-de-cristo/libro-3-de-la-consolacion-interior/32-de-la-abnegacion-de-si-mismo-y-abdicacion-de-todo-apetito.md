@@ -4,7 +4,7 @@ Jesucristo:
 
 1. Hijo, no puedes poseer libertad perfecta, si no te niegas del todo a ti mismo. En prisiones están todos los ricos y amadores de sí mismos, los codiciosos, ociosos y vagabundos, y los que buscan siempre las cosas de gusto, y no las de Jesucristo: sino que antes componen e inventan muchas veces lo que no ha de durar. Porque todo lo que no procede de Dios perecerá. Imprime en tu alma esta breve y perfectísima máxima:
 
-Déjalo todo, y lo hallarás todo; deja tu apetito, y hallarás sosiego. Reflexiones bien esto; y cuando cumplieres, lo entenderás todo.
+Déjalo todo, y lo hallarás todo; deja tu apetito, y hallarás sosiego. Reflexiona bien esto; y cuando cumplieres, lo entenderás todo.
 
 El Alma:
 

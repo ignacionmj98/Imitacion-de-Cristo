@@ -6,7 +6,7 @@ Tiene muchos que desean la consolación, y muy pocos que quieran la tribulación
 
 Muchos compañeros halla para la mesa, y pocos para la abstinencia.
 
-Todos quieren gozar con El, mas pocos quieren sufrir algo por El.
+Todos quieren gozar con Él, mas pocos quieren sufrir algo por Él.
 
 Muchos siguen a Jesús hasta el partir del pan, mas pocos hasta beber el cáliz de la pasión.
 
@@ -14,7 +14,7 @@ Muchos honran sus milagros, mas pocos siguen el vituperio de la cruz.
 
 Muchos aman a Jesús, cuando no hay adversidades.
 
-Muchos le alaban y bendicen en el tiempo que reciben de El algunas consolaciones: mas si Jesús se escondiese y los dejase un poco, luego de quejarían o desesperarían mucho.
+Muchos le alaban y bendicen en el tiempo que reciben de Él algunas consolaciones: mas si Jesús se escondiese y los dejase un poco, luego se quejarían o desesperarían mucho.
 
 2. Mas los que aman a Jesús, por el mismo Jesús, y no por alguna propia consolación suya, bendícenle en toda la tribulación y angustia del corazón, tan bien como en consolación.
 
@@ -22,9 +22,7 @@ Y aunque nunca más les quisiese dar consolación, siempre le alabarían, y le q
 
 3. ¡Oh! ¡Cuánto puede el amor puro de Jesús sin mezcla del propio provecho o amor!
 
-¿No se pueden llamar propiamente mercenarios los que siempre buscan consolaciones? ¿No se aman a sí mismos más que a Cristo, los que de continuo piensan en sus
-
-provechos y ganancias?
+¿No se pueden llamar propiamente mercenarios los que siempre buscan consolaciones? ¿No se aman a sí mismos más que a Cristo, los que de continuo piensan en sus provechos y ganancias?
 
 ¿Dónde se hallará alguno tal, que quiera servir a Dios de balde?
 
@@ -38,9 +36,7 @@ Si el hombre diere su hacienda toda, aún no es nada.
 
 Si hiciere gran penitencia, aún es poco.
 
-Aunque tenga toda la ciencia, aún está lejos: y si tuviere gran virtud y muy ferviente
-
-devoción, aún le falta mucho; le falta cosa que le es más necesaria.
+Aunque tenga toda la ciencia, aún está lejos: y si tuviere gran virtud y muy ferviente devoción, aún le falta mucho; le falta cosa que le es más necesaria.
 
 Y esta ¿cuál es? Que dejadas todas las cosas, deje a sí mismo y salga de sí del todo, y que no le quede nada de amor propio.
 

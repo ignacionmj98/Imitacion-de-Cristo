@@ -2,7 +2,7 @@
 
 1. Con dos alas se levanta el hombre de las cosas terrenas, que son sencillez y pureza.
 
-La sencillez ha de estar en la intención y la pureza en la afición. La sencillez pone la intención en Dios; la pureza le reconoce y gusta. Ninguna buena obra te impedirá, si interiormente estuvieres libre de todo desordenado deseo.Si no piensas ni buscas sino el beneplácito divino y el provecho del prójimo, gozarás de interior libertad. Si fuese tu corazón recto, entonces te sería toda criatura espejo de vida, y libro de santa doctrina.
+La sencillez ha de estar en la intención y la pureza en la afición. La sencillez pone la intención en Dios; la pureza le reconoce y gusta. Ninguna buena obra te impedirá, si interiormente estuvieres libre de todo desordenado deseo. Si no piensas ni buscas sino el beneplácito divino y el provecho del prójimo, gozarás de interior libertad. Si fuese tu corazón recto, entonces te sería toda criatura espejo de vida, y libro de santa doctrina.
 
 No hay criatura tan baja ni pequeña, que no represente la bondad de Dios.
 

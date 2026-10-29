@@ -8,7 +8,9 @@ Jesucristo:
 
 Está a mi voluntad, y no sentirás daño alguno. Si buscas esto o aquello, y quisieres estar aquí o allí por tu provecho, y propia voluntad, nunca tendrás quietud, ni estarás libre de cuidados; porque en todas hay alguna falta, y en cada lugar habrá quien te ofenda.
 
-3. Y así, no cualquier cosa alcanzada o multiplicada exteriormente aprovecha; sino más bien la despreciada y desarraigada del corazón. No entiendas eso solamente de las posesiones y de las riquezas; sino también de la ambición de la honra, y deseo de vanas alabanzas, todo lo cual pasa con el mundo. Importa poco el lugar, si falta el fervor del espíritu; ni durará mucho la paz buscada por de fuera, si falta el verdadero fundamento de la disposición del corazón; quiero decir, si no estuvieses en Mí, puedes mudarte, pero no mejorarte. Porque en llegando y agradando la ocasión, hallarás lo mismo que huías, y más. Oración para pedir la limpieza de corazón, y la Sabiduría celestial.
+3. Y así, no cualquier cosa alcanzada o multiplicada exteriormente aprovecha; sino más bien la despreciada y desarraigada del corazón. No entiendas eso solamente de las posesiones y de las riquezas; sino también de la ambición de la honra, y deseo de vanas alabanzas, todo lo cual pasa con el mundo. Importa poco el lugar, si falta el fervor del espíritu; ni durará mucho la paz buscada por de fuera, si falta el verdadero fundamento de la disposición del corazón; quiero decir, si no estuvieses en Mí, puedes mudarte, pero no mejorarte. Porque en llegando y agradando la ocasión, hallarás lo mismo que huías, y más.
+
+Oración para pedir la limpieza de corazón, y la sabiduría celestial
 
 El Alma:
 

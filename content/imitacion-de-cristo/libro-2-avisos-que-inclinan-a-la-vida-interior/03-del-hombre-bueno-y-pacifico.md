@@ -10,7 +10,7 @@ El hombre bueno y pacífico todas las cosas echa a la buena parte.
 
 El que está en buena paz, de ninguno sospecha.
 
-El descontento y alterado, con diversas sospechas se atormenta; ni el sosiega, ni deja descansar a los otros.
+El descontento y alterado, con diversas sospechas se atormenta; ni él sosiega, ni deja descansar a los otros.
 
 Dice muchas veces lo que no debiera, y deja de hacer lo que más le convendría.
 
@@ -28,9 +28,9 @@ Mira cuán lejos estás aún de la verdadera caridad y humildad, la cual no sabe
 
 No es mucho conversar con los buenos y mansos, pues esto a todos da gusto naturalmente; y cada uno de buena gana tiene paz, y ama a los que concuerdan con él.
 
-Pero poder vivir en paz con los duros, perversos y mal acondicionados, y con quien noscontradice, grande gracia es, y acción varonil y loable.
+Pero poder vivir en paz con los duros, perversos y mal acondicionados, y con quien nos contradice, grande gracia es, y acción varonil y loable.
 
-3. Hay algunos que tiene paz consigo, y también con los otros.
+3. Hay algunos que tienen paz consigo, y también con los otros.
 
 Otros hay que ni la tienen consigo, ni la dejan tener a los demás: molestos para los otros, lo son más para sí mismos.
 

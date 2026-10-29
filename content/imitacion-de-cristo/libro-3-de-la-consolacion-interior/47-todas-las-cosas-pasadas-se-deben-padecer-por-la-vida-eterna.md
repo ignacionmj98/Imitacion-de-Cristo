@@ -1,4 +1,4 @@
-### Capítulo 47. Todas las cosas pasadas se deben padecer por la vida eterna
+### Capítulo 47. Todas las cosas pesadas se deben padecer por la vida eterna
 
 Jesucristo:
 

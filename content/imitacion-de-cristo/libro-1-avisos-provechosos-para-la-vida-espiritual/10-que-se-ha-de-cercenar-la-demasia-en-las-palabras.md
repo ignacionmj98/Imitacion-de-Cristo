@@ -6,7 +6,7 @@ Porque presto somos amancillados y cautivos de la vanidad.
 
 Muchas veces quisiera haber callado y no haber estado entre los hombres.
 
-Pero, cuál es la causa que tan de gana hablamos y platicamos. unos con otros, viendo cuán pocas veces volvemos al silencio sin daño de la conciencia?
+Pero, ¿cuál es la causa que tan de gana hablamos y platicamos unos con otros, viendo cuán pocas veces volvemos al silencio sin daño de la conciencia?
 
 La razón es que por el hablar buscamos ser consolados unos de otros y deseamos aliviar el corazón fatigado de pensamientos diversos.
 

@@ -2,13 +2,13 @@
 
 1. Considera bien los heroicos ejemplos de los Santos Padres, en los cuales resplandeció la verdadera perfección y religión, y verás cuán poco o casi nada es lo que hacemos.
 
-¡Ay de nosotros? ¿Qué es nuestra vida comparada con la suya?
+¡Ay de nosotros! ¿Qué es nuestra vida comparada con la suya?
 
 Los Santos y amigos de Cristo sirvieron al Señor en hambre y en sed, en frío y desnudez, en trabajos y fatigas, en vigilias y ayunos, en oraciones y santas meditaciones, en persecuciones y muchos oprobios.
 
-2. ¡Oh, cuán graves y cuántas tribulaciones padecieron los apóstoles, mártires, confesores, vírgenes y todos los demás que quisieron seguir las pisadas de Cristo?
+2. ¡Oh, cuán graves y cuántas tribulaciones padecieron los apóstoles, mártires, confesores, vírgenes y todos los demás que quisieron seguir las pisadas de Cristo!
 
-Pues en este mundo aborrecieron sus vidas para poseer sus almas en la vida eternal ¡Oh, cuán estrecha y retirada vida hicieron los Santos Padres en el yermo! ¡Cuán largas y graves tentaciones padecieron! ¡Cuán de ordinario fueron atormentados del enemigo!
+Pues en este mundo aborrecieron sus vidas para poseer sus almas en la vida eterna. ¡Oh, cuán estrecha y retirada vida hicieron los Santos Padres en el yermo! ¡Cuán largas y graves tentaciones padecieron! ¡Cuán de ordinario fueron atormentados del enemigo!
 
 ¡Cuán continuas y fervientes oraciones ofrecieron a Dios! ¡Cuán rigurosas abstinencias cumplieron! ¡Cuán gran celo y fervor tuvieron en su aprovechamiento espiritual! ¡Cuán fuertes peleas pasaron para vencer los vicios! ¡Cuán pura y recta intención tuvieron con Dios!
 
@@ -20,17 +20,15 @@ Renunciaban todas las riquezas, honras, dignidades, parientes y amigos; ninguna 
 
 En lo de fuera eran necesitados; pero en lo interior estaban con la gracia y divinas consolaciones recreados.
 
-Ajenos eran al mundo, mas muy allegados a Dios, del cual eran familiares amigos. Teníanse por nada en cuanto a sí mismos y para nada con el mundo eran despreciados; mas en los ojos de Dios eran muy preciosos y amados.
+Ajenos eran al mundo, mas muy allegados a Dios, del cual eran familiares amigos. Teníanse por nada en cuanto a sí mismos y para con el mundo eran despreciados; mas en los ojos de Dios eran muy preciosos y amados.
 
-Estaban en verdadera humildad; vivían en sencilla obediencia; andaban en caridad y paciencia, y por esa cada día crecían en espíritu y alcanzaban mucha gracia delante de Dios.
+Estaban en verdadera humildad; vivían en sencilla obediencia; andaban en caridad y paciencia, y por eso cada día crecían en espíritu y alcanzaban mucha gracia delante de Dios.
 
 Fueron puestos por dechados a todos los religiosos, y más nos deben mover para aprovechar en el bien, que no la muchedumbre de los tibios para aflojar y descaecer.
 
-4. ¡Oh, cuán grande fue el fervor de todos los religiosos al principio de sus sagrados institutos! ¡Cuánta la devoción de la oración! ¡Cuanto el celo de la virtud! ¡Cuánta disciplina floreció! ¡Cuánta reverencia y obediencia al superior hubo en todas las cosas!
+4. ¡Oh, cuán grande fue el fervor de todos los religiosos al principio de sus sagrados institutos! ¡Cuánta la devoción de la oración! ¡Cuánto el celo de la virtud! ¡Cuánta disciplina floreció! ¡Cuánta reverencia y obediencia al superior hubo en todas las cosas!
 
-Aun hasta ahora dan testimonio de ello las señales que quedaron, de que fueron verdaderamente varones santos y perfectos los que, peleando tan esforzadamente,
-
-vencieron al mundo.
+Aun hasta ahora dan testimonio de ello las señales que quedaron, de que fueron verdaderamente varones santos y perfectos los que, peleando tan esforzadamente, vencieron al mundo.
 
 Ahora ya se estima en mucho aquel que no quebranta la Regla, y con paciencia puede sufrir lo que aceptó por su voluntad.
 

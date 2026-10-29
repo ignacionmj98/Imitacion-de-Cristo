@@ -8,7 +8,7 @@ Al que Dios quiere ayudar, no le podrá dañar la malicia de alguno.
 
 Si sabes callar y sufrir, sin duda verás el favor de Dios.
 
-El sabe el tiempo y el modo de librarte; y por eso te debes ofrecer a El.
+Él sabe el tiempo y el modo de librarte; y por eso te debes ofrecer a Él.
 
 A Dios pertenece ayudar y librar de toda confusión.
 

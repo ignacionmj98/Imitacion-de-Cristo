@@ -1,4 +1,4 @@
-### Capítulo 13. De la obediencia del súbdito humulde a ejemplo de Jesucristo
+### Capítulo 13. De la obediencia del súbdito humilde a ejemplo de Jesucristo
 
 Jesucristo:
 
@@ -6,4 +6,4 @@ Jesucristo:
 
 2. Pero ¿qué mucho es que tú, polvo y nada, te sujetes al hombre por Dios, cuando Yo, Omnipotente y Altísimo, que crié todas las cosas de la nada, me sujeté al hombre humildemente por ti? Me hice el más humilde y abatido de todos, para que vencieses tu soberbia con mi humildad. Aprende, polvo, a obedecer; aprende, tierra y lodo, a humillarte y postrarte a los pies de todos. Aprende a quebrantar tus inclinaciones, y rendirte a toda sujeción.
 
-3. Enójate contra ti; y no sufras que viva en ti el orgullo; sino hazte tan sumiso y pequeño, que puedan todos ponerse sobre ti, y pisarte como el lodo de las calles. ¿Qué tienes, hombre despreciable, de qué quejarte? ¿Qué puedes contradecir, sórdido pecador, a los que te maltratan, pues tantas veces ofendiste a tu Criador, y muchas mereciste el infierno? Pero te perdonaron mis ojos, porque tu alma fue preciosa delante de Mí, para que conocieses mi amor, y fueses siempre agradable a mis beneficios. Y para que te dieses continuamente a la verdadera humildad y sujeción, y sufrieses con paciencia tu propio menosprecio.
+3. Enójate contra ti; y no sufras que viva en ti el orgullo; sino hazte tan sumiso y pequeño, que puedan todos ponerse sobre ti, y pisarte como el lodo de las calles. ¿Qué tienes, hombre despreciable, de qué quejarte? ¿Qué puedes contradecir, sórdido pecador, a los que te maltratan, pues tantas veces ofendiste a tu Criador, y muchas mereciste el infierno? Pero te perdonaron mis ojos, porque tu alma fue preciosa delante de Mí, para que conocieses mi amor, y fueses siempre agradecido a mis beneficios. Y para que te dieses continuamente a la verdadera humildad y sujeción, y sufrieses con paciencia tu propio menosprecio.

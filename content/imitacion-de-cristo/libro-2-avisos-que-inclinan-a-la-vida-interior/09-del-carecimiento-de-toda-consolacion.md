@@ -2,7 +2,7 @@
 
 1. No es grave cosa despreciar la humana consolación, cuando tenemos la divina.
 
-Gran cosa es y muy grande ser privado, y carecer de consuelo divino y humano, y querer sufrir de gana destierro de corazón por la honre de Dios, y en ninguna cosa buscarse a sí mismo, ni mirar a su propio merecimiento.
+Gran cosa es y muy grande ser privado, y carecer de consuelo divino y humano, y querer sufrir de gana destierro de corazón por la honra de Dios, y en ninguna cosa buscarse a sí mismo, ni mirar a su propio merecimiento.
 
 ¿Qué gran cosa es, si estás alegre y devoto, cuando viene la gracia de Dios? Esta hora todos la desean.
 
@@ -14,7 +14,7 @@ Y ¿qué maravilla, si no siente carga el que es llevado del Omnipotente, y guia
 
 El mártir San Lorenzo venció al mundo y al afecto que tenía por su sacerdote, porque despreció todo lo que en el mundo parecía deleitable; y sufrió con paciencia, por amor de Cristo, que le fuese quitado Sixto, el Sumo Sacerdote de Dios, a quien él amaba mucho.
 
-Pues así con el amor de Dios venció al amor del hombre, y trocó el acontecimiento humano por el buen placer divino.
+Pues así con el amor de Dios venció al amor del hombre, y trocó el contentamiento humano por el buen placer divino.
 
 Así tú aprende a dejar algún pariente o amigo por amor de Dios; y no te parezca grave cuando te dejare tu amigo, sabiendo que es necesario que nos apartemos al fin unos de otros.
 
@@ -24,13 +24,13 @@ Mas el verdadero amador de Cristo, y estudioso imitador de las virtudes, no se a
 
 4. Así, cuando Dios te diere la consolación espiritual, recíbela con hacimiento de gracias, mas entiende que es don de Dios, y no merecimiento tuyo.
 
-No quieras ensalzarte ni alegrarte demasiado, ni presumir vanamente, mas humíllate por el don recibido, y sé mas avisado y temeroso en todas tus obras: porque se pasará aquella hora y vendrá la tentación.
+No quieras ensalzarte ni alegrarte demasiado, ni presumir vanamente, mas humíllate por el don recibido, y sé más avisado y temeroso en todas tus obras: porque se pasará aquella hora y vendrá la tentación.
 
 Cuando te fuere quitada la consolación, no desesperes luego, mas espera con humildad y paciencia la visitación celestial: porque poderoso es Dios para tornarte mucha mayor consolación.
 
 Esto no es cosa nueva ni ajena de los que han experimentado el camino de Dios; porque en los grandes Santos y antiguos Profetas, acaeció muchas veces esta manera de mudanza.
 
-5. Por esto decía uno cuando tenía presente la gracia: Yo dije en mi abundancia, no sere movido ya para siempre. Y ausente la gracia, añade lo que experimentó en si diciendo:
+5. Por esto decía uno cuando tenía presente la gracia: Yo dije en mi abundancia: no seré movido ya para siempre. Y ausente la gracia, añade lo que experimentó en sí diciendo:
 
 Volviste tu rostro, y fui lleno de turbación.
 
@@ -42,13 +42,13 @@ Y si así se hizo con los grandes Santos, no debemos nosotros, enfermos y pobres
 
 Porque el espíritu se viene y se va, según la divina voluntad. Por eso dice el bienaventurado Job: Visítasle en la mañana, y súbito le pruebas.
 
-6. Pues ¿sobre qué puedo esperar, o en quien debo confiar, sino solamente en la gran misericordia de Dios, y en la esperanza de la gracia celestial?
+6. Pues ¿sobre qué puedo esperar, o en quién debo confiar, sino solamente en la gran misericordia de Dios, y en la esperanza de la gracia celestial?
 
 Pues aunque esté cercado de hombres buenos, o de hermanos devotos, o de amigos fieles, o de libros santos o tratados lindos, o de cantos suaves e himnos, todo aprovecha poco y tiene poco sabor, cuando soy desamparado de la gracia, y dejado en mi propia pobreza.
 
 Entonces no hay mejor remedio que la paciencia, y negándome a mí mismo, ponerme en la voluntad de Dios.
 
-7. Nunca hallé hombre tan religioso y devoro que alguna vez no tuviese apartamiento de la consolación divina o sintiese disminución del fervor.
+7. Nunca hallé hombre tan religioso y devoto que alguna vez no tuviese apartamiento de la consolación divina o sintiese disminución del fervor.
 
 Ningún Santo fue tan altamente arrebatado y alumbrado que antes o después no haya sido tentado.
 

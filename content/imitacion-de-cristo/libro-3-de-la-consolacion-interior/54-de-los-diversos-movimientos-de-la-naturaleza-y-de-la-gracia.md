@@ -14,31 +14,31 @@ Jesucristo:
 
 6. La naturaleza teme la confusión y el desprecio. Pero la gracia se alegra en padecer injurias por el nombre de Jesús.
 
-7. La naturaleza ama el ocio y la quietud corporal. Más la gracia no puede estar ociosa; antes abraza de buena voluntad el trabajo.
+7. La naturaleza ama el ocio y la quietud corporal. Mas la gracia no puede estar ociosa; antes abraza de buena voluntad el trabajo.
 
 8. La naturaleza busca tener cosas curiosas y hermosas, y aborrece las viles y groseras.
 
 Mas la gracia se deleita con cosas llanas y bajas, no desecha las ásperas, ni rehúsa el vestir ropas viejas.
 
-9. La naturaleza mira lo temporal, y se alegra de las ganancias terrenas, se entristece del daño, y enojase con cualquier palabra o injuria. Pero la gracia mira lo eterno, no está pegada a lo temporal, ni se turba cuando la pierde, ni se exaspera con las palabras ofensivas; porque puso su tesoro y gozo en el cielo, donde ninguna cosa perece.
+9. La naturaleza mira lo temporal, y se alegra de las ganancias terrenas, se entristece del daño, y enójase con cualquier palabra o injuria. Pero la gracia mira lo eterno, no está pegada a lo temporal, ni se turba cuando la pierde, ni se exaspera con las palabras ofensivas; porque puso su tesoro y gozo en el cielo, donde ninguna cosa perece.
 
-10. La naturaleza es codiciosa, y de mejor gana toma que da; ama sus cosas propias y particulares. Mas la gracia es piadosa y común para todos, huye la singularidad, contentase con poco, tiene por mayor felicidad el dar que el recibir.
+10. La naturaleza es codiciosa, y de mejor gana toma que da; ama sus cosas propias y particulares. Mas la gracia es piadosa y común para todos, huye la singularidad, conténtase con poco, tiene por mayor felicidad el dar que el recibir.
 
-11. La naturaleza nos inclina a las criaturas, a la propia carne, a la vanidad y a las distracciones. Pero la gracia nos lleva a Dio y a las virtudes, renuncia las criaturas, huye el mundo, aborrece los deseos de la carne, refrena los pasos vanos, avergüénzase de parecer en público.
+11. La naturaleza nos inclina a las criaturas, a la propia carne, a la vanidad y a las distracciones. Pero la gracia nos lleva a Dios y a las virtudes, renuncia las criaturas, huye el mundo, aborrece los deseos de la carne, refrena los pasos vanos, avergüénzase de parecer en público.
 
 12. La naturaleza toma de buena gana cualquier placer exterior en que deleite sus sentidos. Pero la gracia en solo Dios se quiere consolar, y deleitarse en el sumo bien sobre todo lo visible.
 
 13. La naturaleza, cuanto hace, es por su propia utilidad y conveniencia; no puede hacer cosa de balde, sino que espera alcanzar otro tanto o más, o si no, alabanza o favor por el bien que ha hecho; y desea que sean sus obras y sus dádivas muy ponderadas. Mas la gracia ninguna cosa temporal busca, ni quiere otro premio, sino a solo Dios; y de lo temporal no quiere más que cuanto basta para conseguir lo eterno.
 
-14. La naturaleza se complace en sus muchos amigos y parientes, se gloria de su noble nacimiento y distinguido linaje, halaga a los poderosos, lisonjea a los ricos, aplaude a los iguales. Pero la gracia ama aun a los enemigos y no se engríe por los muchos amigos, ni hace caso de propio nacimiento y linaje, si en el no hay mayor virtud.
+14. La naturaleza se complace en sus muchos amigos y parientes, se gloria de su noble nacimiento y distinguido linaje, halaga a los poderosos, lisonjea a los ricos, aplaude a los iguales. Pero la gracia ama aun a los enemigos y no se engríe por los muchos amigos, ni hace caso de propio nacimiento y linaje, si en él no hay mayor virtud.
 
-Favorece más al pobre que al rico; se acomoda mas bien al inocente que al poderoso; se alegra con el veraz, no con el engañoso. Exhorta siempre a los buenos a que aspiren a gracias mejores, y se asemejen al Hijo de Dios por sus virtudes.
+Favorece más al pobre que al rico; se acomoda más bien al inocente que al poderoso; se alegra con el veraz, no con el engañoso. Exhorta siempre a los buenos a que aspiren a gracias mejores, y se asemejen al Hijo de Dios por sus virtudes.
 
 15. La naturaleza luego se queja de la necesidad y del trabajo. Pero la gracia lleva con buen rostro la pobreza.
 
 16. La naturaleza todo lo dirige a sí misma, y por sí pelea y porfía. Mas la gracia todo lo refiere a Dios, de donde originalmente mana, ningún bien se arroga ni se atribuye a sí misma. No porfía, ni prefiere su modo de pensar al de los otros; sino que en todo dictamen y opinión se sujeta a la sabiduría eterna y al divino examen.
 
-17. La naturaleza apetece saber secreto y oír novedades; quiere aparecer en público, y observar mucho por los sentidos; desea ser conocida, y hacer cosas de donde le proceda alabanza y fama. Pero la gracia no cuida de oír cosas nuevas ni curiosas; porque todo esto nace de la corrupción antigua, y no hay cosa nueva ni durable sobre la tierra.
+17. La naturaleza apetece saber secretos y oír novedades; quiere aparecer en público, y observar mucho por los sentidos; desea ser conocida, y hacer cosas de donde le proceda alabanza y fama. Pero la gracia no cuida de oír cosas nuevas ni curiosas; porque todo esto nace de la corrupción antigua, y no hay cosa nueva ni durable sobre la tierra.
 
 Enseña a recoger los sentidos, a huir la vana complacencia y ostentación, esconder humildemente lo que tenga digno de admiración o alabanza, y buscar en todas las cosas y en toda ciencia fruto de utilidad, y alabanza y honra de Dios. No quiere que ella ni sus cosas sean pregonadas; sino que Dios sea glorificado en sus dones, que los da todos con purísimo amor.
 

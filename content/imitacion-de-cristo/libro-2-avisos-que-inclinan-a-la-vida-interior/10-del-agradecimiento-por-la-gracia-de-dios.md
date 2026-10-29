@@ -30,15 +30,13 @@ El enseñado con el don de la gracia y avisado con el escarmiento de haberla per
 
 Da a Dios lo que es de Dios, y atribuye a ti lo que es tuyo: esto es, da gracias a Dios por la gracia y sólo a ti atribuye la culpa, y conoce serte debida por la culpa dignamente la pena.
 
-4. Ponte siempre en lo más bajo, y te se dará lo alto: porque no está lo muy alto sin lo más bajo. Los grandes Santos cerca de Dios, son pequeños cerca de sí; y cuanto más gloriosos, tanto en sí más humildes.
+4. Ponte siempre en lo más bajo, y se te dará lo alto: porque no está lo muy alto sin lo más bajo. Los grandes Santos cerca de Dios, son pequeños cerca de sí; y cuanto más gloriosos, tanto en sí más humildes.
 
 Los llenos de verdad y de gloria celestial, no son codiciosos de gloria vana.
 
 Los que están fundados y confirmados en Dios, en ninguna manera pueden ser soberbios.
 
-Y los que atribuyen a Dios todo cuando bien reciben, no buscan ser loados unos de
-
-otros: mas quieren la gloria que de sólo Dios viene, y codician que sea Dios glorificado sobre todos en Sí mismo, y en todos los Santos, y siempre tienen esto por fin.
+Y los que atribuyen a Dios todo cuanto bien reciben, no buscan ser loados unos de otros: mas quieren la gloria que de sólo Dios viene, y codician que sea Dios glorificado sobre todos en Sí mismo, y en todos los Santos, y siempre tienen esto por fin.
 
 5. Pues sé agradecido en lo poco, y serás digno de recibir cosas mayores.
 

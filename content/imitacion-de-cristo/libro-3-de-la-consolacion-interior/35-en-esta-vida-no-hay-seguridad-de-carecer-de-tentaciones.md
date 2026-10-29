@@ -4,9 +4,7 @@ Jesucristo:
 
 1. Hijo, nunca estás seguro en esta vida; porque mientras vivieres, tienes necesidad de armas espirituales. Entre enemigos andas; a diestra y a siniestra te combaten. Si pues no te vales del escudo de la paciencia a cada instante, no estarás mucho tiempo sin herida.
 
-Demás de esto, si no pones tu corazón fijo en Mí, con pura voluntad de sufrir por Mí todo cuanto viniere, no podrás pasar esta recia batalla, ni alcanzar la palma de los
-
-bienaventurados. Conviénete, pues, romper varonilmente con todo, y pelear con mucho esfuerzo contra lo que viniere. Porque al vencedor se da el maná, y al perezoso le aguarda mucha miseria.
+Demás de esto, si no pones tu corazón fijo en Mí, con pura voluntad de sufrir por Mí todo cuanto viniere, no podrás pasar esta recia batalla, ni alcanzar la palma de los bienaventurados. Conviénete, pues, romper varonilmente con todo, y pelear con mucho esfuerzo contra lo que viniere. Porque al vencedor se da el maná, y al perezoso le aguarda mucha miseria.
 
 2. Si buscas descanso en esta vida, ¿cómo hallarás entonces la eterna bienaventuranza?
 

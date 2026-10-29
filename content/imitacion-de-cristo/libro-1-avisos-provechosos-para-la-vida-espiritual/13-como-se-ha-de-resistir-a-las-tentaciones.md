@@ -2,15 +2,15 @@
 
 1. Mientras en el mundo vivimos no podemos estar sin tribulaciones y tentaciones:
 
-Por lo cual está escrito en Job (, 1): Tentación es la vida del hombre sobre la tierra.
+Por lo cual está escrito en Job (7, 1): Tentación es la vida del hombre sobre la tierra.
 
-Por eso cada uno debería tener mucho cuidado acerca de sus tentaciones y velar en oración, porque no halle el demonio lugar de engañarle, que nunca duerme, sino busca todos lados a quién tragarse. (1 Pedro 5, 8).
+Por eso cada uno debería tener mucho cuidado acerca de sus tentaciones y velar en oración, porque no halle el demonio lugar de engañarle, que nunca duerme, sino busca por todos lados a quién tragarse. (1 Pedro 5, 8).
 
 Ninguno hay tan perfecto ni tan santo que no tenga algunas veces tentaciones, y no podemos vivir sin ellas.
 
-2. Mas las tentaciones son muchas veces utilsimas al hombre, aunque sean graves y pesadas; porque en ellas es uno humillado, purgado y enseñado.
+2. Mas las tentaciones son muchas veces utilísimas al hombre, aunque sean graves y pesadas; porque en ellas es uno humillado, purgado y enseñado.
 
-Todos los Santos por. muchas tribulaciones y tentaciones pasaron; y aprovecharon. Y los que no las quisieron resistir fueron tenidos. por réprobos y sucumbieron.
+Todos los Santos por muchas tribulaciones y tentaciones pasaron; y aprovecharon. Y los que no las quisieron resistir fueron tenidos por réprobos y sucumbieron.
 
 No hay religión tan santa, ni lugar tan secreto, que no haya tentaciones y adversidades.
 
@@ -34,7 +34,7 @@ Porque como la nave sin timón la llevan a una y otra parte las olas, así el ho
 
 El fuego prueba el hierro, y la tentación al hombre justo.
 
-Muchas veces no sabemos .lo que podernos; mas la tentación descubre lo que somos Debemos, pues, velar principalmente al venir la tentación; porque entonces mas fácilmente es vencido el enemigo cuando no le dejamos pasar de la puerta del alma y se le resiste al umbral luego que toca.
+Muchas veces no sabemos lo que podemos; mas la tentación descubre lo que somos. Debemos, pues, velar principalmente al venir la tentación; porque entonces más fácilmente es vencido el enemigo cuando no le dejamos pasar de la puerta del alma y se le resiste al umbral luego que toca.
 
 Por lo cual dijo uno:
 
@@ -52,14 +52,12 @@ Pero otros son molestados casi por toda su vida.
 
 Algunos son tentados blandamente, según la sabiduría y el juicio de la divina Providencia, que mide el estado y los méritos de los hombres, y todo lo tiene ordenado para la salvación de sus escogidos.
 
-7. Por eso no debemos desconfiar cuando somos tentados, sino antes rogar a Dios con mayor fervor que sea servido de ayudarnos en toda tribulación; el cual, sin duda, según el dicho de San Pablo, nos dará, junto con tentación, .tal auxilio, que La podamos resistir
-
-(1 Cor., 10, 13).
+7. Por eso no debemos desconfiar cuando somos tentados, sino antes rogar a Dios con mayor fervor que sea servido de ayudarnos en toda tribulación; el cual, sin duda, según el dicho de San Pablo, nos dará, junto con la tentación, tal auxilio, que la podamos resistir (1 Cor., 10, 13).
 
 Humillemos, pues, nuestras almas debajo de la mano de Dios en toda tribulación y tentación, porque Él salvará y engrandecerá a los humildes de espíritu.
 
 8. En las tentaciones y adversidades se ve cuánto uno ha aprovechado, y en ellas consiste el mayor merecimiento y se conoce mejor la virtud.
 
-No es mucho ser un hombre devoto y fervoroso cuando no siente pesadumbre; mas si en el tiempo de la adversidad se. sufre con paciencia, esperanza es de gran provecho.
+No es mucho ser un hombre devoto y fervoroso cuando no siente pesadumbre; mas si en el tiempo de la adversidad se sufre con paciencia, esperanza es de gran provecho.
 
 Algunos no se rinden a grandes tentaciones, y son vencidos a menudo en las menores y comunes, para que, humillados, nunca confíen de sí en grandes cosas, siendo flacos en las pequeñas.

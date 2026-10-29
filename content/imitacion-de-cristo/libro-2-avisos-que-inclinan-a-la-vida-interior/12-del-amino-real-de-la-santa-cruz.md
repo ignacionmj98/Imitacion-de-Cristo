@@ -1,4 +1,4 @@
-### Capítulo 12. Del amino real de la Santa Cruz
+### Capítulo 12. Del camino real de la Santa Cruz
 
 1. Esta palabra parece dura a muchos: Niégate a ti mismo, toma tu cruz, y sigue a Jesús.
 
@@ -8,7 +8,7 @@ Esta señal de la cruz estará en el cielo, cuando el Señor vendrá a juzgar.
 
 Entonces todos los siervos de la cruz, que se conformaron en la vida con el crucificado, se llegarán a Cristo juez con gran confianza.
 
-2. Pues que así es, por qué tenéis tomar la cruz, por la cual se va al reino?
+2. Pues que así es, ¿por qué temes tomar la cruz, por la cual se va al reino?
 
 En la cruz está la salud, en la cruz la vida, en la cruz está la defensa de los enemigos, en la cruz está la infusión de la suavidad soberana, en la cruz está la fortaleza del corazón, en la cruz está el gozo del espíritu, en la cruz está la suma virtud, en la cruz está la perfección de la santidad.
 
@@ -16,9 +16,9 @@ No está la salud del alma, ni la esperanza de la vida eterna, sino en la cruz.
 
 Toma, pues, tu cruz, y sigue a Jesús, e irás a la vida eterna.
 
-El vino primero, y llevó su cruz y murió en la cruz por ti; porque tú también la lleves, y desees morir en ella.
+Él vino primero, y llevó su cruz y murió en la cruz por ti; porque tú también la lleves, y desees morir en ella.
 
-Porque si murieres juntamente con El, vivirás con El.
+Porque si murieres juntamente con Él, vivirás con Él.
 
 Y si fueres compañero de la pena, lo serás también de la gloria.
 
@@ -32,9 +32,9 @@ Dispón y ordena todas las cosas según tu querer y parecer, y no hallarás sino
 
 Pues, o sentirás dolor en el cuerpo, o padecerás tribulación en el espíritu.
 
-4. A veces te dejará Dios, a veces te perseguirá l prójimo: lo que peor es, muchas veces te descontentarás de ti mismo, y no serás aliviado, ni refrigerado con ningún remedio ni consuelo; mas conviene que sufras hasta cuando Dios quisiere.
+4. A veces te dejará Dios, a veces te perseguirá el prójimo: lo que peor es, muchas veces te descontentarás de ti mismo, y no serás aliviado, ni refrigerado con ningún remedio ni consuelo; mas conviene que sufras hasta cuando Dios quisiere.
 
-Porque quiere Dios que aprendas a sufrir la tribulación sin consuelo, y que te sujetes del todo a El, y te hagas más humilde con la tribulación.
+Porque quiere Dios que aprendas a sufrir la tribulación sin consuelo, y que te sujetes del todo a Él, y te hagas más humilde con la tribulación.
 
 Ninguno siente así de corazón la pasión de Cristo, como aquel a quien acaece sufrir cosas semejantes.
 
@@ -48,7 +48,7 @@ Si contra tu voluntad la llevas, cargaste, y hácestela más pesada: y sin embar
 
 Si desechas una cruz, sin duda hallarás otra, y puede ser que más grave.
 
-6. ¿Piensas tu escapar de lo que ninguno de los mortales pudo?
+6. ¿Piensas tú escapar de lo que ninguno de los mortales pudo?
 
 ¿Quién de los Santos fue en el mundo sin cruz y tribulación? Nuestro Señor Jesucristo por cierto, en cuanto vivió en este mundo, no estuvo una hora sin dolor de pasión.
 
@@ -58,7 +58,7 @@ Pues ¿cómo buscas tú otro camino sino este camino real, que es la vida de la 
 
 7. Toda la vida de Cristo fue cruz y martirio, y tú ¿buscas para ti holganza y gozo?
 
-Yerras, te engañas si buscas otra cosa sino sufrir tribulaciones; porque toda esta vida mortal está llena de miserias, y de toda parte señalada de cruces. Y cuanto más altamente alguno aprovecharé en espíritu, tanto más graves cruces hallará muchas veces, porque la pena de su destierro crece más por el amor.
+Yerras, te engañas si buscas otra cosa sino sufrir tribulaciones; porque toda esta vida mortal está llena de miserias, y de toda parte señalada de cruces. Y cuanto más altamente alguno aprovechare en espíritu, tanto más graves cruces hallará muchas veces, porque la pena de su destierro crece más por el amor.
 
 8. Mas este tal así afligido de tantas maneras, no está sin el alivio de la consolación; porque siente el gran fruto que le crece con llevar su cruz.
 
@@ -66,13 +66,11 @@ Porque cuando se sujeta a ella de su voluntad, toda la carga de la tribulación 
 
 Y cuanto más se quebranta la carne por la aflicción, tanto más se esfuerza el espíritu por la gracia interior.
 
-Y algunas veces tanto es confortado del afecto de la tribulación y adversidad, por el amor y conformidad de la cruz de Cristo, que no quiere estar sin dolor y tribulación:
-
-porque se tiene por más acepto a Dios, cuanto mayores y más graves cosas pudiere sufrir por El.
+Y algunas veces tanto es confortado del afecto de la tribulación y adversidad, por el amor y conformidad de la cruz de Cristo, que no quiere estar sin dolor y tribulación: porque se tiene por más acepto a Dios, cuanto mayores y más graves cosas pudiere sufrir por Él.
 
 Esto no es virtud humana, sino gracia de Cristo, que tanto puede y hace en la carne flaca, que lo que naturalmente siempre aborrece y huye, lo acometa y acabe con fervor de espíritu.
 
-9. No es según la condición humana llevar la cruz, amar la cruz, castigar el cuerpo, ponerle en servidumbre; huir las honras, sufrir de grado las injurias, despreciarse a sí mismo, y desear ser despreciado; sufrir toda cosa adversa y dañosa, y no desear cosa de prosperidad en este mundo. Si miras a ti, no podrás por ti cosa alguna de éstas: mas si confías en Dios, El te enviará fortaleza del cielo, y hará que te estén sujetos el mundo y la carne.
+9. No es según la condición humana llevar la cruz, amar la cruz, castigar el cuerpo, ponerle en servidumbre; huir las honras, sufrir de grado las injurias, despreciarse a sí mismo, y desear ser despreciado; sufrir toda cosa adversa y dañosa, y no desear cosa de prosperidad en este mundo. Si miras a ti, no podrás por ti cosa alguna de éstas: mas si confías en Dios, Él te enviará fortaleza del cielo, y hará que te estén sujetos el mundo y la carne.
 
 Y no temerás al diablo tu enemigo, si estuvieses armado de fe, y señalado con la cruz de Cristo.
 
@@ -82,9 +80,9 @@ Prepárate a sufrir muchas adversidades y diversas incomodidades en esta miserab
 
 Así conviene que sea, y no hay otro remedio para evadirse del dolor y de la tribulación de los males, sino sufrir.
 
-Bebe afectuosamente el cáliz del Señor, si quieres ser su amigo, y tener parte con El.
+Bebe afectuosamente el cáliz del Señor, si quieres ser su amigo, y tener parte con Él.
 
-Remite a Dios las consolaciones, para que haga con ellas lo que más le agradaré.
+Remite a Dios las consolaciones, para que haga con ellas lo que más le agradare.
 
 Pero tú dispónte a sufrir las tribulaciones, y estímalas por grandes consuelos; porque no son condignas las pasiones de este tiempo para merecer la gloria venidera, aunque tú solo pudieses sufrirlas todas.
 
@@ -102,7 +100,7 @@ Todos alaban la paciencia, pero pocos quieren padecer.
 
 Con razón debieras sufrir algo de buena gana por Cristo; pues hay muchos que sufren graves cosas por el mundo.
 
-14. Ten por cierto que te conviene morir viviendo; y cuanto más muere cada uno a sí mismo, tanto más comienza vivir para Dios.
+14. Ten por cierto que te conviene morir viviendo; y cuanto más muere cada uno a sí mismo, tanto más comienza a vivir para Dios.
 
 Ninguno es suficiente para comprender cosas celestiales, si no se humilla a sufrir adversidades por Cristo.
 

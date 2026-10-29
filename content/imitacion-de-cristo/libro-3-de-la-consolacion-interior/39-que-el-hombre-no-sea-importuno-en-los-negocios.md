@@ -12,6 +12,6 @@ El Alma:
 
 Jesucristo:
 
-3. Hijo, muchas veces el hombre negocia con ahínco lo que desea; mas cuando ya lo alcanza, comienza a pensar de otro modo, porque las aflicciones no duran mucho cerca de una misma cosa; sino que nos llevan de una cosa a otra. Por lo cual no es poco dejarse a sí mismo, aun en las cosas pequeñas.
+3. Hijo, muchas veces el hombre negocia con ahínco lo que desea; mas cuando ya lo alcanza, comienza a pensar de otro modo, porque las afecciones no duran mucho cerca de una misma cosa; sino que nos llevan de una cosa a otra. Por lo cual no es poco dejarse a sí mismo, aun en las cosas pequeñas.
 
 4. El verdadero aprovechar es negarse a sí mismo; y el hombre negado a sí es muy libre y está seguro. Mas el enemigo antiguo y adversario de todos los buenos, no cesa de tentar; sino que de día y de noche pone graves asechanzas para precipitar, si pudiere, al incauto en el lazo del engaño. Velad y orad, dice el Señor, para que no entréis en tentación.
