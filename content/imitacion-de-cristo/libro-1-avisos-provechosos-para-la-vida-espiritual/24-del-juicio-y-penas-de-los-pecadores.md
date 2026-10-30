@@ -16,7 +16,7 @@ Por cierto nos engañamos a nosotros mismos por el amor desordenado que tenemos 
 
 3. ¿En qué otra cosa se cebará aquel fuego sino en tus pecados?
 
-Cuando más te perdonas ahora a ti mismo, y sigues a la carne, tanto más gravemente serás después atormentado, pues guardarás mayor materia para quemarte.
+Cuanto más te perdonas ahora a ti mismo, y sigues a la carne, tanto más gravemente serás después atormentado, pues guardarás mayor materia para quemarte.
 
 En lo mismo que más peca el hombre será más gravemente castigado. Allí los perezosos serán punzados con los aguijones ardientes, y los golosos serán atormentados con gravísima hambre y sed.
 
@@ -72,7 +72,7 @@ De verdad no puedes tener dos gozos, deleitarte en este mundo, y después reinar
 
 Si hasta ahora hubieses vivido en honores y deleites, y te llegase la muerte, ¿qué te aprovecharía todo lo pasado?
 
-Todo, pues, es vanidad, sino amar a Dios, y servirle a El solo.
+Todo, pues, es vanidad, sino amar a Dios, y servirle a Él solo.
 
 Porque los que aman a Dios de todo corazón, no temen la muerte, ni el tormento, ni el juicio, ni el infierno; pues el amor perfecto tiene segura entrada para Dios.
 

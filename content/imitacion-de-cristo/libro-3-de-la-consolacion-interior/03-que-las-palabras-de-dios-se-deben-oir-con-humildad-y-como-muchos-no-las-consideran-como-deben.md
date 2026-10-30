@@ -12,7 +12,7 @@ El Alma:
 
 Jesucristo:
 
-3. Yo, dice Dios, enseñaré a los Profetas desde el principio, y no ceso de hablar a todos hasta ahora, pero muchos son duros y sordos a mi voz.
+3. Yo, dice Dios, enseñé a los Profetas desde el principio, y no ceso de hablar a todos hasta ahora, pero muchos son duros y sordos a mi voz.
 
 Oyen con más gusto al mundo que a Dios; y más fácilmente siguen el apetito de su carne, que el beneplácito divino.
 
@@ -26,7 +26,7 @@ Por un pequeño beneficio van los hombres largo camino, y por la vida eterna con
 
 Buscan los hombres viles ganancias; por una moneda pleitean a las veces torpemente; por cosas vanas, y por una corta promesa no temen fatigarse de noche y de día.
 
-4. Mas ¡ay dolor! que emperezan de fatigarse un poco por el bien que no se muda, por el galardón que inestimable, y por la suma gloria sin fin.
+4. Mas ¡ay dolor! que emperezan de fatigarse un poco por el bien que no se muda, por el galardón que es inestimable, y por la suma gloria sin fin.
 
 Avergüénzate, pues, siervo perezoso y descontentadizo, de que aquellos se hallen más dispuestos para la perdición que tú para la vida.
 

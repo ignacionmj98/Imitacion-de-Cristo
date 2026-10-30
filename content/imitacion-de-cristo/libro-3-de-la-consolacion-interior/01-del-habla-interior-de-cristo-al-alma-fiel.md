@@ -1,6 +1,6 @@
 ### Capítulo 1. Del habla interior de Cristo al alma fiel
 
-El alma:
+El Alma:
 
 1. Oiré lo que habla el Señor Dios en mí.
 

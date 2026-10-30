@@ -12,12 +12,12 @@ Si no puedes hacerte a ti cual deseas, ¿cómo quieres tener a otro a la medida 
 
 3. Queremos que los otros sean castigados con rigor, y nosotros no queremos ser corregidos.
 
-Parécenos mal si a 1os otros se les da larga licencia, y nosotros no queremos que cosa que pedimos se nos niegue.
+Parécenos mal si a los otros se les da larga licencia, y nosotros no queremos que cosa que pedimos se nos niegue.
 
 Queremos que los demás estén sujetos a las ordenanzas, pero nosotros no sufrimos que nos sea prohibida cosa alguna. Así parece claro cuán pocas veces amamos al prójimo como a nosotros mismos.
 
-Si todos fuesen perfectos, ¿qué teníamos que sufrir por Dios de nuestros hermanos?
+Si todos fuesen perfectos, ¿qué tendríamos que sufrir por Dios de nuestros hermanos?
 
-4. Pero así lo ordenó Dios para que aprendamos a Llevar recíprocamente nuestras cargas (Gal, 6, 2}; porque ninguno hay sin ellas, ninguno sin defecto, ninguno es suficiente ni cumplidamente sabio para sí; antes importa llevarnos, consolarnos y juntamente ayudarnos unos a otros, instruirnos y amonestarnos.
+4. Pero así lo ordenó Dios para que aprendamos a llevar recíprocamente nuestras cargas (Gal., 6, 2); porque ninguno hay sin ellas, ninguno sin defecto, ninguno es suficiente ni cumplidamente sabio para sí; antes importa llevarnos, consolarnos y juntamente ayudarnos unos a otros, instruirnos y amonestarnos.
 
 De cuánta virtud sea cada uno, mejor se descubre en la ocasión de la adversidad. Porque las ocasiones no hacen al hombre flaco, pero declaran lo que es.

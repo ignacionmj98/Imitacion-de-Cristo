@@ -1,6 +1,6 @@
 ### Capítulo 25. De la fervorosa enmienda de toda nuestra vida
 
-1. Vela con mucha diligencia en el servicio de Dios, y piensa de ordinario a que viniste, y por qué dejaste el mundo.
+1. Vela con mucha diligencia en el servicio de Dios, y piensa de ordinario a qué viniste, y por qué dejaste el mundo.
 
 ¿No es por ventura con el fin de vivir para Dios, y ser hombre espiritual?
 
@@ -18,11 +18,11 @@ Y en aquel punto, consolado y confortado, se ofreció a la divina voluntad, y ce
 
 Y no quiso escudriñar curiosamente para saber lo que le había de suceder, sino que anduvo con mucho cuidado de saber lo que fuese la voluntad de Dios, y a sus divinos ojos más agradable y perfecto, para comenzar y perfeccionar toda buena obra.
 
-3. El Profeta dice: Espera en el Señor, y has bondad, y habita en la tierra, y serás apacentado en sus riquezas. Detiene a muchos el fervor de su aprovechamiento, el espanto de la dificultad, o el trabajo de la pelea.
+3. El Profeta dice: Espera en el Señor, y haz bondad, y habita en la tierra, y serás apacentado en sus riquezas. Detiene a muchos del fervor de su aprovechamiento el espanto de la dificultad, o el trabajo de la pelea.
 
 Ciertamente aprovechan más en las virtudes, aquellos que más varonilmente ponen todas sus fuerzas para vencer las que les son más graves y contrarias.
 
-Porque allí aprovecha el hombre más y alcanza mayor gracia, adonde más se vence, a sí mismo y se mortifica el espíritu.
+Porque allí aprovecha el hombre más y alcanza mayor gracia, adonde más se vence a sí mismo y se mortifica el espíritu.
 
 4. Pero no todos tienen igual ánimo para vencer y mortificarse.
 
@@ -40,17 +40,17 @@ Así como tú miras a los otros, así los otros te miran a ti.
 
 ¡Oh! ¡Cuán alegre y dulce cosa es ver los devotos y fervorosos hermanos, con santas costumbres y observante disciplina!
 
-¡Cuán triste y penoso es verlos andar desordenados, y qué no hacen aquello a que son llamados por su vocación!
+¡Cuán triste y penoso es verlos andar desordenados, y que no hacen aquello a que son llamados por su vocación!
 
 ¡Oh! ¡Cuán dañoso es ser negligentes en el propósito de su llamamiento, y ocuparse en lo que no les mandan!
 
 6. Acuérdate de la profesión que tomaste, y propónte por modelo al Crucificado.
 
-Bien puedes avergonzarte mirando la vida de Jesucristo; porque aún no estudiaste a conformarte más con El, aunque ha muchos años que estás en el camino de Dios.
+Bien puedes avergonzarte mirando la vida de Jesucristo; porque aún no estudiaste a conformarte más con Él, aunque ha muchos años que estás en el camino de Dios.
 
 El religioso que se ejercita intensa y devotamente en la santísima vida y pasión del Señor, halla allí todo lo útil y necesario cumplidamente para sí; y no hay necesidad que busque cosa mejor fuera de Jesús.
 
-¡Oh! ¡Si viniese a nuestro corazón Jesús crucificado, cuán presto y cumplidamente seríamos enseñados.
+¡Oh! ¡Si viniese a nuestro corazón Jesús crucificado, cuán presto y cumplidamente seríamos enseñados!
 
 7. El fervoroso religioso acepta todo lo que le mandan, y lo lleva muy bien.
 
@@ -76,7 +76,7 @@ Entonces serías mucho más dichoso que ahora cuando sirves a la necesidad de la
 
 10. Cuando el hombre llega al punto de no buscar su consuelo en ninguna criatura, entonces comienza a gustar de Dios perfectamente y está contento con todo lo que le sucede.
 
-Entonces ni se alegra mucho, ni se entristece por lo poco; mas pónese entera y fielmente en Dios, el cual le es todo en todas las cosas, para quien ninguna perece ni muere, sino que todas viven y le sirven sin tardanza.
+Entonces ni se alegra por lo mucho, ni se entristece por lo poco; mas pónese entera y fielmente en Dios, el cual le es todo en todas las cosas, para quien ninguna perece ni muere, sino que todas viven y le sirven sin tardanza.
 
 11. Acuérdate siempre del fin, y que el tiempo perdido jamás vuelve. Nunca alcanzarás las virtudes sin cuidado y diligencia.
 
@@ -90,6 +90,6 @@ Mayor trabajo es resistir a los vicios y pasiones, que sudar en los trabajos cor
 
 El que no evita los defectos pequeños, poco a poco cae en los grandes.
 
-Te alegrarás siempre a la noche, si gastares, bien el día.
+Te alegrarás siempre a la noche, si gastares bien el día.
 
 Vela sobre ti; despiértate a ti; amonéstate a ti; y sea de los otros lo que fuere, no te descuides de ti. Tanto aprovecharás, cuanto más fuerza te hicieres. Amén.

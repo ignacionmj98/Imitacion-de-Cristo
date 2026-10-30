@@ -16,9 +16,9 @@ Mas como mejor pudieres y entendieres, haz de buena gana cuanto está en ti, sin
 
 Porque no está siempre en la mano del hombre su camino, sino que a Dios pertenece el dar y consolar cuando quiere y cuanto quiere, y a quien quiere, según le agradare, y no más.
 
-Algunos indiscretos de destruyeron a si mismos por la gracia de la devoción; porque quisieron hacer más de lo que pudieron, no mirando la medida de su pequeñez, y siguiendo más el deseo de su corazón que el juicio de la razón. Y porque se atrevieron a mayores cosas que Dios quería, por esto perdieron pronto la gracia.
+Algunos indiscretos se destruyeron a sí mismos por la gracia de la devoción; porque quisieron hacer más de lo que pudieron, no mirando la medida de su pequeñez, y siguiendo más el deseo de su corazón que el juicio de la razón. Y porque se atrevieron a mayores cosas que Dios quería, por esto perdieron pronto la gracia.
 
-Se hallaron pobres, y quedaron viles los que pusieron en el cielo su nido, para que humillados y empobrecidos a prendan a no volar con sus alas, sino a esperar debajo de las mías.
+Se hallaron pobres, y quedaron viles los que pusieron en el cielo su nido, para que humillados y empobrecidos aprendan a no volar con sus alas, sino a esperar debajo de las mías.
 
 Los que aún son nuevos e inexpertos en el camino del Señor, si no se gobiernan por el consejo de discretos, fácilmente pueden ser engañados y perderse.
 
@@ -32,9 +32,7 @@ Más te vale tener poco, que mucho con que te puedes ensoberbecer.
 
 No obra discretamente el que se entrega todo a la alegría, olvidando su primitiva miseria y el casto temor del Señor, que recela perder la gracia concedida.
 
-No tampoco sabe mucho de virtud el que en tiempo de adversidad y de cualquiera
-
-molestia de desanima demasiado, y no piensa ni siente de Mí con la debida confianza.
+No tampoco sabe mucho de virtud el que en tiempo de adversidad y de cualquiera molestia se desanima demasiado, y no piensa ni siente de Mí con la debida confianza.
 
 4. El que quisiere estar muy seguro en tiempo de paz, se encontrará abatido y temeroso en tiempo de guerra.
 
@@ -46,6 +44,6 @@ Cuando esto acaeciere, piensa que otra vez puede volver la luz, que para tu segu
 
 5. Más aprovecha muchas veces esta prueba, que si tuvieses de continuo a tu voluntad las cosas que deseas.
 
-Porque los merecimientos no se han de calificas por tener muchas visiones o consolaciones, o porque sea uno entendido en la Escritura, o por estar levantado en dignidad más alta.
+Porque los merecimientos no se han de calificar por tener muchas visiones o consolaciones, o porque sea uno entendido en la Escritura, o por estar levantado en dignidad más alta.
 
 Sino que consiste en estar fundado en verdadera humildad y lleno de caridad divina, en buscar siempre pura y enteramente la honra de Dios, en reputarse a sí mismo por nada, y verdaderamente despreciarse, y en desear más ser abatido y despreciado, que honrado de otros.

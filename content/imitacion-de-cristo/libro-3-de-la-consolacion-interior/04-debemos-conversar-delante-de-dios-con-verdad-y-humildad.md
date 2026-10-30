@@ -6,7 +6,7 @@ Jesucristo:
 
 El que anda en mi presencia en verdad será defendido de los malos encuentros, y la verdad le librará de los engañadores, y de las murmuraciones de los malvados.
 
-Si la verdad te librare, serás verdaderamente libre, y no cuidarás d las palabras vanas de los hombres.
+Si la verdad te librare, serás verdaderamente libre, y no cuidarás de las palabras vanas de los hombres.
 
 El Alma:
 
@@ -24,7 +24,7 @@ En verdad eres pecador, sujeto y enredado en muchas pasiones.
 
 Por ti siempre vas a la nada; pronto caes, pronto eres vencido, presto te turbas, y presto desfalleces. Nada tienes de que puedas alabarte; pero mucho de que humillarte; porque eres más flaco de lo que puedes pensar.
 
-4.Por eso, no te parezca gran cosa, alguna de cuantas haces.
+4. Por eso, no te parezca gran cosa alguna de cuantas haces.
 
 Nada tengas por grande, nada por precioso y admirable; nada estimes por digno de reputación, nada por alto, nada por verdaderamente de alabar y codiciar sino lo que es eterno.
 

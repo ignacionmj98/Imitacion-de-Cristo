@@ -2,7 +2,7 @@
 
 El Alma:
 
-1. Señor, ¿qué es el hombre para que te acuerdes de él, o el hijo del hombre para que le visites? ¿Qué ha merecido el hombre para que le dieses tu gracia? Señor, ¿de qué me puedo quejar si me desamparas? ¿cómo justamente podré contender contigo, si no hicieres lo que pido? Por cierto, una cosa puedo yo pensar y decir con verdad: Nada soy, Señor, nada puedo, nada bueno tengo de mí; mas en todo me hallo vacío, y camino siempre a la nada. Y si ni soy ayudado e instruido interiormente por Ti, me vuelvo enteramente tibio y disipado.
+1. Señor, ¿qué es el hombre para que te acuerdes de él, o el hijo del hombre para que le visites? ¿Qué ha merecido el hombre para que le dieses tu gracia? Señor, ¿de qué me puedo quejar si me desamparas? ¿cómo justamente podré contender contigo, si no hicieres lo que pido? Por cierto, una cosa puedo yo pensar y decir con verdad: Nada soy, Señor, nada puedo, nada bueno tengo de mí; mas en todo me hallo vacío, y camino siempre a la nada. Y si no soy ayudado e instruido interiormente por Ti, me vuelvo enteramente tibio y disipado.
 
 2. Mas Tú, Señor, eres siempre el mismo, y permaneces eternamente, siempre bueno, justo y santo, haciendo todas las cosas bien, justa y santamente, y ordenándolas con sabiduría. Pero yo, que soy más inclinado a caer que aprovechar, no persevero siempre en un estado, y me mudo siete veces al día. Mas luego me va mejor cuando te dignas alargarme tu mano auxiliadora; porque Tú solo, sin humano favor, me puedes socorrer y fortalecer, de manera que a Ti solo se convierta y en Ti descanse mi corazón.
 

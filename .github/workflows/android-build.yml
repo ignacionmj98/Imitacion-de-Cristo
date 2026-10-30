@@ -33,6 +33,10 @@ jobs:
 
       - name: Set up Android SDK
         uses: android-actions/setup-android@v3
+        with:
+          # El default ("tools platform-tools") falla: el paquete "tools"
+          # ya no existe en el repositorio del SDK. Gradle descarga el resto.
+          packages: platform-tools
 
       - name: Sync Capacitor Android project
         run: npx cap sync android

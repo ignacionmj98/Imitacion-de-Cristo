@@ -28,7 +28,7 @@ Bienaventurado el que tiene siempre la hora de la muerte delante de sus ojos y s
 
 Si has visto alguna vez morir un hombre, piensa que por aquella carrera has de pasar.
 
-3. Cuando fuere de mañana, piensa que no llegarás a la noche, no te atrevas a prometer ver la mañana.
+3. Cuando fuere de mañana, piensa que no llegarás a la noche; y cuando fuere de noche, no te atrevas a prometer ver la mañana.
 
 Por eso está siempre prevenido, y vive de tal manera, que nunca te halle la muerte desapercibido.
 
@@ -64,13 +64,13 @@ Castiga ahora tu cuerpo con penitencia, porque entonces puedas tener confianza c
 
 7. ¡Oh necio! ¿Por qué piensas vivir mucho, no teniendo un día seguro?
 
-Cuántos que pensaban vivir mucho, se han engañado, y han sido separados del cuerpo cuando no lo esperaban!
+¡Cuántos que pensaban vivir mucho, se han engañado, y han sido separados del cuerpo cuando no lo esperaban!
 
-¿Cuántas veces oíste contar que uno murió a cuchillo, otro se ahogó, otro cayó de alto y se quebró la cabeza, otro comiendo se quedo pasmado, a otro jugando le vino su fin?
+¿Cuántas veces oíste contar que uno murió a cuchillo, otro se ahogó, otro cayó de alto y se quebró la cabeza, otro comiendo se quedó pasmado, a otro jugando le vino su fin?
 
 Uno murió con fuego, otro con hierro, otro de peste, otro pereció a manos de ladrones; y así la muerte es fenecimiento de todos, y la vida de los hombres se pasa como sombra rápidamente.
 
-8.¿Quién se acordará de ti, y quién rogará por ti después de muerto?
+8. ¿Quién se acordará de ti, y quién rogará por ti después de muerto?
 
 Haz ahora, hermano, lo que pudieres; que no sabes cuándo morirás, ni lo que acaecerá después de la muerte.
 
@@ -82,6 +82,6 @@ Nada pienses fuera de tu salvación, y cuida solamente de las cosas de Dios. Gra
 
 Guarda tu corazón libre y levantado a Dios, porque aquí no tienes domicilio permanente.
 
-A El dirige tus oraciones y gemidos cada día con lágrimas, porque merezca tu espíritu, después de la muerte, pasar dichosamente al descanso del Señor.
+A Él dirige tus oraciones y gemidos cada día con lágrimas, porque merezca tu espíritu, después de la muerte, pasar dichosamente al descanso del Señor.
 
 Amén.

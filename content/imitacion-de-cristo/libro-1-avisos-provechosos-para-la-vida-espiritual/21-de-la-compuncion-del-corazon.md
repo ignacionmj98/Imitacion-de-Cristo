@@ -2,7 +2,7 @@
 
 1. Si quieres aprovechar algo, consérvate en el temor de Dios, y no quieras ser demasiado libre; mas con severidad refrena todos tus sentidos y no te entregues a vanos contentos.
 
-Date a la compunción del corazón, y te hallarás devoro.
+Date a la compunción del corazón, y te hallarás devoto.
 
 La compunción causa muchos bienes, que la disolución suele perder en breve.
 
@@ -30,4 +30,4 @@ Muy útil y seguro es que el hombre no tenga en esta vida muchas consolaciones, 
 
 Materia de justo dolor y entrañable contrición son nuestros pecados y vicios, en que estamos tan caídos, que pocas veces podemos contemplar las cosas celestiales.
 
-5. Si continuamente pensases más en tu muerte que en vivir largo tiempo, no hay duda que te enmendarías con mayor fervor. Si pensases también de todo corazón en las penas futuras del infierno, o del purgatorio, creo que de buena gana sufrirías cualquier trabajo y dolor, y no temerías ninguna austeridad; pero como estas cosas o pasan al corazón y amamos siempre el regalo, permanecemos demasiadamente fríos y perezosos. Muchas veces por falta de espíritu se queja el recuerdo miserable. Ruega, pues, con humildad al Señor que te dé espíritu de contrición, y di con el profeta: Dame, Señor, a comer el pan de lágrimas, y a beber en abundancia el agua de mis lloros.
+5. Si continuamente pensases más en tu muerte que en vivir largo tiempo, no hay duda que te enmendarías con mayor fervor. Si pensases también de todo corazón en las penas futuras del infierno, o del purgatorio, creo que de buena gana sufrirías cualquier trabajo y dolor, y no temerías ninguna austeridad; pero como estas cosas no pasan al corazón y amamos siempre el regalo, permanecemos demasiadamente fríos y perezosos. Muchas veces por falta de espíritu se queja el cuerpo miserable. Ruega, pues, con humildad al Señor que te dé espíritu de contrición, y di con el profeta: Dame, Señor, a comer el pan de lágrimas, y a beber en abundancia el agua de mis lloros.

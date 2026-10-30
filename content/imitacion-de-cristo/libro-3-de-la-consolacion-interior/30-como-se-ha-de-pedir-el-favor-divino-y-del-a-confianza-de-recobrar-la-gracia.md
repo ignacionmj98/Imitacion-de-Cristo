@@ -1,4 +1,4 @@
-### Capítulo 30. Cómo se ha de pedir el favor divino, y del a confianza de recobrar la gracia
+### Capítulo 30. Cómo se ha de pedir el favor divino, y de la confianza de recobrar la gracia
 
 Jesucristo:
 
@@ -10,7 +10,7 @@ Jesucristo:
 
 Vana cosa es y sin provecho entristecerse o alegrarse de lo venidero, que quizás nunca acaecerá.
 
-3. Pero es propio de la humana flaqueza engañarse con tales imaginaciones; y también es señal de poco ánimo dejarse burlar tan ligeramente del enemigo. Pues el que no cuida que sea verdadero o falso aquello con que nos burla o engaña; o si derribará con el amor de lo presente, o con el temor de lo futuro. No se turbe, pues, ni tema tu corazón. Cree en Mí, y ten confianza en mi misericordia. Cuando piensas que estás lejos de Mí, estoy más cerca de ti regularmente. Cuando piensas que está todo casi perdido, entonces muchas veces está cerca la ganancia del merecer. No está todo perdido cuando alguna cosa te sucede contraria. No debes juzgar como sientes ahora, ni embarazarte ni acongojarte con cualquier contrariedad que te venga, como si no hubiese esperanza de remedio.
+3. Pero es propio de la humana flaqueza engañarse con tales imaginaciones; y también es señal de poco ánimo dejarse burlar tan ligeramente del enemigo. Pues él no cuida que sea verdadero o falso aquello con que nos burla o engaña; o si derribará con el amor de lo presente, o con el temor de lo futuro. No se turbe, pues, ni tema tu corazón. Cree en Mí, y ten confianza en mi misericordia. Cuando piensas que estás lejos de Mí, estoy más cerca de ti regularmente. Cuando piensas que está todo casi perdido, entonces muchas veces está cerca la ganancia del merecer. No está todo perdido cuando alguna cosa te sucede contraria. No debes juzgar como sientes ahora, ni embarazarte ni acongojarte con cualquier contrariedad que te venga, como si no hubiese esperanza de remedio.
 
 4. No te tengas por desamparado del todo, aunque te envíe a tiempos alguna tribulación, o te prive del consuelo deseado; porque de este modo se llega al reino de los cielos. Y sin duda te conviene más a ti, y a los demás siervos míos, ser ejercitados en adversidades, que si todo os sucediese a vuestro gusto. Yo penetro los secretos; y sé que te conviene mucho para tu bien, que algunas veces te deje desconsolado; para que no te ensoberbezcas en los sucesos prósperos, ni quieras complacerte en ti mismo por lo que no eres. Lo que yo te di, te lo puedo quitar, y volvértelo cuando me agradare.
 
